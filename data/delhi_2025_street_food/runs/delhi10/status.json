@@ -1,0 +1,16 @@
+{
+  "target": 10,
+  "verified": 2,
+  "next_review": {
+    "rank": 5,
+    "video_id": "fclfUFr2GiQ",
+    "watch_url": "https://www.youtube.com/watch?v=fclfUFr2GiQ"
+  },
+  "prepared": [
+    "ZmBfCcLxi2c"
+  ],
+  "coded": [
+    "oEEO85utSZs"
+  ],
+  "analysis_draw": "delhi10_prefix2"
+}

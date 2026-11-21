@@ -1,0 +1,119 @@
+{
+  "type": "object",
+  "properties": {
+    "setting": {
+      "type": "string",
+      "enum": [
+        "street_stall",
+        "restaurant_interior",
+        "other_public_space",
+        "other_setting",
+        "unclear"
+      ]
+    },
+    "shot": {
+      "type": "string",
+      "enum": [
+        "food_or_hands_closeup",
+        "person_closeup",
+        "people_and_surroundings",
+        "wide_setting",
+        "other",
+        "unclear"
+      ]
+    },
+    "service_area": {
+      "type": "string",
+      "enum": [
+        "at_vendor",
+        "customer_side",
+        "elsewhere",
+        "unclear"
+      ]
+    },
+    "quality": {
+      "type": "string",
+      "enum": [
+        "countable",
+        "partial",
+        "unreadable"
+      ]
+    },
+    "n_enumerated": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "evidence": {
+      "type": "string"
+    },
+    "sightings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "person_id": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "worker",
+              "patron",
+              "other",
+              "unclear"
+            ]
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "woman",
+              "man",
+              "gender_unclear",
+              "younger_child",
+              "age_unclear"
+            ]
+          },
+          "activity": {
+            "type": "string",
+            "enum": [
+              "preparing_serving",
+              "ordering_paying_collecting",
+              "eating_drinking",
+              "queuing",
+              "presenting",
+              "passing",
+              "standing_sitting",
+              "other",
+              "unclear"
+            ]
+          },
+          "cue": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "person_id",
+          "role",
+          "group",
+          "activity",
+          "cue"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "setting",
+    "shot",
+    "service_area",
+    "quality",
+    "n_enumerated",
+    "evidence",
+    "sightings"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,7 @@
+video_id,interval,rank,requested_ms,jpeg,sha256,setting,shot,service_area,quality,n_enumerated,evidence,reviewer,review_date
+ZmBfCcLxi2c,0,2,38406,i0_r2.jpg,5a9be883f39f15ad4ec596f7ca92b3ced3f11a0852aaca8a401fc90524d24558,,,,,,,,
+ZmBfCcLxi2c,0,1,111955,i0_r1.jpg,d49e2a9e101790b21359da8eb27b9a6837142c01d057c88f3096833f1c7884b9,,,,,,,,
+ZmBfCcLxi2c,1,1,254993,i1_r1.jpg,877fa11696fb3e851e7c640ba87f9cd74a6bb4a11cedd5c390fea6e7f160bcdf,,,,,,,,
+ZmBfCcLxi2c,1,2,329205,i1_r2.jpg,fffa9b9eec16d94030021bae082e7f775cfbadbaa710ec614532dd81d9333155,,,,,,,,
+ZmBfCcLxi2c,2,1,450720,i2_r1.jpg,3dc53e5bfa8842d93b57142ba5bcf91aebe79400bd4e3e12afdca95b0ec613cd,,,,,,,,
+ZmBfCcLxi2c,2,2,533588,i2_r2.jpg,ffcf49a78e77a757edb923fef8cafde37b383b55aa6015c3d8d10c86ffc6a2b7,,,,,,,,

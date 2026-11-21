@@ -186,7 +186,7 @@ def browser_extract(folder, vid, seed, n, api_duration, reserve):
     from chrome_frames import capture, duration_seconds, player, watch
 
     with player() as page:
-        video, duration = watch(page, vid, duration_seconds(api_duration))
+        duration = watch(page, vid, duration_seconds(api_duration))
         dest = folder / "plan.json"
         if dest.exists():
             plan = json.loads(dest.read_text())
@@ -225,13 +225,16 @@ def browser_extract(folder, vid, seed, n, api_duration, reserve):
         for moment in sorted(plan["moments"], key=lambda m: m["requested_ms"]):
             room(folder, reserve, 8 * MIB)
             name = f"i{moment['interval']}_r{moment['rank']}.jpg"
-            elapsed = capture(video, moment["requested_ms"] / 1000, folder / name)
+            elapsed = capture(
+                page, vid, duration, moment["requested_ms"] / 1000, folder / name
+            )
             frames.append(
                 {
                     **moment,
                     "file": name,
                     "sha256": sha(folder / name),
                     "player_time_s": elapsed,
+                    "browser_session": "attached_premium",
                     "pts": None,
                     "time_base": None,
                 }

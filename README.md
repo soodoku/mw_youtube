@@ -22,7 +22,7 @@ Each returned row has typed timing and count fields, stable video and channel ID
 
 ## Run Delhi
 
-With Google Chrome installed, the following command resumes the verified prefix of the ten-video draw. It saves the next unresolved rank in `runs/delhi10/status.json`. Without a spending cap it prepares images and blind worksheets and reuses completed annotations. See the design for the shared-ledger option for new Muse calls.
+Open `chrome://inspect/#remote-debugging` in your signed-in YouTube Premium Chrome profile, enable remote debugging, and allow the connection when Chrome asks. If Chrome shows a port other than 9222, set `MW_YOUTUBE_CHROME_PORT` to that number. The runner opens its own watch tab, checks the Premium logo, and closes that tab after capture. The following command resumes the verified prefix of the ten-video draw. It saves the next unresolved rank in `runs/delhi10/status.json`. Without a spending cap it prepares images and blind worksheets and reuses completed annotations. See the design for the shared-ledger option for new Muse calls.
 
 ```sh
 uv run --with-requirements requirements-frames.txt python scripts/run_draw.py \

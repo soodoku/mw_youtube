@@ -1,0 +1,76 @@
+{
+  "version": "stall-frame-v3",
+  "model": "muse-spark-1.3-contributor",
+  "frame_fields": [
+    "setting",
+    "shot",
+    "service_area",
+    "quality"
+  ],
+  "person_fields": [
+    "role",
+    "group",
+    "activity"
+  ],
+  "categories": {
+    "setting": {
+      "street_stall": "Street-facing food counter, cart or open-air stand; visible access from the street or public market.",
+      "restaurant_interior": "Indoor restaurant dining room or indoor service counter.",
+      "other_public_space": "Street, transit or other public space with no identifiable food venue in view.",
+      "other_setting": "Identifiable different setting, such as a home, studio, or slide.",
+      "unclear": "Crop or ambiguous cues prevent identifying the setting."
+    },
+    "shot": {
+      "food_or_hands_closeup": "Food, utensils or hands dominate the composition.",
+      "person_closeup": "One or more people dominate and little surrounding space is visible.",
+      "people_and_surroundings": "People and the surrounding counter, table or street are both prominent.",
+      "wide_setting": "The physical setting dominates; people, if any, are incidental.",
+      "other": "Graphics or another identifiable composition.",
+      "unclear": "Cannot tell what the shot emphasizes."
+    },
+    "service_area": {
+      "at_vendor": "The focal action is at or immediately behind the preparation or service point.",
+      "customer_side": "The focal action is at a visibly linked table, queue, or pickup area.",
+      "elsewhere": "The focal action is visibly away from the preparation and customer areas.",
+      "unclear": "The spatial relationship is ambiguous or the location is tightly cropped."
+    },
+    "quality": {
+      "countable": "All distinguishable people can be enumerated, including zero.",
+      "partial": "Occlusion or crowding prevents a complete enumeration; retain countable sightings as a lower bound.",
+      "unreadable": "The frame provides no usable visual evidence; record zero sighting rows and missing counts."
+    },
+    "role": {
+      "worker": "Visibly preparing, selling, or serving food for the venue.",
+      "patron": "Visibly ordering, paying, collecting, eating or queuing at the food venue.",
+      "other": "Clearly outside these roles, including unrelated passersby.",
+      "unclear": "Standing nearby, ambiguous setting, or insufficient evidence of a link to the stall."
+    },
+    "group": {
+      "woman": "Adolescent/adult coded visually as a woman.",
+      "man": "Adolescent/adult coded visually as a man.",
+      "gender_unclear": "Adolescent/adult whose apparent gender cannot be classified.",
+      "younger_child": "Clearly a younger child; counted separately.",
+      "age_unclear": "Age eligibility for the adolescent/adult count is unclear."
+    },
+    "activity": {
+      "preparing_serving": "Preparing, displaying, selling, or handing food to customers.",
+      "ordering_paying_collecting": "Ordering, paying or receiving food.",
+      "eating_drinking": "Visibly eating or drinking.",
+      "queuing": "Visibly in a service queue.",
+      "presenting": "Addressing or demonstrating to the camera.",
+      "passing": "Moving through the scene without a visible service interaction.",
+      "standing_sitting": "Standing or sitting without a more specific visible activity.",
+      "other": "A different discernible activity.",
+      "unclear": "Action cannot be determined from the still."
+    }
+  },
+  "instructions": [
+    "Code the supplied JPEG only. Never transfer the video's topic or a known location to a shot without visual evidence. Choose one value per field. Record a short visible cue or explain what is unclear.",
+    "Setting, shot composition, location relative to service, and a person's activity are independent. A food close-up can show too little to locate the scene. Hands alone do not identify an enumerable person.",
+    "Give each distinguishable physical person exactly one sighting, numbered from 1 within this frame. Use the cue field to describe screen position and action so a reviewer can find them. Exclude reflected duplicates, people on screens or posters, and the off-camera narrator. Seated diners can qualify. In unenclosed public space include people regardless of mode of travel; exclude occupants enclosed in vehicles.",
+    "Worker and patron require cues linking the person to food service. Assign visible roles even indoors or when the exact setting is unclear. The analysis filters to street stalls. Use unclear when the link is ambiguous. Never infer apparent gender or role from another field.",
+    "For activity, prefer a specific visible food action over presenting to camera or posture. Code a person visibly eating as eating_drinking even if looking into the lens. Select other for an identifiable, unlisted case and unclear for insufficient visual evidence wherever those codes are offered. Evidence and cue are audit notes. Use only dictionary values for labels.",
+    "A readable food-only frame has an empty sightings array. For a partial frame return only individually distinguishable people; the observed counts are lower bounds. For unreadable frames use unclear setting, shot and service area and an empty array.",
+    "Record n_enumerated as the number of distinct sighting rows, including children and unclear cases. Zero means a readable frame has no enumerable person. Use null for an unreadable frame."
+  ]
+}
