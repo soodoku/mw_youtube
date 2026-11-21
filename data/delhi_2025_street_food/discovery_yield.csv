@@ -1,0 +1,15 @@
+dimension,value,videos,exclusive_videos,channels
+concept,roadside_food,557,379,302
+concept,stall_cart,533,360,297
+concept,street_food,405,254,153
+duration_band,long,440,440,216
+duration_band,medium,403,403,209
+duration_band,short,362,362,195
+phrase,Delhi food stall,291,144,158
+phrase,Delhi roadside food,292,133,140
+phrase,Delhi street food,285,79,114
+phrase,दिल्ली खाने का ठेला,300,194,194
+phrase,दिल्ली सड़क किनारे खाना,300,232,200
+phrase,दिल्ली स्ट्रीट फूड,291,88,109
+query_language,en,671,390,287
+query_language,hi,815,534,429

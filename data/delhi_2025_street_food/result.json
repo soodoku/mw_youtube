@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "city": "delhi",
+  "year": 2025,
+  "topic": "street_food",
+  "searches": 72,
+  "hits": 1800,
+  "candidates": 1205,
+  "channels": 573,
+  "files": {
+    "queries": "queries.json",
+    "search_counts": "search_counts.csv",
+    "search_hits": "search_hits.csv",
+    "candidates": "candidates.csv",
+    "video_metadata": "video_metadata.jsonl"
+  }
+}

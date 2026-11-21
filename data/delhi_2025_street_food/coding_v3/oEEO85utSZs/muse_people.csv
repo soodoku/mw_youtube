@@ -1,0 +1,15 @@
+video_id,interval,rank,person_id,role,group,activity,cue
+oEEO85utSZs,0,1,1,unclear,man,standing_sitting,"left foreground in red shirt/blue apron with earbud, head bowed, hands out of frame"
+oEEO85utSZs,0,1,2,unclear,man,unclear,"center background just behind foreground man, short dark-haired head looking down"
+oEEO85utSZs,0,1,3,unclear,gender_unclear,standing_sitting,"middle-right behind foreground man, long black ponytail in white shirt leaning forward"
+oEEO85utSZs,0,1,4,unclear,gender_unclear,standing_sitting,"right side in white shirt/blue jeans, back to camera bending over"
+oEEO85utSZs,0,1,5,unclear,man,standing_sitting,far right background in white shirt bending over near teal cart structure
+oEEO85utSZs,1,2,1,patron,man,eating_drinking,center frame in white shirt putting food to mouth over thali looking at camera
+oEEO85utSZs,2,1,1,patron,man,eating_drinking,center foreground in purple shirt seated at low table handling bread and curry
+oEEO85utSZs,2,1,2,unclear,man,standing_sitting,"background center behind SANJAY sign in light-blue shirt and black pants, torso only"
+oEEO85utSZs,2,1,3,unclear,man,standing_sitting,"background center-right in grey shirt standing by shop doorway, partial"
+oEEO85utSZs,2,1,4,worker,gender_unclear,preparing_serving,background right behind green tandoor in red shirt holding tray over counter
+oEEO85utSZs,2,1,5,unclear,man,standing_sitting,far right edge in red shirt green apron standing beside yellow Vada Pao sign
+oEEO85utSZs,2,2,1,patron,man,eating_drinking,center foreground in purple shirt seated at food table putting food in mouth
+oEEO85utSZs,2,2,2,unclear,age_unclear,standing_sitting,background center in red shirt torso behind green tandoor head cropped
+oEEO85utSZs,2,2,3,unclear,age_unclear,standing_sitting,top left background in white shirt partial torso behind counter

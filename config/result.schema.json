@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "YouTube candidate collection result",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "city",
+    "year",
+    "topic",
+    "searches",
+    "hits",
+    "candidates",
+    "channels",
+    "files"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 2
+    },
+    "city": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "searches": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "hits": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "candidates": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "channels": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "files": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "queries",
+        "search_counts",
+        "search_hits",
+        "candidates",
+        "video_metadata"
+      ],
+      "properties": {
+        "queries": {
+          "const": "queries.json"
+        },
+        "search_counts": {
+          "const": "search_counts.csv"
+        },
+        "search_hits": {
+          "const": "search_hits.csv"
+        },
+        "candidates": {
+          "const": "candidates.csv"
+        },
+        "video_metadata": {
+          "const": "video_metadata.jsonl"
+        }
+      }
+    }
+  }
+}

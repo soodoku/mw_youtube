@@ -1,0 +1,50 @@
+{
+  "video_id": "oEEO85utSZs",
+  "seed": "20261121",
+  "per_interval": 2,
+  "source_sha256": "b490450db4ce436ab91589d091b1ac55151ecb822445a8d3b58ce8506196cc8b",
+  "source_bytes": 390327872,
+  "first_time": "0",
+  "duration": "48893/50",
+  "stream_time_base": "1/12800",
+  "source": {
+    "local_source": "/private/tmp/mw-youtube-one-video/oEEO85utSZs.mp4"
+  },
+  "software": {
+    "av": "19.0.2",
+    "pillow": "13.0.0",
+    "yt-dlp": "2026.10.26"
+  },
+  "moments": [
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 279636
+    },
+    {
+      "interval": 0,
+      "rank": 2,
+      "requested_ms": 225015
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 361697
+    },
+    {
+      "interval": 1,
+      "rank": 2,
+      "requested_ms": 567797
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 743292
+    },
+    {
+      "interval": 2,
+      "rank": 2,
+      "requested_ms": 854114
+    }
+  ]
+}

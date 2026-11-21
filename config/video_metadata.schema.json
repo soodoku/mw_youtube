@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Frozen YouTube video metadata row",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "city": {
+      "type": "string"
+    },
+    "video_id": {
+      "type": "string"
+    },
+    "watch_url": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "channel_id": {
+      "type": "string"
+    },
+    "published_utc": {
+      "type": "string"
+    },
+    "retrieved_utc": {
+      "type": "string"
+    },
+    "response_file": {
+      "type": "string"
+    },
+    "metadata_status": {
+      "enum": [
+        "returned",
+        "unavailable"
+      ]
+    },
+    "channel_title": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "title_language": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "category_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "audio_language": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "recording_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "duration": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "location_description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "view_count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "like_count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "comment_count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "content_details": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "status": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "location": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "city",
+    "video_id",
+    "watch_url",
+    "title",
+    "channel_id",
+    "published_utc",
+    "retrieved_utc",
+    "response_file",
+    "metadata_status",
+    "channel_title",
+    "description",
+    "title_language",
+    "category_id",
+    "audio_language",
+    "recording_date",
+    "duration",
+    "location_description",
+    "view_count",
+    "like_count",
+    "comment_count",
+    "content_details",
+    "status",
+    "location",
+    "tags"
+  ]
+}

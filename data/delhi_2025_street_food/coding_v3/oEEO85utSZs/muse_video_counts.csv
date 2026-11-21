@@ -1,0 +1,7 @@
+video_id,scope,sampled_frames,in_scope_frames,countable_in_scope,n_women,n_men,n_gender_unclear,n_younger_child,n_age_unclear,classified,women_share
+oEEO85utSZs,all_visible,6,6,5,0,6,1,0,2,6,0.0
+oEEO85utSZs,all_at_stall,6,3,3,0,5,1,0,2,5,0.0
+oEEO85utSZs,linked_including_unclear,6,3,3,0,5,1,0,2,5,0.0
+oEEO85utSZs,worker_and_patron,6,3,3,0,2,1,0,0,2,0.0
+oEEO85utSZs,worker,6,3,3,0,0,1,0,0,0,
+oEEO85utSZs,patron,6,3,3,0,2,0,0,0,2,0.0

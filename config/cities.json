@@ -1,0 +1,4 @@
+{
+  "delhi": {"boundary": "National Capital Territory of Delhi", "region_code": "IN", "names": {"en": "Delhi", "hi": "दिल्ली"}},
+  "mumbai": {"boundary": "Greater Mumbai", "region_code": "IN", "names": {"en": "Mumbai", "hi": "मुंबई", "mr": "मुंबई"}}
+}

@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Transient acquisition files and full-resolution research images
+data/**/frames/spool/
+data/**/frames/.acquisition.lock
+data/**/frames/**/*.jpg
+data/**/frames/**/*.tmp
+
+# The request body embeds the research JPEG. Keep it in the local call cache.
+data/**/muse/calls/*/request.json

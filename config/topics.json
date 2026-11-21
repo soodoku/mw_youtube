@@ -1,0 +1,10 @@
+{
+  "street_food": {
+    "description": "On-location footage of food prepared or sold at a street-facing stall, cart, or open-air market stand.",
+    "phrases": {
+      "en": {"street_food": "{city} street food", "stall_cart": "{city} food stall", "roadside_food": "{city} roadside food"},
+      "hi": {"street_food": "{city} स्ट्रीट फूड", "stall_cart": "{city} खाने का ठेला", "roadside_food": "{city} सड़क किनारे खाना"},
+      "mr": {"street_food": "{city} स्ट्रीट फूड", "stall_cart": "{city} खाऊची गाडी", "roadside_food": "{city} रस्त्यावरचे खाद्यपदार्थ"}
+    }
+  }
+}
