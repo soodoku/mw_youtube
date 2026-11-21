@@ -66,21 +66,16 @@ class EligibilityTests(unittest.TestCase):
             (p / "result.json").write_text(
                 json.dumps({"city": "delhi", "topic": "street_food"})
             )
-            (p / "responses/metadata-1.json").write_text(
+            (p / "video_metadata.jsonl").write_text(
                 json.dumps(
-                    {
-                        "retrieved_utc": "2026-11-21",
-                        "items": [
-                            {
-                                "id": "fixture",
-                                "snippet": {
-                                    "title": "Food",
-                                    "description": "Filmed in Lahore",
-                                },
-                            }
-                        ],
-                    }
+                    dict(
+                        video_id="fixture",
+                        retrieved_utc="2026-11-21",
+                        title="Food",
+                        description="Filmed in Lahore",
+                    )
                 )
+                + "\n"
             )
             with (p / "screening.csv").open("w", newline="") as f:
                 w = csv.DictWriter(

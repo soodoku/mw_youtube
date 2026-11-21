@@ -6,8 +6,9 @@ import hashlib
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from collect_candidates import write_table
 from screen_eligibility import resolve, screen
+
+from mw_youtube.records import write_table
 
 SEED = "20261121"
 KEY = ["city", "video_id"]
@@ -57,7 +58,7 @@ def rank(rows, seed):
     return ordered
 
 
-def choose(queue, decisions, n):
+def choose(queue, decisions, n, verified):
     if n < 1:
         raise ValueError("Target must be positive")
     if len(decisions) != len({key(r) for r in decisions}):
@@ -84,6 +85,10 @@ def choose(queue, decisions, n):
             if status == "eligible":
                 if not decision["place"].strip() or not decision["evidence"].strip():
                     raise ValueError(f"{key(row)} lacks place or evidence")
+                if key(row) not in verified:
+                    raise ValueError(
+                        f"{city}: footage confirmation required at rank {row['video_rank']}"
+                    )
                 selected.append({**row, **{f: decision[f] for f in REVIEW}})
                 count += 1
                 if count == n:
@@ -113,7 +118,18 @@ if __name__ == "__main__":
         decisions = read(sheet, [*KEY, *REVIEW])
         resolved = decisions if args.manual_only else resolve(decisions, screen(folder))
         write_table(folder / "resolved_screening.csv", [*QUEUE, *REVIEW], resolved)
-        selected = choose(queue, resolved, args.target)
+        evidence = folder / "footage_reviews.csv"
+        checks = (
+            read(evidence, [*KEY, "timestamp", "evidence", "reviewer"])
+            if evidence.exists()
+            else []
+        )
+        verified = {
+            key(r)
+            for r in checks
+            if all(r[k].strip() for k in ("timestamp", "evidence", "reviewer"))
+        }
+        selected = choose(queue, resolved, args.target, verified)
         dest = folder / f"selected_{args.target}.csv"
         if dest.exists():
             old = read(dest, [*QUEUE, *REVIEW])

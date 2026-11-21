@@ -30,11 +30,17 @@ class TestPipeline(unittest.TestCase):
         ]
         reviews[1]["decision"] = "excluded"
         self.assertEqual(
-            [r["video_rank"] for r in sample.choose(queue, reviews, 3)], [1, 3, 4]
+            [
+                r["video_rank"]
+                for r in sample.choose(
+                    queue, reviews, 3, {sample.key(r) for r in reviews}
+                )
+            ],
+            [1, 3, 4],
         )
         reviews[2]["decision"] = "unclear"
         with self.assertRaisesRegex(ValueError, "resolve rank 3"):
-            sample.choose(queue, reviews, 3)
+            sample.choose(queue, reviews, 3, {sample.key(r) for r in reviews})
 
     def test_collect_and_resume(self):
         plan = list(collect.searches("delhi", 2025, "street_food"))

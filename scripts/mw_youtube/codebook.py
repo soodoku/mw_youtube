@@ -3,20 +3,17 @@
 import hashlib
 import json
 from html import escape
-from pathlib import Path
 
-BOOK = json.loads(
-    (
-        Path(__file__).resolve().parents[1] / "config/stall_frame_codebook.json"
-    ).read_text()
-)
+from .design import CONFIG
+
+BOOK = json.loads((CONFIG / "stall_frame_codebook.json").read_text())
 FRAME = BOOK["frame_fields"]
 PERSON = BOOK["person_fields"]
 
 
-def book_sha():
+def book_sha(book=BOOK):
     return hashlib.sha256(
-        json.dumps(BOOK, sort_keys=True, ensure_ascii=False).encode()
+        json.dumps(book, sort_keys=True, ensure_ascii=False).encode()
     ).hexdigest()
 
 
@@ -70,9 +67,9 @@ def schema():
     )
 
 
-def validate(answer):
-    for field in FRAME:
-        if answer[field] not in BOOK["categories"][field]:
+def validate(answer, book=BOOK):
+    for field in book["frame_fields"]:
+        if answer[field] not in book["categories"][field]:
             raise ValueError(f"Unknown {field}")
     people = answer["sightings"]
     expected = None if answer["quality"] == "unreadable" else len(people)
@@ -87,5 +84,5 @@ def validate(answer):
     for i, p in enumerate(people, 1):
         if p["person_id"] != i or not p["cue"].strip():
             raise ValueError("Sightings need consecutive IDs and visible cues")
-        if any(p[f] not in BOOK["categories"][f] for f in PERSON):
+        if any(p[f] not in book["categories"][f] for f in book["person_fields"]):
             raise ValueError("Unrecognized sighting category")

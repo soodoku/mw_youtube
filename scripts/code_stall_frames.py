@@ -5,12 +5,13 @@ import base64
 import json
 from pathlib import Path
 
-from collect_candidates import save
 from prepare_frame_review import KEY, META, prepare, table
-from stall_codebook import BOOK, FRAME, PERSON, book_sha, prompt, schema, validate
+
+from mw_youtube.codebook import BOOK, FRAME, PERSON, book_sha, prompt, schema, validate
+from mw_youtube.records import save
 
 
-def run(folder, out, cap):
+def run(folder, out, cap, ledger=None):
     from museclient import Client
 
     rows = prepare(folder)
@@ -19,7 +20,9 @@ def run(folder, out, cap):
         raise ValueError(
             "Review manifest differs from the current frames or dictionary"
         )
-    client = Client(cap_usd=cap, workdir=out / "muse", model=BOOK["model"])
+    client = Client(
+        cap_usd=cap, workdir=out / "muse", model=BOOK["model"], ledger=ledger
+    )
     frames, people = [], []
     for row in rows:
         image = base64.b64encode((folder / row["jpeg"]).read_bytes()).decode("ascii")
@@ -76,5 +79,8 @@ if __name__ == "__main__":
     parser.add_argument("frames", type=Path)
     parser.add_argument("output", type=Path)
     parser.add_argument("--cap-usd", type=float, required=True)
+    parser.add_argument(
+        "--ledger", type=Path, required=True, help="Shared spending ledger for the draw"
+    )
     args = parser.parse_args()
-    run(args.frames, args.output, args.cap_usd)
+    run(args.frames, args.output, args.cap_usd, args.ledger)

@@ -10,8 +10,8 @@ from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
-from collect_candidates import save, write_table
-from search_plan import CONFIG
+from mw_youtube.design import CONFIG
+from mw_youtube.records import save, write_table
 
 FIELDS = [
     "city",
@@ -106,10 +106,12 @@ def prepare(folder):
         [config, task, ANSWER, hashlib.sha256(Path(__file__).read_bytes()).hexdigest()]
     )
     metadata = {}
-    for file in sorted((folder / "responses").glob("metadata-*.json")):
-        response = json.loads(file.read_text())
-        for item in response["items"]:
-            metadata[item["id"]] = (item["snippet"], response["retrieved_utc"][:10])
+    for line in (folder / "video_metadata.jsonl").read_text().splitlines():
+        record = json.loads(line)
+        vid = record["video_id"]
+        if vid in metadata:
+            raise ValueError("Duplicate metadata record")
+        metadata[vid] = (record, record["retrieved_utc"][:10])
     with (folder / "screening.csv").open(newline="", encoding="utf8") as f:
         queue = sorted(csv.DictReader(f), key=lambda row: int(row["video_rank"]))
     return config, task, version, metadata, queue
@@ -137,11 +139,11 @@ def screen_locked(folder, through, cap, client_factory):
     rows = []
     for row in queue:
         vid = row["video_id"]
-        snippet, source_date = metadata.get(vid, ({}, ""))
+        snippet, source_date = metadata[vid]
         packet = {
             "video_id": vid,
             "title": snippet.get("title", row["title"]),
-            "description": snippet.get("description", ""),
+            "description": snippet.get("description") or "",
             **task,
         }
         fingerprint = digest(packet)

@@ -5,7 +5,7 @@ import csv
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from collect_candidates import write_table
+from mw_youtube.records import write_table
 
 
 def summarize(folder):

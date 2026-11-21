@@ -5,7 +5,7 @@ import csv
 import json
 from pathlib import Path
 
-from collect_candidates import save
+from mw_youtube.records import save
 
 
 def export(folder):

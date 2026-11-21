@@ -133,8 +133,6 @@ class AcquisitionTest(unittest.TestCase):
 
     def test_unresolved_and_low_disk_do_not_fetch(self):
         with patch.object(acquire, "download") as fetch:
-            with self.assertRaisesRegex(ValueError, "local-sources"):
-                acquire.run(self.manifest, self.out, reserve=0)
             with self.assertRaises(OSError):
                 acquire.run(self.manifest, self.out, reserve=2**60)
             self.manifest.write_text("video_id,decision\nfixture0001,unclear\n")
@@ -145,6 +143,4 @@ class AcquisitionTest(unittest.TestCase):
             json.loads(s)
             for s in (self.out / "attempts.jsonl").read_text().splitlines()
         ]
-        self.assertEqual(
-            [e["status"] for e in events], ["started", "failed", "started", "failed"]
-        )
+        self.assertEqual([e["status"] for e in events], ["started", "failed"])

@@ -1,7 +1,6 @@
 """Plan the pilot searches or save a dated, resumable YouTube search snapshot."""
 
 import argparse
-import csv
 import fcntl
 import hashlib
 import json
@@ -9,18 +8,12 @@ import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
-from tempfile import NamedTemporaryFile
 from urllib.error import HTTPError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-from search_plan import CONFIG, searches
-
-
-def save(path, content):
-    with NamedTemporaryFile("w", dir=path.parent, delete=False, encoding="utf8") as tmp:
-        tmp.write(content)
-    Path(tmp.name).replace(path)
+from mw_youtube.design import CONFIG, searches
+from mw_youtube.records import save, write_table
 
 
 def snapshot(folder, name, resource, params):
@@ -58,23 +51,22 @@ def snapshot(folder, name, resource, params):
     return record
 
 
-def write_table(path, columns, rows):
-    with NamedTemporaryFile(
-        "w", dir=path.parent, newline="", encoding="utf8", delete=False
-    ) as f:
-        writer = csv.DictWriter(f, fieldnames=columns)
-        writer.writeheader()
-        writer.writerows(rows)
-    Path(f.name).replace(path)
-
-
 def collect(folder, plan):
     raw = folder / "responses"
-    raw.mkdir(parents=True, exist_ok=True)
     definition = json.dumps(plan, ensure_ascii=False, indent=2)
     manifest = folder / "queries.json"
     if manifest.exists() and manifest.read_text() != definition:
         raise SystemExit("This snapshot uses a different search plan.")
+    if (folder / "result.json").exists():
+        result = json.loads((folder / "result.json").read_text())
+        if not manifest.exists() or any(
+            not (folder / path).is_file() for path in result["files"].values()
+        ):
+            raise ValueError(
+                "Incomplete frozen snapshot; restore its files or use a new wave"
+            )
+        return result
+    raw.mkdir(parents=True, exist_ok=True)
     save(manifest, definition)
     counts = []
     hits = []
@@ -112,6 +104,10 @@ def collect(folder, plan):
             end = datetime.fromisoformat(
                 params["publishedBefore"].replace("Z", "+00:00")
             )
+            hits[-1].update(
+                hit_published_utc=item["snippet"]["publishedAt"],
+                in_requested_window=int(begin <= published <= end),
+            )
             if begin <= published <= end:
                 candidates.setdefault((city, video), item["snippet"])
     search_fields = [k for k in plan[0] if k != "params"] + ["phrase"]
@@ -120,7 +116,14 @@ def collect(folder, plan):
     )
     write_table(
         folder / "search_hits.csv",
-        [*search_fields, "result_rank", "video_id", "retrieved_utc"],
+        [
+            *search_fields,
+            "result_rank",
+            "video_id",
+            "retrieved_utc",
+            "hit_published_utc",
+            "in_requested_window",
+        ],
         hits,
     )
     ids = sorted({video for _, video in candidates})
@@ -212,8 +215,10 @@ if __name__ == "__main__":
     parser.add_argument("--year", type=int, required=True)
     parser.add_argument("--topic", required=True)
     parser.add_argument("--config", type=Path, default=CONFIG)
+    parser.add_argument("--vocabulary", type=Path, help="Frozen reviewed keyword JSON")
     args = parser.parse_args()
-    plan = list(searches(args.city, args.year, args.topic, args.config))
+    vocabulary = json.loads(args.vocabulary.read_text()) if args.vocabulary else None
+    plan = list(searches(args.city, args.year, args.topic, args.config, vocabulary))
     if args.action == "plan":
         print(json.dumps(plan, ensure_ascii=False, indent=2))
     else:
@@ -228,4 +233,14 @@ if __name__ == "__main__":
         args.snapshot.mkdir(parents=True, exist_ok=True)
         with (args.snapshot / ".collection.lock").open("a") as lock:
             fcntl.flock(lock, fcntl.LOCK_EX)
+            if vocabulary is not None:
+                archived = args.snapshot / "vocabulary.json"
+                if archived.exists() and json.loads(archived.read_text()) != vocabulary:
+                    raise ValueError("Changed vocabulary; start a new wave")
+                if (args.snapshot / "queries.json").exists() and not archived.exists():
+                    raise ValueError("Existing snapshot used the configured vocabulary")
+                save(
+                    archived,
+                    json.dumps(vocabulary, indent=2, ensure_ascii=False) + "\n",
+                )
             print(json.dumps(collect(args.snapshot, plan), indent=2))

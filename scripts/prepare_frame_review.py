@@ -1,28 +1,15 @@
 """Freeze the human coding materials without showing model labels."""
 
 import argparse
-import csv
 import hashlib
-import io
 import json
 import os
 from html import escape
 from pathlib import Path
 from urllib.parse import quote
 
-from collect_candidates import save
-from stall_codebook import BOOK, FRAME, PERSON, book_sha, dictionary_html, schema
-
-META = ("video_id", "interval", "rank", "requested_ms", "jpeg", "sha256")
-KEY = ("video_id", "interval", "rank")
-
-
-def table(path, rows, columns):
-    buffer = io.StringIO()
-    writer = csv.DictWriter(buffer, fieldnames=columns)
-    writer.writeheader()
-    writer.writerows(rows)
-    save(path, buffer.getvalue())
+from mw_youtube.codebook import BOOK, FRAME, PERSON, book_sha, dictionary_html, schema
+from mw_youtube.records import KEY, META, save, table
 
 
 def prepare(folder):

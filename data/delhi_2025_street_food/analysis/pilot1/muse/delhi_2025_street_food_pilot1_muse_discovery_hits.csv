@@ -1,3 +1,3 @@
-search_id,city,year,quarter,topic,query_language,concept,duration_band,phrase,result_rank,video_id,retrieved_utc,collection_id,draw
-delhi-2025Q2-street_food-en-street_food-medium,delhi,2025,2,street_food,en,street_food,medium,Delhi street food,25,oEEO85utSZs,2026-11-21T21:55:57.728933+00:00,40b5bfba6daf4485a700197d1ddb62740f5de480a50e8af3397f452039f9a700,pilot1
-delhi-2025Q2-street_food-hi-street_food-medium,delhi,2025,2,street_food,hi,street_food,medium,दिल्ली स्ट्रीट फूड,6,oEEO85utSZs,2026-11-21T21:56:04.814600+00:00,40b5bfba6daf4485a700197d1ddb62740f5de480a50e8af3397f452039f9a700,pilot1
+search_id,city,year,quarter,topic,query_language,concept,duration_band,phrase,result_rank,video_id,retrieved_utc,hit_published_utc,in_requested_window,collection_id,draw
+delhi-2025Q2-street_food-en-street_food-medium,delhi,2025,2,street_food,en,street_food,medium,Delhi street food,25,oEEO85utSZs,2026-11-21T21:55:57.728933+00:00,2025-04-07T12:30:54Z,1,c61392ae553c3165a07309c05ff89d5a4f0ccaa32cd72e2e2ee9eb4b7101e8d9,pilot1
+delhi-2025Q2-street_food-hi-street_food-medium,delhi,2025,2,street_food,hi,street_food,medium,दिल्ली स्ट्रीट फूड,6,oEEO85utSZs,2026-11-21T21:56:04.814600+00:00,2025-04-07T12:30:54Z,1,c61392ae553c3165a07309c05ff89d5a4f0ccaa32cd72e2e2ee9eb4b7101e8d9,pilot1

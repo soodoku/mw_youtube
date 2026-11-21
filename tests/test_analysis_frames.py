@@ -35,7 +35,7 @@ class AnalysisFrameTests(unittest.TestCase):
                     audio_language=None,
                     view_count=10,
                     retrieved_utc="2026-11-21",
-                    watch_url="https://www.youtube.com/watch?v=" + p["video_id"]
+                    watch_url="https://www.youtube.com/watch?v=" + p["video_id"],
                 )
                 for p in picks
             ]

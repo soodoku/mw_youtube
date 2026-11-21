@@ -13,10 +13,11 @@ from importlib.metadata import version
 from pathlib import Path
 from urllib.request import Request, urlopen
 
-from collect_candidates import save
 from PIL import Image
 from sample_frames import displayed_frames, draw, timeline
 from yt_dlp import YoutubeDL
+
+from mw_youtube.records import save
 
 MIB = 1024 * 1024
 DEFAULT_RESERVE = 1024 * MIB
@@ -160,12 +161,17 @@ def extract(source, folder, vid, seed, n, provenance, reserve):
         room(folder, reserve, 8 * MIB)
         name = f"i{moment['interval']}_r{moment['rank']}.jpg"
         tmp = folder / (name + ".tmp")
-        frame.to_image().convert("RGB").save(tmp, format="JPEG", quality=90)
+        image = frame.to_image().convert("RGB")
+        rotation = frame.rotation % 360
+        if rotation:
+            image = image.rotate(rotation, expand=True)
+        image.save(tmp, format="JPEG", quality=90)
         tmp.replace(folder / name)
         frames.append(
             {
                 **moment,
                 "pts": frame.pts,
+                "rotation_deg": rotation,
                 "time_base": str(frame.time_base),
                 "file": name,
                 "sha256": sha(folder / name),
@@ -174,6 +180,65 @@ def extract(source, folder, vid, seed, n, provenance, reserve):
     complete = dict(finished_utc=now(), plan_sha256=sha(dest), frames=frames)
     verify(folder, complete)
     dump(folder / "complete.json", complete)
+
+
+def browser_extract(folder, vid, seed, n, api_duration, reserve):
+    from chrome_frames import capture, duration_seconds, player, watch
+
+    with player() as page:
+        video, duration = watch(page, vid, duration_seconds(api_duration))
+        dest = folder / "plan.json"
+        if dest.exists():
+            plan = json.loads(dest.read_text())
+            if (
+                plan.get("capture_method"),
+                plan["seed"],
+                plan["per_interval"],
+                plan["video_id"],
+            ) != ("chrome", seed, n, vid) or abs(
+                float(Fraction(plan["duration"])) - duration
+            ) > 0.05:
+                raise ValueError(
+                    "Player/source version or draw differs from the frozen plan"
+                )
+        else:
+            length = Fraction(str(duration))
+            plan = dict(
+                video_id=vid,
+                seed=seed,
+                per_interval=n,
+                capture_method="chrome",
+                source_sha256=None,
+                source_bytes=None,
+                first_time=None,
+                duration=str(length),
+                stream_time_base=None,
+                source=dict(
+                    watch_url=page.url,
+                    opened_utc=now(),
+                    browser_version=page.context.browser.version,
+                ),
+                moments=draw(vid, seed, length, n),
+            )
+            dump(dest, plan)
+        frames = []
+        for moment in sorted(plan["moments"], key=lambda m: m["requested_ms"]):
+            room(folder, reserve, 8 * MIB)
+            name = f"i{moment['interval']}_r{moment['rank']}.jpg"
+            elapsed = capture(video, moment["requested_ms"] / 1000, folder / name)
+            frames.append(
+                {
+                    **moment,
+                    "file": name,
+                    "sha256": sha(folder / name),
+                    "player_time_s": elapsed,
+                    "pts": None,
+                    "time_base": None,
+                }
+            )
+        complete = dict(finished_utc=now(), plan_sha256=sha(dest), frames=frames)
+        verify(folder, complete)
+        dump(folder / "complete.json", complete)
 
 
 def event(out, vid, status, **details):
@@ -212,7 +277,8 @@ def run(
     spool.mkdir(exist_ok=True)
     with (out / ".acquisition.lock").open("a") as lock:
         fcntl.flock(lock, fcntl.LOCK_EX)
-        for vid in ids:
+        for selection in selected:
+            vid = selection["video_id"]
             folder = out / vid
             folder.mkdir(exist_ok=True)
             owned = spool / (vid + ".video")
@@ -226,6 +292,36 @@ def run(
             stage = "verify"
             try:
                 if (folder / "complete.json").exists():
+                    receipt = json.loads((folder / "complete.json").read_text())
+                    if (
+                        any(
+                            not (folder / r["file"]).exists() for r in receipt["frames"]
+                        )
+                        and local is not None
+                    ):
+                        # Recreate only missing JPEGs from the frozen, checksum-matched file.
+                        from tempfile import TemporaryDirectory
+
+                        with TemporaryDirectory(dir=out) as temp:
+                            rebuild = Path(temp)
+                            shutil.copyfile(folder / "plan.json", rebuild / "plan.json")
+                            extract(
+                                local / (vid + ".mp4"),
+                                rebuild,
+                                vid,
+                                seed,
+                                n,
+                                {},
+                                reserve,
+                            )
+                            for r in receipt["frames"]:
+                                if sha(rebuild / r["file"]) != r["sha256"]:
+                                    raise ValueError(
+                                        "Restored JPEG differs from frozen receipt"
+                                    )
+                            for r in receipt["frames"]:
+                                if not (folder / r["file"]).exists():
+                                    (rebuild / r["file"]).replace(folder / r["file"])
                     plan = verify(folder)
                     if (plan["video_id"], plan["seed"], plan["per_interval"]) != (
                         vid,
@@ -239,6 +335,12 @@ def run(
                     stage = "acquire"
                     event(out, vid, "started", cap_bytes=cap, reserve_bytes=reserve)
                     room(out, reserve, 8 * MIB)
+                    if not owned.exists() and local is None and not allow_yt_dlp:
+                        browser_extract(
+                            folder, vid, seed, n, selection["duration"], reserve
+                        )
+                        event(out, vid, "completed", capture_method="chrome")
+                        continue
                     if owned.exists():
                         source = owned
                         provenance = json.loads(meta.read_text())

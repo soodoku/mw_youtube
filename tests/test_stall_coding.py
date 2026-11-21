@@ -8,8 +8,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from prepare_frame_review import run, table  # noqa: E402
-from stall_codebook import BOOK, FRAME, PERSON, schema, validate  # noqa: E402
 from summarize_stall_frames import summarize  # noqa: E402
+
+from mw_youtube.codebook import BOOK, FRAME, PERSON, schema, validate  # noqa: E402
 
 
 class FrameCodingTests(unittest.TestCase):
