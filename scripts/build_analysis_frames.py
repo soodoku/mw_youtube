@@ -48,7 +48,9 @@ def clock_time(ms):
 
 
 def build(snapshot, selection, directories, coder):
-    selection_sha = hashlib.sha256(selection.read_bytes()).hexdigest()
+    selection_sha = hashlib.sha256(
+        selection.read_text(encoding="utf8").encode()
+    ).hexdigest()
     selected = unique(read(selection), "video_id")
     catalog = unique(
         [
@@ -61,7 +63,11 @@ def build(snapshot, selection, directories, coder):
     design = json.loads((snapshot / "result.json").read_text())
     digest = hashlib.sha256()
     for name in ("queries.json", "search_counts.csv", "search_hits.csv"):
-        digest.update(hashlib.sha256((snapshot / name).read_bytes()).digest())
+        digest.update(
+            hashlib.sha256(
+                (snapshot / name).read_text(encoding="utf8").encode()
+            ).digest()
+        )
     collection_id = digest.hexdigest()
     hits = [
         {**r, "collection_id": collection_id}
