@@ -1,4 +1,4 @@
-# Women’s Share of Diners at Delhi Food Stalls and Restaurants: Evidence from YouTube Videos
+# Who eats in Delhi street-food videos?
 
 Women made up **13.5% of apparent diner sightings** at food venues in 30 Delhi street-food videos published in 2025. Across 450 randomly sampled frames, Muse identified 16 women and 116 men who appeared to have food of their own or to be sharing a meal. Eighteen videos contributed to that estimate. Across everyone visible whose apparent gender Muse could classify, women’s share was **16.1%**.
 
