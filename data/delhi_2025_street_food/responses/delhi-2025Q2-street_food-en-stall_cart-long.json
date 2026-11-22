@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi food stall",
+    "relevanceLanguage": "en",
+    "videoDuration": "long",
+    "publishedAfter": "2025-04-01T00:00:00Z",
+    "publishedBefore": "2025-06-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:00.805004+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YNfxQx9p_YhZv156T7BjZx5USW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DwStLVZ6vhw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-27T14:30:11Z",
+        "channelId": "UCkFZNhDgHW1XX9tCj-NPR-Q",
+        "title": "Best Afghani Restaurant In Delhi | Afghani Food In Lajpat Nagar | Mutton Uzbeki Pulao | Chopan Kebab",
+        "description": "It's hard to pick the best Afghani restaurant in Lajpat Nagar, but KABUL DELHI definitely stands out — not just for being one of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DwStLVZ6vhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DwStLVZ6vhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DwStLVZ6vhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DwStLVZ6vhw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DwStLVZ6vhw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Globalecentre",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-27T14:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JI4n12sE3mPynOMnEs2Lg8zz2bM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CpfDGElIP5o"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-03T15:00:32Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food DWARKA | Tandoori Momos, Lucknow Galouti Kebabs, Misal Pan, Kolkata Kathi Roll, Boba Tea",
+        "description": "Street Food DWARKA | Tandoori Momos, Lucknow Galouti Kebabs, Misal Pan, Kolkata Kathi Roll, Boba Tea #indianfood #food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CpfDGElIP5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CpfDGElIP5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CpfDGElIP5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CpfDGElIP5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CpfDGElIP5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-03T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kLr_O5mjhBvdfy2AbIQ5K_0MUeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IC-8eGSK704"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-15T15:00:27Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food DEHRADUN | Chetan Poori, Mama Katlambe, Dwarka Bun Tikki, Sunrise Bakery, Gaylord Softy",
+        "description": "Street Food DEHRADUN | Chetan Poori, Mama Katlambe, Dwarka Bun Tikki, Sunrise Bakery, Gaylord Softy #streetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IC-8eGSK704/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IC-8eGSK704/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IC-8eGSK704/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IC-8eGSK704/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IC-8eGSK704/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-15T15:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WetgkcIckle8KgOG-vfUSsXN8wQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xsz-hzUyMAQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-03T12:59:28Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Ep - 15, Mayur Vihar Ph 1 Street Food Walk l Suji Momo + Chaap hi Chaap + Aunty Vada Pav + Hot chips",
+        "description": "In this episode of Delhi Neighbourhood Eats, we arrived at Mayur Vihar Phase 1. Our host is a local—Shipra, a passionate baker ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xsz-hzUyMAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xsz-hzUyMAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xsz-hzUyMAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xsz-hzUyMAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xsz-hzUyMAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-03T12:59:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OhARJvzPvWN5L6AxdO2neKJhTyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tpNk_pXg3Gs"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-25T16:58:16Z",
+        "channelId": "UC1nVUbcLU8P_cLDkzQdewOw",
+        "title": "Ep - 2 Kurukshetra Food Tour | Kurukshetra Sightseeing | Best Food in Kurukshetra | Haryana",
+        "description": "Kurukshetra is also known as ' Dharm Ki Nagri ' Located in the state of Haryana. Kurukshetra is the land of Mahabharata War ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tpNk_pXg3Gs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tpNk_pXg3Gs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpNk_pXg3Gs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tpNk_pXg3Gs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tpNk_pXg3Gs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amritsar Walking Tours",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-25T16:58:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b2H_ys4bJgrBuV7EnERzlqwOdjA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ECBKLNPdX6Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-13T08:30:06Z",
+        "channelId": "UCpEhnqL0y41EpW2TvWAHD7Q",
+        "title": "Challenge में क्या पाकर खुश हुई Rajiv-Archana की जोड़ी? | Celebrity MasterChef | Ep 47 | Full Episode",
+        "description": "https://www.sonyliv.com/shows/celebrity-masterchef-1790006208?utm_source=youtube&utm_medium=organic&utm_campaign= ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ECBKLNPdX6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ECBKLNPdX6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ECBKLNPdX6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ECBKLNPdX6Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ECBKLNPdX6Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SET India",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-13T08:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "09MFWqHBwlyVeSQUjrnXYjVd3vk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wE1SiIhYXJk"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-31T10:01:26Z",
+        "channelId": "UCs_h_miBJ9r8-7fRH7VAWZw",
+        "title": "🇰🇷 Korean Street Food HEAVEN in Seoul Myeongdong &amp; Gwangjang Market",
+        "description": "English subtitles are always available, just click the \"CC\" on the screen Hello, I'm Alin. This installment of our food tour comes to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wE1SiIhYXJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wE1SiIhYXJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wE1SiIhYXJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wE1SiIhYXJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wE1SiIhYXJk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Alin Food Walk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-31T10:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G9AyklgDJ3YoNoZpMrVDqeK02SE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mxnZQsT2Rxw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-02T08:30:20Z",
+        "channelId": "UCwV_A5L1hhEVfld6Wbxn3jg",
+        "title": "SPICY INDIAN STREET FOOD CHALLENGE IN DELHI Reaction! | Best Ever Food Review Show",
+        "description": "Jaby and Sofia react to a spicy street food challenge straight from the streets of Delhi—and it's pure fire! The video shows some ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mxnZQsT2Rxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mxnZQsT2Rxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mxnZQsT2Rxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mxnZQsT2Rxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mxnZQsT2Rxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineDesi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-02T08:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IFOnj9dAYZ63okX95NJlzqJaYGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w09CUyQHoeI"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-23T08:30:36Z",
+        "channelId": "UClfos9f7uDdoun8ZyE9jYFg",
+        "title": "Eating IPL Cricketers Favourite FOOD",
+        "description": "Follow me on Instagram for updates ➞ https://instagram.com/fukra_insaan?igshid=jytojomgh8j4 Join my discord server ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w09CUyQHoeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w09CUyQHoeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w09CUyQHoeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w09CUyQHoeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w09CUyQHoeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fukra Insaan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-23T08:30:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n6qaHVONXS4AQrLpBAi1b0fCpNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n2z52D2MtaM"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-26T08:05:14Z",
+        "channelId": "UCgLSBx0D1X2iOoKf20peeJg",
+        "title": "DLF Avenue Mall | Select City Walk 2025 | Aswhole Ideas | Biggest Food Court| Full Walk Around",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n2z52D2MtaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n2z52D2MtaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2z52D2MtaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n2z52D2MtaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n2z52D2MtaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yo World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-26T08:05:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UFnlk5hqOZYGh-TiQRMdrF5QGcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4K-aUbsTEsY"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-06T13:30:05Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Exposing Famous Influencer Restaurants - Part 2",
+        "description": "Checkout Odoo's Point of Sale - Restaurant app - https://www.odoo.com/r/zMQM About the Restaurant - India's best food is back ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4K-aUbsTEsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4K-aUbsTEsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4K-aUbsTEsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4K-aUbsTEsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4K-aUbsTEsY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-06T13:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xVTdasajUVFj2H1iBFQMhQn4kqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zV5hqlyGX48"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-29T14:08:30Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Eating at CRICKETER RESTAURANT for 24 Hours",
+        "description": "Use Code \"HARMONYKLALLE10\" to get 10% off on your orders on www.harmonychocolates.in About the Restaurant - Virat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zV5hqlyGX48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zV5hqlyGX48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zV5hqlyGX48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zV5hqlyGX48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zV5hqlyGX48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-29T14:08:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iU3EGQP4FpY-zwTYolzN_0GQkGc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AcPJx7O4BTk"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-22T13:30:47Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Eating at Every TOLLYWOOD CELEBRITY RESTAURANT for 24 Hours",
+        "description": "Use Code \"HARMONYKLALLE10\" to get 10% off on your orders on www.harmonychocolates.in About the Video - Anna ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AcPJx7O4BTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AcPJx7O4BTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AcPJx7O4BTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AcPJx7O4BTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AcPJx7O4BTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-22T13:30:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hpbvse0d_7dm3QZbWSbQryaLADo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "315BEduQ6NI"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-22T07:57:04Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "13 Best Food in Udaipur | Veggie Paaji",
+        "description": "This video by Veggie Paaji showcases the top 13 food spots in Udaipur, India. The video features a variety of delicious vegetarian ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/315BEduQ6NI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/315BEduQ6NI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/315BEduQ6NI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/315BEduQ6NI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/315BEduQ6NI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-22T07:57:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2oSQi9vxErrN3_U83eZ2ZQ-WlWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cbgz4s4pBog"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-20T12:45:41Z",
+        "channelId": "UC1nVUbcLU8P_cLDkzQdewOw",
+        "title": "Ep - 3 Jammu Street Food Tour | Best Food in Jammu | Jammu Rajma, Kaladi Kulcha , Jammu Breakfast",
+        "description": "This video is about the Jammu City Food Tour. Complete Information regarding the Best Street Food in Jammu City . Keep in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cbgz4s4pBog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cbgz4s4pBog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cbgz4s4pBog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cbgz4s4pBog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cbgz4s4pBog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amritsar Walking Tours",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-20T12:45:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lIB7-R1q4VPM6eRWgOPYTalb9tI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DgztPWD-uWc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T13:30:10Z",
+        "channelId": "UCGtu9J8Hp5lOOdNR4_nZa2Q",
+        "title": "Cheapest VS Most Expensive Indian Street Food 🔥",
+        "description": "In this epic food comparison, we explore the extremes of Indian street food by tasting the cheapest chaat for just ₹1 and the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie We",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T13:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kT6Ux4n5x73GhRJPCTaLdwpDlsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iFOb8eWYFJ0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-23T18:02:26Z",
+        "channelId": "UC1nVUbcLU8P_cLDkzQdewOw",
+        "title": "Ep - 1 Solan Himachal Pradesh Tour | Solan Street Food | Solan Sightseeing | Himachal Pradesh",
+        "description": "Solan is a beautiful city Located in the state of Himachal Pradesh. In Solan there are number of Famous Food Joints and Tourist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iFOb8eWYFJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iFOb8eWYFJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iFOb8eWYFJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iFOb8eWYFJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iFOb8eWYFJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amritsar Walking Tours",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-23T18:02:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_CWQlGFjxMKXA8dkonEu4MG_YdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BXdABJsfpls"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-16T14:31:48Z",
+        "channelId": "UC1nVUbcLU8P_cLDkzQdewOw",
+        "title": "Ep - 4 Panchkula Haryana Street Food | Best Breakfast in Panchkula |  Panchkula Tourist Places",
+        "description": "Panchkula is also known as ' Tricity' Located in the state of Haryana. In Panchkula there are number of Famous Food Joints and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BXdABJsfpls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BXdABJsfpls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BXdABJsfpls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BXdABJsfpls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BXdABJsfpls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amritsar Walking Tours",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-16T14:31:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ouR23eSRPCF1nxZ3_fySVnCzrII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3UDmze0WylM"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-02T12:31:40Z",
+        "channelId": "UCHUTERc5j2hDSETAaO6Wq9Q",
+        "title": "10 Seconds Golgappa, Momos, Maggi, Spring Rolls Challenge | Street Food Challenge | Food Challenge",
+        "description": "foodchallenge #dingdonggirls.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3UDmze0WylM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3UDmze0WylM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3UDmze0WylM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3UDmze0WylM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3UDmze0WylM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ding Dong Girls",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-02T12:31:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zfPVNKN6rBIBbxtdzU3B5oAZa1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WwAAQp1nxlk"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T13:30:26Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Trying Every HYDERABAD BEST RATED Restaurant BIRYANI",
+        "description": "Shop The Man Company Sunscreen Gel - The Man Company Website - https://tinyurl.com/TMCIMS20 Amazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WwAAQp1nxlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WwAAQp1nxlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WwAAQp1nxlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WwAAQp1nxlk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WwAAQp1nxlk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T13:30:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6RK05clJIqnaFSglMo1m6XcbT7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DSL0RheAGYs"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-23T14:15:17Z",
+        "channelId": "UCjNAZ7wZ5T9SE74LyChs2XQ",
+        "title": "25000 ரூபாய் இருந்தா  நீங்களும் தொழில் தொடங்கலாம் |FOOD CART BUSINESS |வாடகை இல்லை நிரந்தர வருமானம்",
+        "description": "இந்த வீடியோவில் 15000 ரூபாய் முதல் FOOD CART தொழில் செய்யமுடியும் ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DSL0RheAGYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DSL0RheAGYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DSL0RheAGYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DSL0RheAGYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DSL0RheAGYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pollachi Bazaar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-23T14:15:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "teXZuEBRehr0QvcDE5KALpoglWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TBFWUqf1gKY"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-30T09:33:03Z",
+        "channelId": "UC0QKe0NgW-b0oZvnB5vqiJw",
+        "title": "Every Foodie Ever | Ft. Tena Jaiin | The Paayal Jain",
+        "description": "Hey Guys This video shows all the funny things happens with Every Food Lover . Also guys Check out MamaEarth's Lemon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TBFWUqf1gKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TBFWUqf1gKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TBFWUqf1gKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TBFWUqf1gKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TBFWUqf1gKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Paayal Jain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-30T09:33:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oluAoYszoZObMKZ5dxAXpztMaQM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U_wX7ythGtI"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-05T12:30:37Z",
+        "channelId": "UCoqGJPtvsPpALlhtqB1lcHA",
+        "title": "Full Day of Eating Mumbai&#39;s BEST Foods 🇮🇳",
+        "description": "Specific Food Locations: A1 Bakery: https://maps.app.goo.gl/iqESNMivUszYd1KJ9 Catherine's Poha: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U_wX7ythGtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U_wX7ythGtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U_wX7ythGtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U_wX7ythGtI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U_wX7ythGtI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Lewis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-05T12:30:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hLaw9PF36DLTyaOrLYpK1BO2xU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J5fy3YFaF3Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-21T13:30:16Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Trying Every 5 Star Rated Gujarat Street Food w/ @ViwaFoodWorld",
+        "description": "About the Video - India's best food critic India's best food critic India's best food critic Try Harmony Chocolates by Aayush Sapra ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5fy3YFaF3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5fy3YFaF3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5fy3YFaF3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J5fy3YFaF3Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J5fy3YFaF3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-21T13:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8vo1SUL0PRq51fZY1_V5EWhCrmk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "014C0-2qnpM"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T11:02:00Z",
+        "channelId": "UCJX9p4c81NoZ4_TFME-yY6g",
+        "title": "Super CHEAP Indian Street Food Tour in Mumbai! Saan aabot ang ₱500 mo sa INDIA?",
+        "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCJX9p4c81NoZ4_TFME-yY6g/join Subscribe to our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/014C0-2qnpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/014C0-2qnpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/014C0-2qnpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/014C0-2qnpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/014C0-2qnpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Chui Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T11:02:00Z"
+      }
+    }
+  ]
+}

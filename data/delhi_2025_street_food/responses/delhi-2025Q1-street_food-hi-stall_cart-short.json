@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली खाने का ठेला",
+    "relevanceLanguage": "hi",
+    "videoDuration": "short",
+    "publishedAfter": "2025-01-01T00:00:00Z",
+    "publishedBefore": "2025-03-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:55:51.370108+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sMTur5kp6GBbKIEFfLwda5Vls0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jteLQEQJTXk"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-21T09:55:00Z",
+        "channelId": "UCh0WSc8lF26TRh6iP0_I0hQ",
+        "title": "Delhi ki Famous Akram Biryani 🤣😱🫣 #shorts #youtubeshorts #trending",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr VIRAL VLOGS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-21T09:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1osGyNJpHNl2zS6WKZx3WqLHU60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RtypNDX_8vU"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T03:30:15Z",
+        "channelId": "UCzs0IFdfD9aiwI3GKNve2XQ",
+        "title": "मात्र 15000 में food cart",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RtypNDX_8vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RtypNDX_8vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RtypNDX_8vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RtypNDX_8vU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RtypNDX_8vU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saini Sahab Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T03:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h8QzC09qr6iZcYR3nRq4s082lTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xyOQz62cc58"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-30T06:00:40Z",
+        "channelId": "UCB2eyCvjOg-2vrcRx00Pvjg",
+        "title": "सिर्फ़ 500/- रुपये में Delhi की सबसे शानदार Thali 😱❤️😍#shorts #viralvideo #trending",
+        "description": "सिर्फ़ 500/- रुपये में Delhi की सबसे शानदार Thali  ❤️   #shorts #specialthali #specialfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xyOQz62cc58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xyOQz62cc58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xyOQz62cc58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xyOQz62cc58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xyOQz62cc58/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karan Food Explore ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-30T06:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0g8VN6AKq1Wyg1xjOFgdO6TTA6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "29FavKUSmGs"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-06T02:22:01Z",
+        "channelId": "UCUOqixLdJ0WACrnVGEoF-3g",
+        "title": "Food cart thela kiosk manufacture call 9368275157 #foodcarts #streetfood #foodcartdesign #foodstall",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/29FavKUSmGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/29FavKUSmGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/29FavKUSmGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/29FavKUSmGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/29FavKUSmGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hamza food cart india",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-06T02:22:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "necu2naGgzCSz8-rTWUre9z1SBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iqMjWcUFSBY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-01T07:34:20Z",
+        "channelId": "UCLIj-eIQ4r_xVP8gpYFDQxA",
+        "title": "Delhi वाली Street Maggi😋🥵 at ₹50/- Only #shorts #maggi #indianstreetfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "King’s Food Z by Aditya Baisla",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-01T07:34:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qcEpdru90NePMixKg835FGvPmUU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2DrGakz08BI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-13T15:48:01Z",
+        "channelId": "UCXKQ5HWxtSoqf_Aq40Z3yaA",
+        "title": "Tasty Street Food In Noida Sector 62 | #noida  #delhi  #streetfood",
+        "description": "Exploring the flavors of Noida Sector 62, a culinary hub in the heart of Delhi NCR! In this food vlog, we take you on a gastronomic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "That Brat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-13T15:48:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IEfpgBtSSrHR7Bf9MFDpDkocSV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cz8-R0-6tgQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T14:32:13Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "50/-रुपये में Delhi की Cheapest Thali 😱🔥😍#shorts #food #india #youtubeshorts #trendingshorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cz8-R0-6tgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cz8-R0-6tgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cz8-R0-6tgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cz8-R0-6tgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cz8-R0-6tgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T14:32:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "htv0c0j3J09VSWAvGxoQR9ubhqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GzdKtLyLwno"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-05T02:30:08Z",
+        "channelId": "UCUOqixLdJ0WACrnVGEoF-3g",
+        "title": "Food truck tata ace food truck food cart manufacturer call 9368275157",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GzdKtLyLwno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GzdKtLyLwno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzdKtLyLwno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GzdKtLyLwno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GzdKtLyLwno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hamza food cart india",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-05T02:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LmOx_0A5C_s_m7deQTzbchhOSCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gIsK0Oe9qHI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-15T04:57:52Z",
+        "channelId": "UC-Nn4C_xqAMxc2Vbe60wRxw",
+        "title": "Tiny Roadside Stall Making Churmur Chaat in #delhi #dehlistreetfood #youtubeshortsindia #indianfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bhukkadnumber1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-15T04:57:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EuoCcn9U5mUlhyUbGdt_iIXuLpU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mi1m9Z6z1TY"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-18T05:26:49Z",
+        "channelId": "UCzoJmdpMl48pajVrde0KDBg",
+        "title": "दिल्ली का सबसे सस्ता चिकन चावल 😱 सिर्फ 90/- रुपए प्लेट ❌ #shorts #trending #streetfood #ytshorts",
+        "description": "chickenchawal #streetfood #shorts #reels #shortsviral #trendingshorts #trendingvideo #shortvideos #trending #trendingreels ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mi1m9Z6z1TY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mi1m9Z6z1TY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mi1m9Z6z1TY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mi1m9Z6z1TY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mi1m9Z6z1TY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aapka Bhai Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-18T05:26:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pch4jsWeya4kczT3lpbyTBLMBKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I0z6e2luMEk"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-09T11:56:13Z",
+        "channelId": "UCy-pIJQu39gJqJDpdC1jALQ",
+        "title": "Delhi best Bhel Puri😋😱 #streetfood #desifoodbloggers #food #desistreetfood #foodie #bhelpuri #food",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0z6e2luMEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0z6e2luMEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0z6e2luMEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I0z6e2luMEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I0z6e2luMEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "sardaarjifoodie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-09T11:56:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jKpaY5M3cw1NPY-Z3FtXB3AX0mk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sGizd3WoRzA"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T13:20:47Z",
+        "channelId": "UClxHm6udLl4aPO7sgw8nhiw",
+        "title": "Food carts in patna | Usha Carts | 9199144437 food thela in patna | #foodcarts #foodtrucks",
+        "description": "Location: Beur, Anishabad, Patna, India - 800002 Contact: +91 70049 81437 | Picture: +91 91991 44437 Best Cart ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sGizd3WoRzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sGizd3WoRzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sGizd3WoRzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sGizd3WoRzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sGizd3WoRzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Usha Engineering & Arts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T13:20:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yA8JH-88liAG01utdc0Mih73h0k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r0wkgGSy2z0"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-24T06:30:24Z",
+        "channelId": "UC9lhUgoV5uyCYvCpvZNiW1Q",
+        "title": "Furniture DIY from a सब्ज़ी वाला Thela 😳 #shorts #homedecor #craft",
+        "description": "Furniture DIY from a सब्ज़ी वाला Thela #shorts #homedecor #craft Waise toh i loveee experimenting in my DIYs but ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r0wkgGSy2z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r0wkgGSy2z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r0wkgGSy2z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r0wkgGSy2z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r0wkgGSy2z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CreateYourTaste - Abhinav Yadav",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-24T06:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3tZpTfq3z9QlZBpo0onPT6_bew4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k6zFZyafYQg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-24T07:52:33Z",
+        "channelId": "UCLIj-eIQ4r_xVP8gpYFDQxA",
+        "title": "Delhi’s Famous Vegetable Soup😳❤️ at just ₹60/- #shorts #soup #indianstreetfood",
+        "description": "Must Try food in Delhi | Most Viral street food of delhi | top 10 street food of Delhi | West Delhi Food vlog | East Delhi Food Vlog ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k6zFZyafYQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k6zFZyafYQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k6zFZyafYQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k6zFZyafYQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k6zFZyafYQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "King’s Food Z by Aditya Baisla",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-24T07:52:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LCH_FwKtzhZxNMgqm8NUAH8CFtM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FmlgK36jxGA"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-25T05:51:09Z",
+        "channelId": "UCzoJmdpMl48pajVrde0KDBg",
+        "title": "सिर्फ 40/- रुपए में भरपेट अंडा चावल 👌 दिल्ली सच में दिल वालों का है 😱 #shorts #reels  #ytshorts",
+        "description": "chepestfood #streetfood #shorts #reels #shortsviral #trendingshorts #trendingvideo #shortvideos #trending #trendingreels ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FmlgK36jxGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FmlgK36jxGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FmlgK36jxGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FmlgK36jxGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FmlgK36jxGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aapka Bhai Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-25T05:51:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KbUn3T4K9vTulVUccV0vFZJ-vxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o38iEj1o5pM"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-28T14:49:18Z",
+        "channelId": "UCJKzXzqCkaJbN_3B6jLQ52A",
+        "title": "Viral Manoj Bhai ki Aloo Parantha Thali #shorts #trending #youtubeshorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o38iEj1o5pM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o38iEj1o5pM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o38iEj1o5pM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o38iEj1o5pM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o38iEj1o5pM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ghoomna Firna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-28T14:49:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G0vvr1U_atxqou-ijoh9j6K_Bww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tC2_2hpNsaw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-07T11:45:15Z",
+        "channelId": "UCud3tydIIXZCFIikmCSBC1A",
+        "title": "Most Viral Steamed Chole Kulche😍❤️ #shorts #chole #kulche #streetfood #viralvideo",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tC2_2hpNsaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tC2_2hpNsaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tC2_2hpNsaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tC2_2hpNsaw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tC2_2hpNsaw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie Jungle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-07T11:45:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4XrvF_fGBdtLwHidZgw9wUVCe3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "08hcAhjdLLY"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-07T06:30:00Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Most crunchiest Burger Making😍😋|| Indian Street Food",
+        "description": "burger #kurkureburger #vegburger #bhukkaddillike #rohinifood #rohinistreetfood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-07T06:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CRcB2d19JtQP3jbhShz4wlxayes",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VflvkWu6GAQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-08T05:41:18Z",
+        "channelId": "UCcvThVnw6xQioaVWeO1X8mw",
+        "title": "70/- रु में शाही पनीर वाली थाली 😱 Manoj Bhai thali || foody vidyut || #shorts",
+        "description": "70/- रु में शाही पनीर वाली थाली Manoj Bhai thali || foody vidyut || #amazingfood​ #streetfood​ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VflvkWu6GAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VflvkWu6GAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VflvkWu6GAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VflvkWu6GAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VflvkWu6GAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vidyut Aaryan ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-08T05:41:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "idWWYlLUqUdIrY0xmFIm_u_UhYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xOJPsQWcPCc"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-28T12:15:14Z",
+        "channelId": "UCwLTzYsIz7PJ_wzkw4BYNHA",
+        "title": "Street Style Fruit Chaat In Just 20/-😍❤️ #indianstreetfood #shortsfeed #food #trending #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xOJPsQWcPCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xOJPsQWcPCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xOJPsQWcPCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xOJPsQWcPCc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xOJPsQWcPCc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodwalebhaiya",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-28T12:15:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ExvetupOh3FkA7cDMfjOQzUw_ok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wlDwh6WE-a4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-02T06:48:18Z",
+        "channelId": "UC9CGj0Q1ansl0g-l9a5dw1A",
+        "title": "Famous Street Food Stalls Exposed 😳 Part - 3 #shorts",
+        "description": "Famous Street Food Sellers Dark Reality PART - 3 #shorts #viral #streetfood #foodshorts #food #foodlover.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wlDwh6WE-a4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wlDwh6WE-a4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wlDwh6WE-a4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wlDwh6WE-a4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wlDwh6WE-a4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mohit Pal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-02T06:48:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UD7ZyCl9_78OLHrjzsrjA6gRK0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "43QhRHNviVU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-27T06:30:01Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Flying Noodles Making😳🔥|| Indian Street Food",
+        "description": "noodles #chinesefood #bhukkaddillike #manchuriangravy #vegnoodle.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43QhRHNviVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43QhRHNviVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43QhRHNviVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43QhRHNviVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43QhRHNviVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-27T06:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WOQj3MBJkwEsUgKtLXGkhQ9op1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-PVJNjfRi9U"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-12T13:54:18Z",
+        "channelId": "UCl3W8iJFzQ9Nbam8PS2H8Ew",
+        "title": "I Opened A Momos Stall 🥟 #shorts",
+        "description": "I Opened A Momos Stall #shorts Join this channel's membership:- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-PVJNjfRi9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-PVJNjfRi9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-PVJNjfRi9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-PVJNjfRi9U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-PVJNjfRi9U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rahul Jha Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-12T13:54:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XwO2fG8MNjqWj4sGVsYnNwNuEW4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e8m8tXv-bDw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-30T17:46:11Z",
+        "channelId": "UC9OnXzKpQF9EIhi6COQRQMA",
+        "title": "Food Van| Chinese Food Van #foodvan#foodcart#chinesefood#irshadindustriespvtltd",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e8m8tXv-bDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e8m8tXv-bDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e8m8tXv-bDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e8m8tXv-bDw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e8m8tXv-bDw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Irshad Industries Pvt Ltd",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-30T17:46:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yeZw7mRM7W7huSdx-Eu6X7Cb_0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AUFntWPC53s"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-16T15:01:20Z",
+        "channelId": "UCH9dxTsai_cbZ_b6M4VJakg",
+        "title": "Mumbai Ke Maa Bete Ka Famous vada paav 😋😱 #indianstreetfoo #food #streetfood",
+        "description": "Mumbai Ke Maa Bete Ka Famous vada paav #indianstreetfoo #streetfood #indianfood #indiafoodstreet101.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AUFntWPC53s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AUFntWPC53s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AUFntWPC53s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AUFntWPC53s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AUFntWPC53s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodies Neeraj ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-16T15:01:20Z"
+      }
+    }
+  ]
+}

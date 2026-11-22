@@ -1,0 +1,1114 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली खाने का ठेला",
+    "relevanceLanguage": "hi",
+    "videoDuration": "long",
+    "publishedAfter": "2025-07-01T00:00:00Z",
+    "publishedBefore": "2025-09-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:35.675279+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oYVQI7CatqAWj6NTJOMxobJG7LM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BStGFimykYs"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-12T15:17:53Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Trying Every VIRAL THALI for 24 Hours",
+        "description": "About the Video - This video was meant to be about thali but it's getting crazy, crazier and craziest. #viral #thali #aayushsapra ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BStGFimykYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BStGFimykYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BStGFimykYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BStGFimykYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BStGFimykYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-12T15:17:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gmh836Rx9LcNKyqsg_E2eZI7jHU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j6pYF7jhjlg"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-05T14:39:27Z",
+        "channelId": "UC0HLde5_UG7XqOBTuBkauXQ",
+        "title": "&quot;Purani Dilli Street Food Tour | Zahid Bhai ki Nalli Biryani, Haleem &amp; 80 Saal Purani Shops&quot;",
+        "description": "streetfood #food #faizbaba530 --------------------------------------------------- Purani Dilli ki galliyan apne aap mein ek alag hi vibe rakhti ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j6pYF7jhjlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j6pYF7jhjlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j6pYF7jhjlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j6pYF7jhjlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j6pYF7jhjlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Faiz Baba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-05T14:39:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2iu8aBM_vOF73ihV5y2dJTHqTFg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YL_-UYB4gzo"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-29T14:05:49Z",
+        "channelId": "UCMeuW9L5lQv6sguVnBIcIPw",
+        "title": "Business On Wheels Multiple Purpose Cart Kiosk Manufacturer Food Truck E-Rickshaw Kart Startup",
+        "description": "For promotional video shoot you can contact on 9868169403, 7303290391) Vcrea8 Food trucks & food carts* Company ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YL_-UYB4gzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YL_-UYB4gzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YL_-UYB4gzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YL_-UYB4gzo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "The News Gate",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-29T14:05:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mkSSOoakGUE86rfgm0muM3SMM9A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "foiABHOgVWQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-14T12:01:19Z",
+        "channelId": "UCh4GTqIYuWTO3H-FpTo3Gyw",
+        "title": "&quot;6 फिट लंबा डोसा सांभर बेचने वाली बहु || 6 Feet Long Daughter In Law Selling Dosa Sambhar&quot;",
+        "description": "6_Feet_Lamba_Dosa_Sambhar_Bechne_Wali_Bahu #6_फिट_लंबा_डोसा_सांभर_बेचने_वाली_बहु ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/foiABHOgVWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/foiABHOgVWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/foiABHOgVWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/foiABHOgVWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/foiABHOgVWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saas Bahu Ki घर गृहस्ती ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-14T12:01:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hiOnHQL2JSRsUqs23bj17GHWBOY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r28wMXeavFI"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-11T11:30:55Z",
+        "channelId": "UCBIT1FSJW6yTlzqK-31FDWg",
+        "title": "ठेले पर Hathi से गले लगने के लिए लड़ पड़े Jetha &amp; Iyer | Taarak Mehta Ka Ooltah Chashmah| Full Movie",
+        "description": "Click here to Subscribe to LIV Comedy: https://www.youtube.com/channel/UCBIT1FSJW6yTlzqK-31FDWg?sub_confirmation=1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r28wMXeavFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r28wMXeavFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r28wMXeavFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r28wMXeavFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r28wMXeavFI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIV Comedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-11T11:30:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DbOHCZvk9QhBUV8_MuCuooR7qgw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LbLHQSG9G08"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-23T07:22:08Z",
+        "channelId": "UC5aKead6Q8YQYjceizxJIuw",
+        "title": "I Tried Every Level of Dining Experience",
+        "description": "Follow me on Instagram - https://instagram.com/inishutiwari For business and collaboration - contactnishutiwari@gmail.com Shoot ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nishu Tiwari",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-23T07:22:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "73hmN4kOF8GQYzHgnecRHNbbFYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tz3rxT1MPLY"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-28T08:30:23Z",
+        "channelId": "UC_nG9utuUtB_fxoMSx7j4sQ",
+        "title": "Motlu-Patlu का food business हुआ bad reviews से बर्बाद | Motu Patlu | मोटू पतलू",
+        "description": "Motu & Patlu's dream of running a food business takes a bitter turn when bad reviews start pouring in. Just when things couldn't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tz3rxT1MPLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tz3rxT1MPLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tz3rxT1MPLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tz3rxT1MPLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tz3rxT1MPLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sonic Gang",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-28T08:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_V1b3DjmQK5EWAhsSUY7O0VLuwo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X86xcPrWpc0"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-23T13:30:41Z",
+        "channelId": "UCkFZNhDgHW1XX9tCj-NPR-Q",
+        "title": "Mumbai Ka Famous Nashta | Breakfast In Mumbai | Keema Pav At Sarvi | Kebab Pav | Mumbai Street Food",
+        "description": "Famous Breakfast in Mumbai has tons of options like Keema Pav at Sarvi Restaurant Nagpada, Kebab Pav in Dongri and other ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X86xcPrWpc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X86xcPrWpc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X86xcPrWpc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X86xcPrWpc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X86xcPrWpc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Globalecentre",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-23T13:30:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "duK-kzsNnphAPLYqDyHkl3y0f_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w_f_bldcX1c"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-25T12:20:01Z",
+        "channelId": "UCT2g5lCTG4DCv-bWmpmqNiw",
+        "title": "बारिश में ग्रेवी वाले चटपटे मोमोज बेचने वाली गरीब बहु || Cartoon Videos || Poor daughter-in-law sell",
+        "description": "Barish_me_Gravy_vale_chatpate_momos_bechne_vali_gareeb_bahu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_f_bldcX1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_f_bldcX1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_f_bldcX1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w_f_bldcX1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w_f_bldcX1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sas Bahu Or शाजिशे",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-25T12:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yPDkLZqoHjF5r2OGat0UIdh_xWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xx2QuWfKYmk"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-19T06:01:47Z",
+        "channelId": "UCE81YzUkrvSDLgvDCnZFF1Q",
+        "title": "पत्नी संग ठेले पर बनाते है Rajputana खड़े मसाले का मटन देसी घी और केसर डालकर | Jaipur Food Tour",
+        "description": "jaipur #indianfood #muttoncurry #nonvegfood #laalmaas #cart #rajasthan #indianstreetfood #desifood #rajputana #virtualbanjara ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Virtual Banjara®",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-19T06:01:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BrQhBbEobA3azEKKnrhz7xNkiaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MXiTnzR5o9I"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-18T04:30:21Z",
+        "channelId": "UCgKCGUVx7NhHimq_tWZvJkw",
+        "title": "&quot;बारिश में चटपटे तंदूरी मोमोज वाली बहु || Daughter-in-law with spicy tandoori momos in the rain&quot; ||",
+        "description": "Barish_me_chatpate_tandoori_momos_vali_Bahu #बारिश_में_चटपटे_तंदूरी_मोमोज_वाली_बहु ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MXiTnzR5o9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MXiTnzR5o9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MXiTnzR5o9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MXiTnzR5o9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MXiTnzR5o9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sas Bahoo भसड़ ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-18T04:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lpziWkcJQEkCR5YSLMWxQDq1938",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LWgigO_BqjI"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-20T12:30:35Z",
+        "channelId": "UCD3p1Z8pPO2MWVvOSrvrLTA",
+        "title": "बारिश में चटपटे सांभर इडली वाली Spicy Sambar Idli In The Rain || Cartoon Video ",
+        "description": "बारिश_में_चटपटे_सांभ_ इडली_वाली #Spicy_Sambar_Idli_In_The_Rain #Cartoon_Video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LWgigO_BqjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LWgigO_BqjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LWgigO_BqjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LWgigO_BqjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LWgigO_BqjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Abundance Sas Bahu Kahaniyan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-20T12:30:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MXjTUZKjMg1CRO537NE0vP9nCY0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ccfIupU6FaU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-26T06:49:15Z",
+        "channelId": "UClF9vKtRlHfLgyolnErf2Ew",
+        "title": "10 ke 4 momos 20 के 6 मोमोज| Veg Momos Recipe| मार्केट स्टाइल बनाने की रेसिपी |#vegmomos",
+        "description": "10 ke 4 momos 20 के 6 मोमोज Veg Momos Recipe| मार्केट स्टाइल बनाने की रेसिपी ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ccfIupU6FaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ccfIupU6FaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ccfIupU6FaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ccfIupU6FaU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ccfIupU6FaU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thele Wale ki Life style",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-26T06:49:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Y5D22jnVV_oQ17Ae7WhS3mXFNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C8IEPlorVMs"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T11:30:11Z",
+        "channelId": "UC0zYR2v31tqBAq0LcnYteZQ",
+        "title": "तीखी चाऊमीन खाने वाला पहाड़ी ससुराल||hill in-laws who eat spicy chowmein||Hindi cartoon stories ",
+        "description": "tikhi_chaumin_kyane_wala_pahadi_sasural #तीखी_चाऊमीन_खाने_वाला_पहाड़ी_ ससुराल #hill ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C8IEPlorVMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C8IEPlorVMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C8IEPlorVMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C8IEPlorVMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C8IEPlorVMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Abundance Sas Bahu ke DRAME",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T11:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j-CXyQITRFSOgDyUKREaXBWVgok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GiCThy64Xbs"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-02T11:30:11Z",
+        "channelId": "UCBIT1FSJW6yTlzqK-31FDWg",
+        "title": "Jetha ने अपने हाथों से खिलाया Daya को खाना | Taarak Mehta Ka Ooltah Chashmah | Full Movie",
+        "description": "Click here to Subscribe to LIV Comedy: https://www.youtube.com/channel/UCBIT1FSJW6yTlzqK-31FDWg?sub_confirmation=1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GiCThy64Xbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GiCThy64Xbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GiCThy64Xbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GiCThy64Xbs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GiCThy64Xbs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIV Comedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-02T11:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i_hvzGTV6snBLbosiaSzhhmw8Iw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5nrVYh7uXhE"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-01T07:47:41Z",
+        "channelId": "UCR3XVTUgeQRWBvKCXdSKGQg",
+        "title": "Unique Food Kiosk Designs | AA Autils – Custom Food Carts &amp; Kiosks Manufacturer #foodcart #aaautils",
+        "description": "Experience three innovative food kiosk designs by AA Autils, a leading manufacturer of food carts, kiosks, food trucks, and display ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5nrVYh7uXhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5nrVYh7uXhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5nrVYh7uXhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5nrVYh7uXhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5nrVYh7uXhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AA AUTILS  Carts On Wheels ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-01T07:47:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WaAOIVzPybtZsx3nTzYKNvvyKAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zlDZ-ypWsmg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-13T08:57:32Z",
+        "channelId": "UCE81YzUkrvSDLgvDCnZFF1Q",
+        "title": " A देसी Diet | कलयुग में सतयुग का Street Food | चूल्हे पर बनी लाल मिर्च और लहसुन की(चटनी रोटी)Jaipur",
+        "description": "indianfood #satvikfood #streetfood #indianfood #jaipur #desifood #virtualbanjara #chatni Read written recipe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Virtual Banjara®",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-13T08:57:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UDP799KxUmRb9EKIVMkRSLOEkVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CdEYim0Ib28"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-29T11:30:09Z",
+        "channelId": "UCrrgyL4XKgTg0kTX3O4B89g",
+        "title": "मछली चावल बेचने वाली बहू||daughter-in-law selling fish and rice||Hindi cartoon stories ",
+        "description": "machhali_chawal_bechne_wali_Bahu #मछली_चावल_बेचने_वाली_बहू ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CdEYim0Ib28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CdEYim0Ib28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CdEYim0Ib28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CdEYim0Ib28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CdEYim0Ib28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MAHI Magic TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-29T11:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mlSxO4R003tulZPHRHuxeCH1arw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CllE7337VW4"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-11T13:40:00Z",
+        "channelId": "UCjx_hRO4cIbYSrI-w7UZL1A",
+        "title": "Top 5 Places For Mutton in Chandigarh | Street Food India",
+        "description": "Oyefoodiesingh Made a Video on Top 5 Places For Mutton in Chandigarh | Street Food India Get ready for a culinary journey like ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CllE7337VW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CllE7337VW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CllE7337VW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CllE7337VW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CllE7337VW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Oye Foodie Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-11T13:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TJGVNnwWP26c3mpkKlEdUtkn6ik",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5IiWq4-u0XY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-19T12:30:07Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Basukinath to Deoghar via Trikut Parvat + Huge Peda Factory @ Ghormara + Samosi + Shringar/Aarti",
+        "description": "In this episode, we begin our journey from the sacred grounds of Baba Basukinath Temple, located around 45 km from Deoghar.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5IiWq4-u0XY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5IiWq4-u0XY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5IiWq4-u0XY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5IiWq4-u0XY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5IiWq4-u0XY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-19T12:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NZYRb7jG-ZOH9-8n3rXOpBIYkmg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PkSzAihL-0k"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-18T11:30:20Z",
+        "channelId": "UCBIT1FSJW6yTlzqK-31FDWg",
+        "title": "Jetha ने सबको बताया Iyer के कुर्ते का असली Price | Taarak Mehta Ka Ooltah Chashmah | Full Movie",
+        "description": "Click here to Subscribe to LIV Comedy: https://www.youtube.com/channel/UCBIT1FSJW6yTlzqK-31FDWg?sub_confirmation=1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PkSzAihL-0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PkSzAihL-0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PkSzAihL-0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PkSzAihL-0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PkSzAihL-0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIV Comedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-18T11:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YI3djqvghh5GVEJBonfSmWSIvXc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JeFirtP8Jzo"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-12T16:00:28Z",
+        "channelId": "UCOQNJjhXwvAScuELTT_i7cQ",
+        "title": "Mahila Mandal ने खाई &#39;Special Jain Pani Puri&#39; | Taarak Mehta Ka Ooltah Chashmah | Comedy Overdose",
+        "description": "Click here to subscribe to the Sony LIV Channel: https://www.youtube.com/user/sonyliv Get ready for a delicious treat with your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JeFirtP8Jzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JeFirtP8Jzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JeFirtP8Jzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JeFirtP8Jzo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JeFirtP8Jzo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony LIV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-12T16:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S2NuiIG99jvpHDVFX2j7Px3NIEw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CRiwXt10DOk"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-15T16:09:21Z",
+        "channelId": "UC1nVUbcLU8P_cLDkzQdewOw",
+        "title": "Ep - 2 Vrindavan Street Food Tour | Vrindavan Famous Breakfast | Vrindavan Best Food | Vrindavan",
+        "description": "In this video we have covered Vrindavan Famous local street food and Sightseeing . Vrindavan is a city near Delhi and Agra .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CRiwXt10DOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CRiwXt10DOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CRiwXt10DOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CRiwXt10DOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CRiwXt10DOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amritsar Walking Tours",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-15T16:09:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z02J-VCuGMLW1t1TSFWcC1grdE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5ojvwrYJSCE"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-21T12:30:10Z",
+        "channelId": "UCD3p1Z8pPO2MWVvOSrvrLTA",
+        "title": "बारिश में चटपटे मोमोज वाली || Spicy Momos Rain || Cartoon Video || Abundance Sas Bahu Kahaniyan",
+        "description": "बारिश_में_चटपटे_मोमोज_वाली #Spicy_Momos_Rain #Cartoon_Video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ojvwrYJSCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ojvwrYJSCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ojvwrYJSCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5ojvwrYJSCE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5ojvwrYJSCE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Abundance Sas Bahu Kahaniyan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-21T12:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5fDYamVS17gLXr_yZJkuwxygcpw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NwPVqRQMXus"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T16:00:41Z",
+        "channelId": "UCOQNJjhXwvAScuELTT_i7cQ",
+        "title": "Gokuldham में Arrange हुई Jalebi-Fafda-Lassi Party |Taarak Mehta Ka Ooltah Chashmah |Comedy Overdose",
+        "description": "Click here to subscribe to the Sony LIV Channel: https://www.youtube.com/user/sonyliv Get ready for a delicious treat with your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NwPVqRQMXus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NwPVqRQMXus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwPVqRQMXus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NwPVqRQMXus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NwPVqRQMXus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony LIV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T16:00:41Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली सड़क किनारे खाना",
+    "relevanceLanguage": "hi",
+    "videoDuration": "medium",
+    "publishedAfter": "2025-07-01T00:00:00Z",
+    "publishedBefore": "2025-09-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:37.274430+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BY2Hvh-EUWWCb8VvIxu9-6MIcp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "48q2sJGifwg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-27T11:30:03Z",
+        "channelId": "UCv6Vt0cc-CNQrRj4yCBG9Ig",
+        "title": "Majnu Ka Tila Food Delhi | Laphing, Momos &amp; Tibetan Street Snacks Food Tour in Delhi",
+        "description": "Welcome to Bhooka Saand Food Vlog! In this episode, we take you on a delicious journey to explore Majnu Ka Tila Food in New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/48q2sJGifwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/48q2sJGifwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/48q2sJGifwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/48q2sJGifwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/48q2sJGifwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bhooka Saand",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-27T11:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S5tk_LmiDIUxCMkBZW4-N0c1Yrg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "40pfbD2uvj4"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T08:41:02Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "Rani Bagh Food Tour | Delhi ke Om Corner Chole Bhature, Viral Vada Pav Girl &amp; More | Veggie Paaji",
+        "description": "Join Veggie Paaji on a mouth-watering Delhi food tour as we dive into the vibrant and bustling Rani Bagh Market in Pitampura!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40pfbD2uvj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40pfbD2uvj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40pfbD2uvj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/40pfbD2uvj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/40pfbD2uvj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T08:41:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FV_lnZ-F2pOF3hUH8NTktr-T8e8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f2Q7rDnLTZg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-09T15:01:12Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food SOUTH DELHI | Kalmi Kebabs, Peshawari Chicken Tikka, Mutton Seekh, Chicken Curry",
+        "description": "Street Food SOUTH DELHI | Kalmi Kebabs, Peshawari Chicken Tikka, Mutton Seekh, Chicken Curry #foodie #dilsefoodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f2Q7rDnLTZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f2Q7rDnLTZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2Q7rDnLTZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f2Q7rDnLTZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f2Q7rDnLTZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-09T15:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U50TxfcAcLwMzYLcdXHgD0QD2z4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NxqIYRHclLU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-02T06:52:03Z",
+        "channelId": "UCHBIq3UztMKT-VzaSVJD6LQ",
+        "title": " उत्तर प्रदेश वाले Truck Driverने बनाया रोड किनारे खाना बनाया  हाइवे पर ट्रक के नीचे  ड्राइवरो  ने 👌",
+        "description": "होटल से भी अच्छा खाना बनाया हाइवे पर ट्रक के नीचे ड्राइवरो ने | truck ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NxqIYRHclLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NxqIYRHclLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NxqIYRHclLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NxqIYRHclLU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NxqIYRHclLU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rajawat travels 24",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-02T06:52:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NlF-IWbD1Toa5sj-fAE7U7g38Fo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c5TxY4eUMuo"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-23T12:01:17Z",
+        "channelId": "UCV31FHtQKyJ_BG7l0zNRt9Q",
+        "title": "Modern School Teacher सड़क किनारे बेचती हैं घर वाला खाना 😱😱 | Special Veg Thali | Foodie Walks",
+        "description": "Modern School Teacher सड़क किनारे बेचती हैं घर वाला खाना | Special Veg Thali | Foodie Walks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c5TxY4eUMuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c5TxY4eUMuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5TxY4eUMuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c5TxY4eUMuo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c5TxY4eUMuo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-23T12:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mnhZTqfjwG4mySkp0uyu4i4eBjI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ycv66ZCZrNk"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-28T14:54:28Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Only ₹ 20 😍 Engineer Sardarji की Viral Punjabi Thali | Street Food India",
+        "description": "Only ₹ 20 Engineer Sardarji की Viral Punjabi Thali | Street Food India | Indian Street Food | Best Street Food | Street Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ycv66ZCZrNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ycv66ZCZrNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ycv66ZCZrNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ycv66ZCZrNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ycv66ZCZrNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-28T14:54:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "okz_Yn1q6sR9tXkKngXerDeMm-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9rgLhbgG_XU"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-31T14:46:50Z",
+        "channelId": "UCsMxGfgliAmSFV5wL47xjSQ",
+        "title": "LEH LADAKH ROAD TRIP BUDGET 2025 😍|  LADAKH ITINERARY &amp; BUDGET🥶| DELHI TO LADAKH  BUDGET 2025🔥",
+        "description": "Hello Guys,Please Like,Share & Subscribe. LEH LADAKH ROAD TRIP BUDGET 2025 | LADAKH ITINERARY & BUDGET  | ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9rgLhbgG_XU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9rgLhbgG_XU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9rgLhbgG_XU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9rgLhbgG_XU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9rgLhbgG_XU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Skcardetail 7.1M",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-31T14:46:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mrmUqREbx1ZO0bjKD3PC34qRTkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6n3ebwlpvNw"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-03T14:30:06Z",
+        "channelId": "UCvTLyB-aixsl4MhiMEomVRQ",
+        "title": "Raan, Spice &amp; Everything Nice | Mumbai’s Mughlai Icons | Khaana No. 1 Ep #36",
+        "description": "Welcome back to Khaana No. 1—where we chase the boldest flavors across the city. This time, we're going big. Real big. We're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6n3ebwlpvNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6n3ebwlpvNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6n3ebwlpvNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6n3ebwlpvNw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6n3ebwlpvNw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khaane Mein Kya Hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-03T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rzJ400tbS4rSH3aM6pQ0GOGx3dg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0p8vMYdCqCY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-09T12:30:00Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Kasol to Manali Via Naggar Food Trip | Naggar Castle Bakery Rum ball + Cheese Spinach/Kothey Momo ",
+        "description": "After spending a peaceful day in Kasol, we set off for Manali the next morning with our gracious host Khushboo, for whom ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0p8vMYdCqCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0p8vMYdCqCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0p8vMYdCqCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0p8vMYdCqCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0p8vMYdCqCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-09T12:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rwqLzt7ufkerTMih3S2i66pSs0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uzp0Kgjv7qs"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-07T14:55:11Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "23 ki Age में Punjab ka Street Food King 😍 Puran ji Pizza Chole Kulche | Street Food India",
+        "description": "Street Food India | 23 ki Age में Punjab ka Street Food King Puran ji Pizza Chole Kulche | Indian Street Food | Best Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uzp0Kgjv7qs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uzp0Kgjv7qs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uzp0Kgjv7qs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uzp0Kgjv7qs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uzp0Kgjv7qs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-07T14:55:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2h55TSKxvXnjZugA6hRGsj0R4ho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J_PtaGlph60"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-06T02:30:15Z",
+        "channelId": "UCjvgGbPPn-FgYeguc5nxG4A",
+        "title": "Piyush Ne Eski Jaan Bacha Di 😍",
+        "description": "Folllow me on Instagram- https://www.instagram.com/souravjoshivlogs/?hl=en I hope you enjoyed this video hit likes. And do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J_PtaGlph60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J_PtaGlph60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_PtaGlph60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J_PtaGlph60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J_PtaGlph60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sourav Joshi Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-06T02:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O0vEN5ikh6RIxQbYnmP6XC4ekk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JNykhSBqPmM"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T06:40:52Z",
+        "channelId": "UCKZ3ad95WlLhLGnAH_pyMRA",
+        "title": "सिर्फ Rs30 में मिल रहा 40 से भी ज्यादा Item||Chicken,Mutton,Anda,Machli सब मिलेगा||Zaika Patna Ka",
+        "description": "Follow me on Instagram- https://instagram.com/zaika_patna_ka?utm_medium= . . . . . . . . . . . . . #Mutton #Fishthali #Kolkatafood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JNykhSBqPmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JNykhSBqPmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JNykhSBqPmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JNykhSBqPmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JNykhSBqPmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zaika Patna Ka",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T06:40:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6TCA9p8pTSjLOB2vCyB6AhR6NDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2jg14AQVwtU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-10T11:30:03Z",
+        "channelId": "UCvh8w4cH8s4wCh1Tg04NFyg",
+        "title": "बारिश में गरीब ससुराल वालों ने खाया पहली बार ब्रेड पिज़्ज़ा | Poor in-laws ate bread | Cartoon Video",
+        "description": "बारिश_में_गरीब_ससुराल_वालों_ने_खाया_पहली_बार ब्रेड_पिज़्ज़ा ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2jg14AQVwtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2jg14AQVwtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2jg14AQVwtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2jg14AQVwtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2jg14AQVwtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JUGALBANDI Magical Stories ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-10T11:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2dsI5txQ2WpC-mHVp9KE7MI1Blc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GbIewyMIUFQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-25T04:41:32Z",
+        "channelId": "UC6UkckPg6Kdqe2jA_zus6HQ",
+        "title": "Akshardham mandir delhi | Akshardham temple delhi | Akshardham temple vlogsl tour | laser light show",
+        "description": "Swaminarayan Akshardham Akshardham timing : 9:30 to 8pm, Last entry timing is 6:30pm nearest metro is : Akshardham mandir ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GbIewyMIUFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GbIewyMIUFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GbIewyMIUFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GbIewyMIUFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GbIewyMIUFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AC Delhi Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-25T04:41:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ScT2tP_srIlkH8Yrtgvk7gQYhqY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bA12ugpHVDU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-24T05:08:59Z",
+        "channelId": "UCNQxE_gFCv2NUmEjEVeqgsA",
+        "title": "Ranthambore Travel Guide 2025 | Jungle Safari, Luxury Stay &amp; Things to Do in 2 Days",
+        "description": "Planning a trip to Ranthambore? In this complete Ranthambore travel guide, we share everything you need to know for a 2–3 day ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bA12ugpHVDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bA12ugpHVDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bA12ugpHVDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bA12ugpHVDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bA12ugpHVDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Fun Dos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-24T05:08:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gpFxtrKenDSalj86LYyB7O_Xnbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2iO59EjUM5E"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-09T05:56:28Z",
+        "channelId": "UCu08jFEUczfFnq2VMknsk_g",
+        "title": "थानेदार जी SP दरदरा कीमा गुर्दा कलेजा IN COOKER | गाँव में बना मटन गुर्दा कलेजी रेसिपी। JAIPUR GONER",
+        "description": "NOTE :- We're not recommending this place for families, If you want to try it you can place an order and ask them to deliver with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2iO59EjUM5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2iO59EjUM5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2iO59EjUM5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2iO59EjUM5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2iO59EjUM5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Food Talk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-09T05:56:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SAmGlns5kkYsYMshEbpzrwwp4WU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zix_dF_hll0"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T10:35:15Z",
+        "channelId": "UCOMY-BTG12CfZRChGjDi8hg",
+        "title": "यहाँ 200 किलो से ज़्यादा Mutton बनता।ऐसी भगदड़ Mutton खाने के लिए पहले कभी नहीं दिखी।Zaika Zindagi।",
+        "description": "यहाँ 200 किलो से ज़्यादा Mutton बनता।ऐसी भगदड़ Mutton खाने के लिए पहले कभी ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zix_dF_hll0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zix_dF_hll0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zix_dF_hll0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zix_dF_hll0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zix_dF_hll0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zaika Zindagi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T10:35:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7jDe_r9S_RihbqLLeuhgBRdyzsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zUOp_lC3t8Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-05T02:15:09Z",
+        "channelId": "UCvfEFY2CXJya9zvDHIqFg2A",
+        "title": "TOP 10 BEST PLACES IN GHAZIABAD | Delhi NCR के पास घूमने की बेस्ट जगहें | 10ON10",
+        "description": "Ghaziabad, located near Delhi and Noida, is a fast-growing city known for its mix of culture, shopping, and leisure. It's a part of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zUOp_lC3t8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zUOp_lC3t8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zUOp_lC3t8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zUOp_lC3t8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zUOp_lC3t8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "10 ON 10 - Travel & Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-05T02:15:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w_W9qDkUFxUYgu3TkgqU2JdQaps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fLIpCAnjkVU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-11T02:43:54Z",
+        "channelId": "UCw7ukIaPXWIIjrjnNn0DiGA",
+        "title": "Jaipur Zoo Rajasthan | जयपुर चिड़ियाघर | Jaipur Rajasthan",
+        "description": "Jaipur Zoo Rajasthan | जयपुर चिड़ियाघर | Jaipur Rajasthan इस वीडियो में हमने जयपुर ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLIpCAnjkVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLIpCAnjkVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLIpCAnjkVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fLIpCAnjkVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fLIpCAnjkVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mahadev Safar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-11T02:43:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gxkbaKBybuQvEZdDZOq3Jz-ivrQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Gxk8gQiErU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-18T08:30:09Z",
+        "channelId": "UCBIT1FSJW6yTlzqK-31FDWg",
+        "title": "Jetha क्यों ढूंढ रहा है Train में South Indian? | Taarak Mehta Ka Ooltah Chashmah | Full Episode",
+        "description": "Click here to Subscribe to LIV Comedy: https://www.youtube.com/channel/UCBIT1FSJW6yTlzqK-31FDWg?sub_confirmation=1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Gxk8gQiErU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Gxk8gQiErU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Gxk8gQiErU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Gxk8gQiErU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Gxk8gQiErU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIV Comedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-18T08:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qb2Um5eFJRLNhh8wLvXXNPyU6cM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IO4esu9f15U"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-18T04:30:22Z",
+        "channelId": "UCVyTlHRwDFhx4REjYR0oP8Q",
+        "title": "Bachon Ke Liye Banaye Samose",
+        "description": "armaanmalik #payalmalik #kritikamalik #chirayumalik #vlog For Promotions Enquiry Mail us: team@armaanmalik.in +91 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IO4esu9f15U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IO4esu9f15U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IO4esu9f15U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IO4esu9f15U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IO4esu9f15U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Malik Kids ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-18T04:30:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pIPFWwRfWs5QoVCoDOmVFWSpIbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DffmzZIw6N8"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-25T14:39:29Z",
+        "channelId": "UCipSU-s77LQLycThKjKpqSw",
+        "title": "Purani Dilli Jama Masjid Famous Nalli Nihari Recipe | Dawat Special Degi Nihari Recipe ",
+        "description": "nallinihari #nalliniharirecipe #beefniharirecipe #beefnihari https://youtu.be/KTQFD2G0cTs?si=VPFvaC3dl2NIENsm #Nihari ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DffmzZIw6N8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DffmzZIw6N8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DffmzZIw6N8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DffmzZIw6N8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DffmzZIw6N8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cook with Lubna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-25T14:39:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wzscBtNADRDGNXu88Zh07WaDNdg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uRLK9nf2m38"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-03T12:51:09Z",
+        "channelId": "UCiNFctcYXG3xaAOCn6_esSQ",
+        "title": "अरबी न खाने वाले भी किलोभर अरबी के पत्ते खा जाएंगे,अगर मेरी तरह से बनाएंगे,न होगी गले में खराश|Patod",
+        "description": "arbipattasabji #kitchenproducts #cookingvideo #food #foodie patra banane ki recipe,अरबी के पत्ते बनाने की ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uRLK9nf2m38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uRLK9nf2m38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uRLK9nf2m38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uRLK9nf2m38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uRLK9nf2m38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jyoti kitchen's tour",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-03T12:51:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q03nnDHeUjSnRNQMK6--lEfQQIU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZO6jdYjQYQ8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-12T16:23:59Z",
+        "channelId": "UCugomqcJytmTP9CIMNFz-1Q",
+        "title": "Bhimashankar Jyotirlinga | Gupt Bhimashankar | Bhimashankar Temple Tour Guide | Food | Hotels",
+        "description": "Bhimashankar Jyotirlinga Darshana      ✨️ Discover the divine tranquility of Bhimashankar Jyotirlinga, one of the 12 sacred ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZO6jdYjQYQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZO6jdYjQYQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZO6jdYjQYQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZO6jdYjQYQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZO6jdYjQYQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traveller Dilkhush",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-12T16:23:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HQu-nBV71pluZ_Tv3iQXz79jASU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P0uqlXtAhWc"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-28T01:00:06Z",
+        "channelId": "UCePxBnwIwmzONgNpLQNPFcw",
+        "title": "#viralsong | लईकी बदनाम बाड़ी | #Yashika_Chandra | Sad Bhojpuri Song | Laiki Badnam Badi | Sad 2025",
+        "description": "Laiki Badnam Badi Video Video Laiki Badnam Badi Ladki Badnam Badi Yashika Chandra Sad Song Laiki Badnam Badi Yashika ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0uqlXtAhWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0uqlXtAhWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0uqlXtAhWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P0uqlXtAhWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P0uqlXtAhWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Charsi Music ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-28T01:00:06Z"
+      }
+    }
+  ]
+}

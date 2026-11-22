@@ -1,0 +1,429 @@
+{
+  "resource": "videos",
+  "params": {
+    "part": "snippet,contentDetails,status,recordingDetails,statistics",
+    "id": "zpJTKLOxfcY,zuqjIbe1i3Y,zwXRsK-GfLM,zximKYQqgC0,zzV5KRzfwEs"
+  },
+  "retrieved_utc": "2026-11-21T21:57:17.878214+00:00",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "vv6JAb5KcTiYDdQ9-Dp4RyhJkzI",
+      "id": "zpJTKLOxfcY",
+      "snippet": {
+        "publishedAt": "2025-11-23T14:53:02Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "India's No 1 Data Ram spl Chole Kulche | Street Food India | Best in Delhi",
+        "description": "Street Food India | India's No 1 Data Ram spl Chole Kulche Street Food | Indian Street Food | Best Street Food Delhi | Street Food | Food Vlogs\n\nIn This Latest Indian Street Food Video We Tried Delhi Street Food ke Best Chole Kulche Street Food 😊\n\nWelcome to Another Mouth Watering Street Food Vlog!\n\nThis Street Food India Video is about Delhi ka Best Chole Kulche Street Food. In This Mouthwatering Street Food Vlog, We Tried Delhi Street Food Best Chole Kulche Street Food at Data Ram ji Chole Kulche. This Indian Food cart is ranked as Delhi's No 1 Best Chole Kulche. \nDelhi Street Food is Famous Worldwide For its Best Chole Bhature Street Food and Best Chole Kulche Street Food. This is the Best Kulche Chole We Tried in our recent Delhi Food Tour.\n\nWatch this Street Food Video to Know More About this Best Chole Kulche Street Food 🤤\n\nStreet Food India\nIndian Street Food\nDelhi Street Food\n\nName : Data Ram ji Chole Kulche\n\nAddress : Bhagwan Mahavir Marg Shalimar Bagh New Delhi\n\nLocation : https://goo.gl/maps/c1YstRbb76Fp1aEcA\n\nPrice : Rs 80 Chole Kulche Full Plate\n\nYeh Video ' India's No 1 Data Ram spl Chole Kulche | Street Food India | Best in Delhi ' Apko Kaisi Lagi Comment Zarur Karna 😊\n\nMilte Hai Apse Next Video Me ❤️\n\nAur App Koi Jagah Suggest Karna Chahte Ho Jaha Aap Chahte Ho Hum Jaaye Aur Food Try Kare Toh Comment Karke Zarur Batana 🙏🏻\n\nSubscribe Our Channel to Keep Our INDIAN STREET FOOD Exploration Videos in Your Feed ❤️🙏🏼😇\n\nINSTAGRAM : https://www.instagram.com/officialsahihai\n\nFACEBOOK : https://www.facebook.com/sahihaiofficialfb\n\nSUBSCRIBE  🙏🏼 → : https://bit.ly/3zg69Oz\n\nKeep Supporting | Keep Smiling 🙏🏼😇\n\n#streetfood #streetfoodindia #indianstreetfood #cholekulchestreetfood #delhifood #delhistreetfood #indianfood #beststreetfood #foodvlogs #foodvideo #officialsahihai #foodblogger #newfoodvideo #punjabifood #indiastreetfood \n\nStreet food\n\nStreet food india\n\nIndian street food\n\nDelhi street food\n\nLatest indian street food\n\nLatest street food india\n\nFood vlogs india\n\nIndian street food delhi\n\nPunjabi street food\n\nStreet food video\n\nChole kulche street food\n\nKulche chole street food\n\nBest chole kulche in delhi\n\nBest delhi street food\n\nFood video\n\nFood india\n\nFood street\n\nFood vlogs\n\nIndian street food new\n\nMix fruit chole kulche\n\nFood blogger\n\nNew street food video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpJTKLOxfcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpJTKLOxfcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpJTKLOxfcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zpJTKLOxfcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zpJTKLOxfcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "tags": [
+          "street food",
+          "street food india",
+          "indian street food",
+          "chole kulche street food",
+          "kulche chole street food",
+          "delhi street food",
+          "best chole kulche delhi",
+          "best street food",
+          "india street food",
+          "indian food",
+          "food vlogs",
+          "food india",
+          "food street",
+          "street food in india",
+          "veg street food",
+          "food blogger",
+          "new street food",
+          "food video",
+          "delhi food tour",
+          "indian street food delhi",
+          "best street food india",
+          "kulche chole",
+          "food vlog",
+          "indian street food chole kulche",
+          "best chole kulche",
+          "delhi food"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "India's No 1 Data Ram spl Chole Kulche | Street Food India | Best in Delhi",
+          "description": "Street Food India | India's No 1 Data Ram spl Chole Kulche Street Food | Indian Street Food | Best Street Food Delhi | Street Food | Food Vlogs\n\nIn This Latest Indian Street Food Video We Tried Delhi Street Food ke Best Chole Kulche Street Food 😊\n\nWelcome to Another Mouth Watering Street Food Vlog!\n\nThis Street Food India Video is about Delhi ka Best Chole Kulche Street Food. In This Mouthwatering Street Food Vlog, We Tried Delhi Street Food Best Chole Kulche Street Food at Data Ram ji Chole Kulche. This Indian Food cart is ranked as Delhi's No 1 Best Chole Kulche. \nDelhi Street Food is Famous Worldwide For its Best Chole Bhature Street Food and Best Chole Kulche Street Food. This is the Best Kulche Chole We Tried in our recent Delhi Food Tour.\n\nWatch this Street Food Video to Know More About this Best Chole Kulche Street Food 🤤\n\nStreet Food India\nIndian Street Food\nDelhi Street Food\n\nName : Data Ram ji Chole Kulche\n\nAddress : Bhagwan Mahavir Marg Shalimar Bagh New Delhi\n\nLocation : https://goo.gl/maps/c1YstRbb76Fp1aEcA\n\nPrice : Rs 80 Chole Kulche Full Plate\n\nYeh Video ' India's No 1 Data Ram spl Chole Kulche | Street Food India | Best in Delhi ' Apko Kaisi Lagi Comment Zarur Karna 😊\n\nMilte Hai Apse Next Video Me ❤️\n\nAur App Koi Jagah Suggest Karna Chahte Ho Jaha Aap Chahte Ho Hum Jaaye Aur Food Try Kare Toh Comment Karke Zarur Batana 🙏🏻\n\nSubscribe Our Channel to Keep Our INDIAN STREET FOOD Exploration Videos in Your Feed ❤️🙏🏼😇\n\nINSTAGRAM : https://www.instagram.com/officialsahihai\n\nFACEBOOK : https://www.facebook.com/sahihaiofficialfb\n\nSUBSCRIBE  🙏🏼 → : https://bit.ly/3zg69Oz\n\nKeep Supporting | Keep Smiling 🙏🏼😇\n\n#streetfood #streetfoodindia #indianstreetfood #cholekulchestreetfood #delhifood #delhistreetfood #indianfood #beststreetfood #foodvlogs #foodvideo #officialsahihai #foodblogger #newfoodvideo #punjabifood #indiastreetfood \n\nStreet food\n\nStreet food india\n\nIndian street food\n\nDelhi street food\n\nLatest indian street food\n\nLatest street food india\n\nFood vlogs india\n\nIndian street food delhi\n\nPunjabi street food\n\nStreet food video\n\nChole kulche street food\n\nKulche chole street food\n\nBest chole kulche in delhi\n\nBest delhi street food\n\nFood video\n\nFood india\n\nFood street\n\nFood vlogs\n\nIndian street food new\n\nMix fruit chole kulche\n\nFood blogger\n\nNew street food video"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT8M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "244290",
+        "likeCount": "2029",
+        "favoriteCount": "0",
+        "commentCount": "108"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "emKLNy2jT4WgMf_7YzVstpLyobc",
+      "id": "zuqjIbe1i3Y",
+      "snippet": {
+        "publishedAt": "2025-08-20T12:31:12Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Manali Apple Orchard Farm Food Tour I Manu Temple + Hidimba Temple + Nepali Thakali Food and Momo",
+        "description": "Our last day in Manali unfolded like a slow, comforting melody full of simple pleasures, heartfelt encounters, and flavours that capture the soul of the mountains.\n\nWe began the morning at Hotellier, tucking into a basic yet genuinely satisfying breakfast. Nothing extravagant, just honest, comforting food that lifted the spirits as the cold mountain air wrapped around us.\n\nFrom there, the path led us to the peaceful surroundings of the Hidimba Temple, where towering deodar trees and soft sunlight filtered through like a blessing. The calmness of the shrine set the tone for the day as we walked through its sacred precincts.\n\nA short drive away, the vibes shifted entirely as we entered the bohemian lanes of Old Manali, the cafes, the bustle, the little shops, and the unmistakable charm that travellers always return for. And right in the middle of that cheerful chaos, we met someone unforgettable: a 100-year-old lady selling khumani. Sitting quietly beside her modest display of apricots, she welcomed us with the warmest smile. \n\nOur next pause was at the German Bakery and Nepali Sandwich Bar, where we picked up a few cookies, sweet, simple bites that kept us going. This was followed by a hearty mealtime stop at Darjeeling Steamers. Their Nepali offerings were truly the highlight: a comforting Nepali thali, flavourful jhol momos, and sesame oil momos that carried the warmth of home-cooked food.\n\nThe journey then took us to Mosum Retreat, a hidden haven surrounded by orchards heavy with plums and apples. The sight of trees laden with fruit felt like stepping into nature’s own pantry. Here, we were welcomed by Tarna Devi, who invited us into her world with open arms. In the orchard-side kitchen, she guided us through the making of traditional snacks, childu and giche, each prepared with a simplicity and authenticity that only the hands of experience can offer.\n\nAs the day softened into evening light, we accompanied her on a short walk to her village home nearby. The warmth of her hospitality, the stories she shared, and the serene mountain backdrop made it a moment of deep connection, an experience that beautifully tied together our time in Manali.\n\nAbout the host:\nhttps://anubhavsapra.com/\n\nAlso follow us on\nFacebook: https://www.facebook.com/delhifoodwalks\nTwitter: https://twitter.com/delhifoodwalks\nInstagram: https://instagram.com/delhifoodwalks\n\nDesign and filmed by Rahul Singh\nTexts by Swetaleena Nayak",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zuqjIbe1i3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zuqjIbe1i3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zuqjIbe1i3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zuqjIbe1i3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zuqjIbe1i3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Manali Apple Orchard Farm Food Tour I Manu Temple + Hidimba Temple + Nepali Thakali Food and Momo",
+          "description": "Our last day in Manali unfolded like a slow, comforting melody full of simple pleasures, heartfelt encounters, and flavours that capture the soul of the mountains.\n\nWe began the morning at Hotellier, tucking into a basic yet genuinely satisfying breakfast. Nothing extravagant, just honest, comforting food that lifted the spirits as the cold mountain air wrapped around us.\n\nFrom there, the path led us to the peaceful surroundings of the Hidimba Temple, where towering deodar trees and soft sunlight filtered through like a blessing. The calmness of the shrine set the tone for the day as we walked through its sacred precincts.\n\nA short drive away, the vibes shifted entirely as we entered the bohemian lanes of Old Manali, the cafes, the bustle, the little shops, and the unmistakable charm that travellers always return for. And right in the middle of that cheerful chaos, we met someone unforgettable: a 100-year-old lady selling khumani. Sitting quietly beside her modest display of apricots, she welcomed us with the warmest smile. \n\nOur next pause was at the German Bakery and Nepali Sandwich Bar, where we picked up a few cookies, sweet, simple bites that kept us going. This was followed by a hearty mealtime stop at Darjeeling Steamers. Their Nepali offerings were truly the highlight: a comforting Nepali thali, flavourful jhol momos, and sesame oil momos that carried the warmth of home-cooked food.\n\nThe journey then took us to Mosum Retreat, a hidden haven surrounded by orchards heavy with plums and apples. The sight of trees laden with fruit felt like stepping into nature’s own pantry. Here, we were welcomed by Tarna Devi, who invited us into her world with open arms. In the orchard-side kitchen, she guided us through the making of traditional snacks, childu and giche, each prepared with a simplicity and authenticity that only the hands of experience can offer.\n\nAs the day softened into evening light, we accompanied her on a short walk to her village home nearby. The warmth of her hospitality, the stories she shared, and the serene mountain backdrop made it a moment of deep connection, an experience that beautifully tied together our time in Manali.\n\nAbout the host:\nhttps://anubhavsapra.com/\n\nAlso follow us on\nFacebook: https://www.facebook.com/delhifoodwalks\nTwitter: https://twitter.com/delhifoodwalks\nInstagram: https://instagram.com/delhifoodwalks\n\nDesign and filmed by Rahul Singh\nTexts by Swetaleena Nayak"
+        },
+        "defaultAudioLanguage": "en-IN"
+      },
+      "contentDetails": {
+        "duration": "PT24M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "152274",
+        "likeCount": "1922",
+        "favoriteCount": "0",
+        "commentCount": "76"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rO_ZMUppIJLQCVKEeFvSlJZsQbs",
+      "id": "zwXRsK-GfLM",
+      "snippet": {
+        "publishedAt": "2025-05-17T09:30:29Z",
+        "channelId": "UCST279JNM-8NsXCR1r7GGSw",
+        "title": "Pet full ki viral kadi.  #streetfood #dillistreetfood #trending",
+        "description": "Pet full ki viral kadi.   #food #streetfood #dillistreetfood #ytshorts #viralshorts #viralindianfood #foodies #foodlover #trending #foodblogger",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VIRAL INDIAN  FOOD 🍛 ",
+        "tags": [
+          "Short videos",
+          "Youtubeshorts",
+          "streetfood",
+          "viral indian food",
+          "food lover",
+          "food founder",
+          "foodies",
+          "food art",
+          "food videos",
+          "indian cuisine",
+          "yt shorts"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Pet full ki viral kadi.  #streetfood #dillistreetfood #trending",
+          "description": "Pet full ki viral kadi.   #food #streetfood #dillistreetfood #ytshorts #viralshorts #viralindianfood #foodies #foodlover #trending #foodblogger"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3553609",
+        "likeCount": "111240",
+        "favoriteCount": "0",
+        "commentCount": "146"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "55XOsTFsCCpXB5_umm40UtZw9aY",
+      "id": "zximKYQqgC0",
+      "snippet": {
+        "publishedAt": "2025-01-14T09:01:09Z",
+        "channelId": "UCuDt8PzVMk2My6qcDHfNZ-Q",
+        "title": "Purani Delhi Famous Chicken Changezi | Old Delhi Style Chicken Changezi Recipe",
+        "description": "#OldDelhiFamousChickenChangezi #PuraniDelhiStyleChickenChangezi #ChickenChangeziRecipe #ChickenChangeziKaiseBanateHai #ChickenChangeziBananeKaTarika #ChickenChangeziBananeKiVidhi #ChickenChangeziRecipeInHindi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zximKYQqgC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zximKYQqgC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zximKYQqgC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zximKYQqgC0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zximKYQqgC0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street Food Zaika",
+        "tags": [
+          "Old Delhi Famous Chicken Changezi",
+          "Purani Delhi Style Chicken Changezi",
+          "Chicken Changezi Kaise Banate Hai",
+          "Chicken Changezi Banane Ka Tarika",
+          "Chicken Changezi Recipe In Hindi",
+          "Chicken Changezi Banane Ki Vidhi",
+          "How To Make Chicken Changezi At Home",
+          "Restaurants Style Chicken Changezi Recipe",
+          "Street Food Zaika"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Purani Delhi Famous Chicken Changezi | Old Delhi Style Chicken Changezi Recipe",
+          "description": "#OldDelhiFamousChickenChangezi #PuraniDelhiStyleChickenChangezi #ChickenChangeziRecipe #ChickenChangeziKaiseBanateHai #ChickenChangeziBananeKaTarika #ChickenChangeziBananeKiVidhi #ChickenChangeziRecipeInHindi"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT21M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "130619",
+        "likeCount": "2958",
+        "favoriteCount": "0",
+        "commentCount": "153"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RpZ_M2i1Wmjg-auP8Fv-Sw1U7Kg",
+      "id": "zzV5KRzfwEs",
+      "snippet": {
+        "publishedAt": "2025-09-19T07:53:01Z",
+        "channelId": "UCtyltqstMm6iKnkk2Y9Zt8A",
+        "title": "Chandni Chownk Street Food Challenge 😂 (FOOD WARS)",
+        "description": "What happens when two food lovers take on the legendary streets of Chandni Chowk? 😍 In this hilarious FOOD WARS episode, we're battling it out with Nilanjana Dhar to find the ultimate street food champion! From iconic Delhi favorites to hidden gems, every bite is packed with flavor, fun, and lots of laughter. \n\n❤️ If you enjoyed this video, don't forget to:\n👍 Like\n💬 Comment your favorite Chandni Chowk street food\n📲 Share with your foodie friends\n🔔 Subscribe for more crazy travel, food, and family adventures!\n \nInstagram - https://www.instagram.com/prernamalhan\n.\nAbout Me ► My name is Prerna Malhan. I'm from Delhi and I'm a WRITER. Now I am pursuing Youtube full-time. I make entertainment and travel videos on this channel. Thanks for reading.\n\nEdited by - https://www.instagram.com/stardan._",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zzV5KRzfwEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zzV5KRzfwEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zzV5KRzfwEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zzV5KRzfwEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zzV5KRzfwEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wanderers Hub",
+        "tags": [
+          "wanderers hub",
+          "challenges",
+          "VLOGS",
+          "comedy",
+          "entertainment",
+          "hindi vlog",
+          "Food challenge",
+          "Nilanjana dhar",
+          "Triggered insaan",
+          "Fukra insaan",
+          "Chandani chownk",
+          "Viral street food"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Chandni Chownk Street Food Challenge 😂 (FOOD WARS)",
+          "description": "What happens when two food lovers take on the legendary streets of Chandni Chowk? 😍 In this hilarious FOOD WARS episode, we're battling it out with Nilanjana Dhar to find the ultimate street food champion! From iconic Delhi favorites to hidden gems, every bite is packed with flavor, fun, and lots of laughter. \n\n❤️ If you enjoyed this video, don't forget to:\n👍 Like\n💬 Comment your favorite Chandni Chowk street food\n📲 Share with your foodie friends\n🔔 Subscribe for more crazy travel, food, and family adventures!\n \nInstagram - https://www.instagram.com/prernamalhan\n.\nAbout Me ► My name is Prerna Malhan. I'm from Delhi and I'm a WRITER. Now I am pursuing Youtube full-time. I make entertainment and travel videos on this channel. Thanks for reading.\n\nEdited by - https://www.instagram.com/stardan._"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3481158",
+        "likeCount": "55980",
+        "favoriteCount": "0",
+        "commentCount": "1510"
+      },
+      "recordingDetails": {}
+    }
+  ]
+}

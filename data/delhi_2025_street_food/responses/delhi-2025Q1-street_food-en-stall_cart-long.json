@@ -1,0 +1,1114 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi food stall",
+    "relevanceLanguage": "en",
+    "videoDuration": "long",
+    "publishedAfter": "2025-01-01T00:00:00Z",
+    "publishedBefore": "2025-03-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:55:42.586906+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-gCrw53LVu3GOxx9rrvwQ9-qBjI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RBWmN7YKwM0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T15:00:39Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food JAMA MASJID | Dori Wale Kebabs, Taufiq Biryani, JFC Chicken,  Mutton Nihari, Gajar Halwa",
+        "description": "Ultimate Street Food JAMA MASJID | Dori Wale Kebabs, Taufiq Biryani, JFC Chicken, Mutton Nihari, Gajar Halwa, Mohabbat Ka ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T15:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bDAU1Q6GKdiEOtn6fgmTgIkLt50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rj2ooA8vkVY"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-22T12:30:52Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Best Old Delhi Sehri Night Food Walk | Champa Bread + Butter Jam Sheermal + Khajla, Pheni, Jalebi",
+        "description": "We began our sehri food walk in the historic lanes of Old Delhi, covering parts of Ballimaran, Daryaganj, and the areas around ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rj2ooA8vkVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rj2ooA8vkVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rj2ooA8vkVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rj2ooA8vkVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rj2ooA8vkVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-22T12:30:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bkMUHiwBe542WTcX64oou8F62MU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B3-HralRFWs"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T13:30:05Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Trying Every Viral Omelette for 24 Hours",
+        "description": "About the Video - Today I, the India's Best Food Critic is on a mission to try each and every crazy Omelette in India. In this video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B3-HralRFWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B3-HralRFWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B3-HralRFWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B3-HralRFWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B3-HralRFWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T13:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6UbWWzu7vCYeUinN9MDaB-24ccQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BtoDZLwURn8"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-09T07:00:18Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "Karol Bagh Street Food with ​⁠@visa2explore | Veggie Paaji Delhi Food",
+        "description": "Karol Bagh Street Food with @visa2explore Delhi Food My Fun Cooking Channel : @CookingPaaji My Fun Vlog Channel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BtoDZLwURn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BtoDZLwURn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BtoDZLwURn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BtoDZLwURn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BtoDZLwURn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-09T07:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lndnWFh5tFA8ley5BewOn9Ucv5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-EE_185_H9A"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-01T12:30:00Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Best Lucknow Brunch Food Tour : Sursuri / Bandook Chaat, Bun Chola, Bakse Wale Khaste, Malai Makhan",
+        "description": "Lucknow is often celebrated for its rich Awadhi cuisine, but the city also boasts a thriving vegetarian street food culture that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-EE_185_H9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-EE_185_H9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-EE_185_H9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-EE_185_H9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-EE_185_H9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-01T12:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E9uKm5VVjLG6EbR2sF0QmloSx_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9OupjVRj_ds"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-21T09:53:33Z",
+        "channelId": "UCepBxbSrGZkgjgGJuY04c-Q",
+        "title": "How Street Food is K*lling Indians? | Professor Of How",
+        "description": "Buy a Term Plan & Get Online Discounts Up to 15%   https://tinyurl.com/5rfe5dws Buy a Health Plan & Get Online Discounts Up to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9OupjVRj_ds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9OupjVRj_ds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9OupjVRj_ds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9OupjVRj_ds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9OupjVRj_ds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Professor Of How",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-21T09:53:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xAdh57ryLmDrWYTid0u3ZpzfzvU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bhxM7mQQhiE"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-01T15:00:51Z",
+        "channelId": "UCOQNJjhXwvAScuELTT_i7cQ",
+        "title": "Schickwheel का Customized Food Trailer देखकर Sharks ने कहा &#39;WOW&#39; | Shark Tank India S4 | Full Pitch",
+        "description": "https://www.sonyliv.com/shows/shark-tank-india-1700000741?utm_source=youtube&utm_medium=organic&utm_campaign= ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bhxM7mQQhiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bhxM7mQQhiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bhxM7mQQhiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bhxM7mQQhiE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bhxM7mQQhiE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony LIV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-01T15:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OQzksLx4_GeFC2KqwLxOr9dPOYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VdcPC2cRlwA"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-22T12:30:27Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Unseen Shekhawati Wedding Food/प्रीति भोज in Mandawa, Rajasthan I Sweets, Namkeen, Ker Sangri, Bade",
+        "description": "Mandawa, a small town in Jhunjhunu, Rajasthan, has become a favourite wedding destination because of its royal touch—ornate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VdcPC2cRlwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VdcPC2cRlwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VdcPC2cRlwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VdcPC2cRlwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VdcPC2cRlwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-22T12:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x0Oj2Yhp9S77_JHRZz4W--ie0Pc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xuKcZU6ukgQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-08T15:07:22Z",
+        "channelId": "UCMeuW9L5lQv6sguVnBIcIPw",
+        "title": "Modern Street Food Cart Azimuth Business On Wheels New Concept Style Vendor Style Startup Business",
+        "description": "For promotional video shoot you can contact on 9868169403, 7303290391 PH-9220947820,8130531566 Azimuth Business ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xuKcZU6ukgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xuKcZU6ukgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xuKcZU6ukgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xuKcZU6ukgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "The News Gate",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-08T15:07:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XzFiLpePx_7LhLPhecxwZPVM0sA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LQ5gb3ocwcc"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-15T12:30:31Z",
+        "channelId": "UCXw1ddyrUmib3zmCmvSI1ow",
+        "title": "India&#39;s Street Food Dollar Menu!!",
+        "description": "Support my channel by getting Fishing Clash on your phone for free: https://fishingclash.link/MoreBestEverFoodReviewShow!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQ5gb3ocwcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQ5gb3ocwcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQ5gb3ocwcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LQ5gb3ocwcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LQ5gb3ocwcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "More Best Ever Food Review Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-15T12:30:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Saws1ukrgoHx_ztaZKyXqnUoxBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kLRHTvby62g"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-15T12:30:43Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "MASSIVE Lucknowi Muslim WEDDING Dawat FOOD I Fish &amp; Raan Musallam + Lagan Ka Murgh + Mutton Pulao",
+        "description": "Weddings in Lucknow are not just about uniting two people but about celebrating tradition, culture, and of course, food. This time ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kLRHTvby62g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kLRHTvby62g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kLRHTvby62g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kLRHTvby62g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kLRHTvby62g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-15T12:30:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ggPy1AZ9z0D_7KI8XfaIgoVcJ84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kGtG1zchcu0"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-09T03:30:06Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Govardhan, Mathura Food Tour I ब्रजभूमि का असली स्वाद I Aloo Kachori, Rabri, Khurchan, Sev Paratha",
+        "description": "Holi in Govardhan is a time of colors, devotion, and delicious food. The streets are filled with the aroma of freshly fried snacks and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kGtG1zchcu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kGtG1zchcu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kGtG1zchcu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kGtG1zchcu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kGtG1zchcu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-09T03:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K2WsfAInAzqTcVoIPksc-WWgr1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O7Y8g2fgjFU"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-25T15:00:34Z",
+        "channelId": "UCpEhnqL0y41EpW2TvWAHD7Q",
+        "title": "&#39;Gabru Di Chaap&#39; के Founders ने Swag में Present की अपनी Pitch! | Shark Tank India S4 | Full Pitch",
+        "description": "https://www.sonyliv.com/shows/shark-tank-india-1700000741?utm_source=youtube&utm_medium=organic&utm_campaign= ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O7Y8g2fgjFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O7Y8g2fgjFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O7Y8g2fgjFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O7Y8g2fgjFU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O7Y8g2fgjFU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SET India",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-25T15:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zXG09fLeJNg8gTcApLgvRljefd0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I3IXFlBnwEQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-20T08:48:37Z",
+        "channelId": "UCnwL537dF3kV8hGVHvvof3Q",
+        "title": "Best RANCHI Street Food (Part 1) | Dhuska, Litti Chokha, Chaat, Paneer Chilly &amp; More | 4K",
+        "description": "Hi #GGSquad, How are you? In this video, I will take you with me to Ranchi. We tried some delicious Ranchi street food like ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I3IXFlBnwEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I3IXFlBnwEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3IXFlBnwEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I3IXFlBnwEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I3IXFlBnwEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Golgappa Girl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-20T08:48:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8FlrU4Fpb8qYgEj2NQJUJN7lgK4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQ_vkmDWSd4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-31T15:00:06Z",
+        "channelId": "UCpEhnqL0y41EpW2TvWAHD7Q",
+        "title": "Food Truck Challenge को कैसे पूरा करेंगे Home Cooks? | MasterChef India 7 | Throwback",
+        "description": "https://www.sonyliv.com/shows/masterchef-india-1700001090?utm_source=youtube&utm_medium=organic&utm_campaign= ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQ_vkmDWSd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQ_vkmDWSd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQ_vkmDWSd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HQ_vkmDWSd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HQ_vkmDWSd4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SET India",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-31T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9vNVv7DqMkeCVAdoy4I3eHLg81M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tlubIGaNMkg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-23T14:00:59Z",
+        "channelId": "UCw6hflfioKOlhKd1C1QOBpw",
+        "title": "Hunting For Kolkata&#39;s Tastiest Street Food 🇮🇳",
+        "description": "Every place I've eaten, saved on a map. Five free in every country: https://somewheregood.io?s=yt-desc In this video, I take you on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tlubIGaNMkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tlubIGaNMkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tlubIGaNMkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tlubIGaNMkg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tlubIGaNMkg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hugh Abroad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-23T14:00:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wMtA8ENN9F__XWmTD1Annc_K8kQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CMxb-jgYnD4"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-20T12:10:04Z",
+        "channelId": "UCg7z8EubtHbsI3RM8aYfPEA",
+        "title": "WORLD&#39;S POPULAR STREET FOOD VIDEOS COMPILATION - Special Foods Collection from Best of Best Foods",
+        "description": "WORLD'S POPULAR STREET FOOD VIDEOS COMPILATION - Special Foods Collection from Best of Best Foods ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CMxb-jgYnD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CMxb-jgYnD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CMxb-jgYnD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CMxb-jgYnD4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CMxb-jgYnD4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street Food AF",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-20T12:10:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JmrIoQ1JuruhAMXivB4QEYSM0oM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "py72sK_dHj8"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-01T08:44:56Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "15 Best Food in Indore | Indian Street Food | Veggie Paaji",
+        "description": "Veggie Paaji shows 15 Best Street Food to Eat in Indore My Fun Cooking Channel : @CookingPaaji My Fun Vlog Channel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/py72sK_dHj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/py72sK_dHj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/py72sK_dHj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/py72sK_dHj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/py72sK_dHj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-01T08:44:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nqds9NBQCkDwGxUVR9fPUw6dDB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rBD00ySqwqY"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-25T15:01:11Z",
+        "channelId": "UCOQNJjhXwvAScuELTT_i7cQ",
+        "title": "&#39;Gabru Di Chaap&#39; के Founders ने Swag में Present की अपनी Pitch! | Shark Tank India S4 | Full Pitch",
+        "description": "https://www.sonyliv.com/shows/shark-tank-india-1700000741?utm_source=youtube&utm_medium=organic&utm_campaign= ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rBD00ySqwqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rBD00ySqwqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rBD00ySqwqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rBD00ySqwqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rBD00ySqwqY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony LIV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-25T15:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p4S4ZSrPZqB4d30AoSmc4DJgJFk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PJFzdXEU-ds"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-26T09:30:10Z",
+        "channelId": "UCkFZNhDgHW1XX9tCj-NPR-Q",
+        "title": "Aligarh Numaish Food 2025 | Street Food In Aligarh | Aligarh Exhibition 2025",
+        "description": "Aligarh Numaish is not just an exhibition; it's also a paradise for food lovers. As you walk through the fair, the delicious smell of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PJFzdXEU-ds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PJFzdXEU-ds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PJFzdXEU-ds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PJFzdXEU-ds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PJFzdXEU-ds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Globalecentre",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-26T09:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aMBldmO2w3oYsT95i_BlWaF7oms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rNR8rF4IVr0"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-12T15:44:53Z",
+        "channelId": "UCDnq05Q89oYq-Tz5boL73Tw",
+        "title": "Finding Best Momo In Delhi&#39;s Momo Market With Comedian Shreya Priyam Roy | Ep 96 | Curly Tales",
+        "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCDnq05Q89oYq-Tz5boL73Tw/join In this episode of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rNR8rF4IVr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rNR8rF4IVr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rNR8rF4IVr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rNR8rF4IVr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rNR8rF4IVr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curly Tales ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-12T15:44:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iQlDNLHOvs7rKv926iPo1u3bKdU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8a4OVDTHNN0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T00:09:33Z",
+        "channelId": "UCgfCRjYU9uMKjRwSwZsWVKw",
+        "title": "Incredible! Most Popular Street Food Recipe Collection",
+        "description": "Incredible! Most Popular Street Food Recipe Collection #streetfood ______ Follow us on Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8a4OVDTHNN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8a4OVDTHNN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8a4OVDTHNN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8a4OVDTHNN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8a4OVDTHNN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food BD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T00:09:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wa37QXArVTsneWgWwOTO4OPl9QM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JzJIevC2oNI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-14T08:34:43Z",
+        "channelId": "UCtyltqstMm6iKnkk2Y9Zt8A",
+        "title": "Eating at EVERY DRIVE THRU in a Day 😍",
+        "description": "I tried EVERY DRIVE THRU in a Day in #america Ft. @MrRandomUniverse ​ SUBSCRIBE!!! . . Read my travel stories: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzJIevC2oNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzJIevC2oNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzJIevC2oNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JzJIevC2oNI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JzJIevC2oNI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wanderers Hub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-14T08:34:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iLan9D7qrcAHjF2QB4Z1vv7hSZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "voR578bMqfo"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-01T11:53:03Z",
+        "channelId": "UCTv78rh_eLqvDRE9yWSZNaA",
+        "title": "The ORIGINAL Hyderabadi Dum Biryani | Bawarchi Restaurant | Globally Famous Hyderabadi Dum Biryani",
+        "description": "The ORIGINAL Hyderabadi Dum Biryani | Bawarchi Restaurant | Globally Famous Hyderabadi Dum Biryani Today is the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/voR578bMqfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/voR578bMqfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/voR578bMqfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/voR578bMqfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/voR578bMqfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shoaib Arora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-01T11:53:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vj1X-QvWhVrqpzzmPv1xLzWGdV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rKYGGyZBmG8"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-18T10:01:11Z",
+        "channelId": "UCgzQFjHXQOPdaXHFRLTbLyQ",
+        "title": "MBK CENTER / Food Court  (March 2025)",
+        "description": "MBK Center is a shopping mall located in Bangkok, Thailand. It is known as a large scale shopping mall! Numerous stores ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rKYGGyZBmG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rKYGGyZBmG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rKYGGyZBmG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rKYGGyZBmG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rKYGGyZBmG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bangkok69",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-18T10:01:11Z"
+      }
+    }
+  ]
+}

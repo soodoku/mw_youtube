@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली खाने का ठेला",
+    "relevanceLanguage": "hi",
+    "videoDuration": "short",
+    "publishedAfter": "2025-10-01T00:00:00Z",
+    "publishedBefore": "2025-12-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:48.164133+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "afK7OlwFF_4-tQGlJ7u5IBtm5yA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rpVT3QxNIQs"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-26T13:08:59Z",
+        "channelId": "UCD2iVo8Xbq1clG1ZHbhX24g",
+        "title": "👉 steel fast food thela Gorakhpur #gorakhpur #viral #trending #fastfoodthela #cake#shorts#shortvideo",
+        "description": "mobile 9709689981 gorakhpur Sweet display counter Gorakhpur. Cake bakers display counter Gorakhpur.. fast food thela ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rpVT3QxNIQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rpVT3QxNIQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rpVT3QxNIQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rpVT3QxNIQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rpVT3QxNIQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ARJUN SINGH 007",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-26T13:08:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d74lSKx_P654Ej9xJBJldaeTAOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q2ynMexahmA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-03T22:35:00Z",
+        "channelId": "UC8N_mWo3yPZ6rL8BiqyELtA",
+        "title": "Food cart low price/Food cart business/steel thela#youtubeshorts#ssrailing#shorts#viral",
+        "description": "ahdsteelfabrication Food cart low price/Food cart business/steel thela#youtubeshorts#ssrailing#shorts#viral your Queries:-   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q2ynMexahmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q2ynMexahmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q2ynMexahmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q2ynMexahmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q2ynMexahmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AHD Steel Fabrication",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-03T22:35:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_qZN3-D19iQijVVrw3n5nxkucQ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9UhcJabq8bM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-06T09:29:44Z",
+        "channelId": "UCD2iVo8Xbq1clG1ZHbhX24g",
+        "title": "Steel fast food thela Gorakhpur #gorakhpur #displaycounter #viral #kitchen #trending #youtubeshorts",
+        "description": "Kolkata Egg Roll Center | Steel Fast Food Thela Manufacturing in Gorakhpur अगर आप अपना फूड बिज़नेस ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UhcJabq8bM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UhcJabq8bM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UhcJabq8bM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9UhcJabq8bM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9UhcJabq8bM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ARJUN SINGH 007",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-06T09:29:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0FbftcIrRNNwOil1ngPG004LGJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yfZL-vbBikU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T02:04:57Z",
+        "channelId": "UCD2iVo8Xbq1clG1ZHbhX24g",
+        "title": "👉 स्टील फूड ठेला गोरखपुर #gorakhpur #viral #trending #fastfoodthela #foodcart #bihar #uttarpradesh",
+        "description": "Gorakhpur में हर तरह का Steel Counter, Fast Food Thela, Display Counter, Sweet Counter, Cake Counter, Food Cart, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yfZL-vbBikU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yfZL-vbBikU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yfZL-vbBikU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yfZL-vbBikU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yfZL-vbBikU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ARJUN SINGH 007",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T02:04:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tn8m7jAAwDn67udcuyXv5RotSQI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H4LslX-wC2c"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-10T09:26:11Z",
+        "channelId": "UCCU7ElqS1oZe-F6hJ8jnFuA",
+        "title": "New model steel fast food thela Gorakhpur #trending #displaycounter #food #foodstation #cheesegrater",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H4LslX-wC2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H4LslX-wC2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H4LslX-wC2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H4LslX-wC2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H4LslX-wC2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ARJUN SINGH 007",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-10T09:26:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U8Os60HKWlRNjvOoGN4N6e39rZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h6tqUPzRcY8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-20T13:30:26Z",
+        "channelId": "UCmvx_W6pjiN2iWE_51AsR5g",
+        "title": "पुरानी दिल्ली की Famous खूनी कतारें लाल इमली😍 #shorts #bachpan #shortsviral #trending",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h6tqUPzRcY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h6tqUPzRcY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h6tqUPzRcY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h6tqUPzRcY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h6tqUPzRcY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodler",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-20T13:30:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6IqOqWwOe_Utl5Ykm1MnU5qYV-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Crp1KsofzIo"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-24T04:56:12Z",
+        "channelId": "UCk1BFYmdsJRLssKK22toCHA",
+        "title": "Customised Fruit Salad Cart | All India Delivery Available | Contact:-8130583795 | #SwastikArt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Crp1KsofzIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Crp1KsofzIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Crp1KsofzIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Crp1KsofzIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Crp1KsofzIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Swastik Art",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-24T04:56:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zu84VCVBcyG93abXS8rLAGvxy5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cNgDaW3Qv6A"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-04T12:44:27Z",
+        "channelId": "UCT5Q3txaPT1NDjtiHt-7okQ",
+        "title": "Fruit Salad in Rs 20/- #shorts #fruitcutting #streetfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNgDaW3Qv6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNgDaW3Qv6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNgDaW3Qv6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNgDaW3Qv6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cNgDaW3Qv6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie ANURAG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-04T12:44:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kGQfV9kSFjG6b5zkX87F4vg0T9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hDqCjF7Wlyo"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-08T13:07:32Z",
+        "channelId": "UCMPNpj0DZrG_ZWm-JCbirog",
+        "title": "Delhi Ka World Famous | Tawa Chicken Recipe #shortfoodvideo #muttonrecepi #villagefoodfactory",
+        "description": "Delhi Ka World Famous | Tawa Chicken Recipe #shortfoodvideo #muttonrecepi #villagefoodfactory Delhi Ka World Famous ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hDqCjF7Wlyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hDqCjF7Wlyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hDqCjF7Wlyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hDqCjF7Wlyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hDqCjF7Wlyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "foodie SIKANDER ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-08T13:07:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kJxMXLL-q5nbBhZmIPYRRTBmsbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "257NhGSusE4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-10T15:56:25Z",
+        "channelId": "UCMy0VcngnvXglzQuqItpurg",
+        "title": "Delhi&#39;s Most Unique Hulululu Jaljeera - 60rs per glass #foodie #shorts #food",
+        "description": "Delhi's Most Unique Hulululu Jaljeera - 60rs per glass #foodie #shorts #food In this video we tried Delhi's most unique Hulululu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/257NhGSusE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/257NhGSusE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/257NhGSusE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/257NhGSusE4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/257NhGSusE4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Travel With A.V.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-10T15:56:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W61A69_MjTI9F8nKw_W8RvgUzQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7MBLAvE5UxA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-28T14:33:03Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "मात्र 50/-₹ में Famous Vda Pav 😱❤️⭐️#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Delhi's Most Famous Vda Pav Boy #shorts #india #food #vda #pavbhaji #streetfood #foodlover #viralreels #yummy #delhifood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-28T14:33:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gq7BigJIamhdWo0vAV62EyO1RXg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "njr8mcdgNO8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-30T12:33:08Z",
+        "channelId": "UCV8R_Fv7Y-1KM_z_O5cbDbg",
+        "title": "मात्र 60/-₹ में Famous Pav Bhaji 😱🔥🤩#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Delhi's Best Pav Bhaji only 60/-❤️ #shorts #india #food #pavbhaji #streetfood #foodlover #viralreels #yummy #delhifood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-30T12:33:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sO6VGy3uX2p31sEgjx04bcPwmyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hE3lvUQryVs"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-29T12:31:13Z",
+        "channelId": "UCbs4nhDLOyHDP3hzBfAPrnQ",
+        "title": "BMW Delhi Ka Most Premium Mutton Curry 😍 | Viral Stall 🔥",
+        "description": "Paschim Vihar ke BMW (Bunty Meat Wala) par milta hai Delhi ka **sabse premium mutton experience**! INR 350-800 me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hE3lvUQryVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hE3lvUQryVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hE3lvUQryVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hE3lvUQryVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hE3lvUQryVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Hunters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-29T12:31:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mL5nz-etF7Txxvd-Sdy2MAOE7E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K7omYuNQVqc"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-09T05:30:09Z",
+        "channelId": "UCMsnElmhIK6P3ZeVIGsDcEg",
+        "title": "Only 120/- Delhi Viral Chicken Soup😍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K7omYuNQVqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K7omYuNQVqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K7omYuNQVqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K7omYuNQVqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K7omYuNQVqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yummy Food India",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-09T05:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sHqPenktF-Ci_IdFe9QVZ7-0PtY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YthokqEsD9I"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-04T11:44:41Z",
+        "channelId": "UCvGw5l5s6zf63h0LYVhb2kw",
+        "title": "Champa Gali Jugmug Thela mein Halla ♥️ #viralvideo #food #dillistreetfood #minivlog",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YthokqEsD9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YthokqEsD9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YthokqEsD9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YthokqEsD9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YthokqEsD9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lipika’s  Life",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-04T11:44:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AsfQci4DOvn8iBCnU0M72Gt_2vg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F43atQbqUJ0"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T15:12:44Z",
+        "channelId": "UCZB9Gg4qd4F_KOzQDOhMl9Q",
+        "title": "DIL khush thali at Rs 150/- in Rohini sector 8#indianfood#strrefoods#foodie",
+        "description": "https://youtube.com/shorts/aV6AtUE7Od8?si=bBS91NWkVfenFb4I.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F43atQbqUJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F43atQbqUJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F43atQbqUJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F43atQbqUJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F43atQbqUJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "swad meri jaan ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T15:12:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zix1VhJY-wAJxG2HuRE5fDAQHc4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qekd6MAGQxs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-06T08:45:03Z",
+        "channelId": "UCRuibOsTeH6Rc1eW7K8KoCQ",
+        "title": "सभी प्रकार के चार चक्का ठेला नंद ठेला कारखाना रपटा चौक बिलासपुर छत्तीसगढ़",
+        "description": "नमस्कार दोस्तों हम आपको लेकर चल रहे हैं ठेले की सबसे बड़ी होलसेल ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qekd6MAGQxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qekd6MAGQxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qekd6MAGQxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qekd6MAGQxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qekd6MAGQxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mithlesh Engineering Work Bike Trolly Food Cart ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-06T08:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SurlQlJvm-LN5wPJWm-72OLgK8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CZpZ4Aks-Wk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-05T12:37:46Z",
+        "channelId": "UCZ96KMQk7AtaLKfWRJ3FUbA",
+        "title": "📍Thela By The Chaat Walk, Cyber Hub #streetfood #travelblog #travelvlog #gurgaon #delhi #foodie",
+        "description": "Gurgaon Street Food at Cyber Hub! From spicy chaats to cheesy momos and sizzling kebabs — Cyber Hub is a paradise for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CZpZ4Aks-Wk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CZpZ4Aks-Wk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZpZ4Aks-Wk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CZpZ4Aks-Wk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CZpZ4Aks-Wk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NextGen Shorts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-05T12:37:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xVlLjrvLd4jItMNeLHxiQVUvIuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PP8dUbbEmuk"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-25T07:10:46Z",
+        "channelId": "UCyubW6s9H4cdxtrfbhoG1Sg",
+        "title": "Kamla Nagar 200₹ Food Challenge 🔥😍 #shorts #food",
+        "description": "Hello everyone recently I visited Kamla nagar market ( Delhi ) and did 200₹ street food challenge 1. I tried chow-mine from pandit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PP8dUbbEmuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PP8dUbbEmuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PP8dUbbEmuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PP8dUbbEmuk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PP8dUbbEmuk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Help With Harsh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-25T07:10:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yisph5GY-6dvqKsEg9rgpi8v9wM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pwIdC8jzuqg"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-15T02:49:03Z",
+        "channelId": "UCCy8lAXYMl_1S7H9ef4v3Bg",
+        "title": "इंजन जुगाड़ रिक्शा गाड़ी pani puri ka thela golgappa gupchup fulki fastfood icecream shoda shikanji",
+        "description": "इंजन जुगाड़ रिक्शा गाड़ी pani puri ka thela golgappa gupchup fulki fastfood icecream shoda shikanji Pani ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pwIdC8jzuqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pwIdC8jzuqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pwIdC8jzuqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pwIdC8jzuqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pwIdC8jzuqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SHREE DEV STEEL FURNITURE GANGAPUR ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-15T02:49:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jgmnaiD6z2OXDzvUwtodrUX3WqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2Uo8PVOTNyM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-05T17:14:25Z",
+        "channelId": "UCRZ_CzsDCyDHniuUWR4a6tA",
+        "title": "टुक टुक ने लगाई छोटी थाली #food #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Uo8PVOTNyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Uo8PVOTNyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Uo8PVOTNyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Uo8PVOTNyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Uo8PVOTNyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Panda",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-05T17:14:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xkIFpD1azZC1v3_YGG5hsHgutW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F6GHis_SyyQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-25T05:32:30Z",
+        "channelId": "UClxHm6udLl4aPO7sgw8nhiw",
+        "title": "Best Food Cart, Food Van, Food Truck, Food Thela in Patna.📍 Near Beur Jail, Patna.☎️ 9199144437",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6GHis_SyyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6GHis_SyyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6GHis_SyyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F6GHis_SyyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F6GHis_SyyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Usha Engineering & Arts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-25T05:32:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DnpbcRH5qTdcwi_EnzAoNfA8eKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-hjw6Pc4BLI"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-26T08:45:00Z",
+        "channelId": "UCR_8xSMu3bEkonZyeWxWYeQ",
+        "title": "गुपचुप चार्ट भंडार के लिए स्टील वाला डिजाइन ठेला Panipuri and fast food thela",
+        "description": "नमस्कार दोस्तों हम आपको लेकर चल रहे हैं ठेले की सबसे बड़ी होलसेल ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-hjw6Pc4BLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-hjw6Pc4BLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hjw6Pc4BLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-hjw6Pc4BLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-hjw6Pc4BLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nand Thela Chhattisgarh Number One Best Quality",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-26T08:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lUs_YsZk6I14JOeJvc0-mBU06NE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wE1tqNVx3FA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-31T11:16:00Z",
+        "channelId": "UCcS9s7qxjEpaZE1IRzU_gQw",
+        "title": "🔥Delhi Street Food 😋 | Famous Chole Kulche Cart – Real Taste of Delhi! #shortsvideo #reels #yt #food",
+        "description": "Delhi Street Food | Famous Chole Kulche Cart – Real Taste of Delhi! #shortsvideo #reels #yt #food Doston, yeh hai asli Delhi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wE1tqNVx3FA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wE1tqNVx3FA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wE1tqNVx3FA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wE1tqNVx3FA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wE1tqNVx3FA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "My Daily Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-31T11:16:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5QKL0MPBgYww73JCVH5fkFbIr4Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qTjVZMbLCjY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-16T03:56:56Z",
+        "channelId": "UCKHZNKX3XKlP9_T4Ya5UEKQ",
+        "title": "Delhi&#39;s Best Samosa | Banke Bihari Samose Wala Paharganj | Iconic Food Shop in Delhi #delhichaat",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTjVZMbLCjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTjVZMbLCjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTjVZMbLCjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qTjVZMbLCjY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qTjVZMbLCjY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Prominex Travels",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-16T03:56:56Z"
+      }
+    }
+  ]
+}

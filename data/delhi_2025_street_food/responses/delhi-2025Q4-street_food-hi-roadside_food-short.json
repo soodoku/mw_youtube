@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली सड़क किनारे खाना",
+    "relevanceLanguage": "hi",
+    "videoDuration": "short",
+    "publishedAfter": "2025-10-01T00:00:00Z",
+    "publishedBefore": "2025-12-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:50.963232+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_Z0WMQHIJPl-woBPPFZDtZArcCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pw8O8-AoNhc"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-06T05:30:45Z",
+        "channelId": "UCdYj02CDAq5jdgfqmAHSqHg",
+        "title": "rahul dryfruits sadar bazar #foodie #driedfruits #youtubeshorts #trandingshorts #sadarbazaar #viral",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pw8O8-AoNhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pw8O8-AoNhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pw8O8-AoNhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pw8O8-AoNhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pw8O8-AoNhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rahul dryfruits delhi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-06T05:30:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gq7BigJIamhdWo0vAV62EyO1RXg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "njr8mcdgNO8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-30T12:33:08Z",
+        "channelId": "UCV8R_Fv7Y-1KM_z_O5cbDbg",
+        "title": "मात्र 60/-₹ में Famous Pav Bhaji 😱🔥🤩#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Delhi's Best Pav Bhaji only 60/-❤️ #shorts #india #food #pavbhaji #streetfood #foodlover #viralreels #yummy #delhifood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/njr8mcdgNO8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-30T12:33:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6rF_nYHaE7uoaOp_1aUyMv0oOK8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w54TSSWN6SE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-10T06:56:14Z",
+        "channelId": "UCMsnElmhIK6P3ZeVIGsDcEg",
+        "title": "Only 150/- Special Maharaja Thali In Delhi😍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w54TSSWN6SE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w54TSSWN6SE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w54TSSWN6SE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w54TSSWN6SE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w54TSSWN6SE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yummy Food India",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-10T06:56:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ws-sTbKZhg8hk4zroY_lB7McRZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N4AUmDPJay8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T12:40:00Z",
+        "channelId": "UCF1s5MviIhNoj-2jB2_Nduw",
+        "title": "सड़क किनारे v/s होटल  का स्वाद #delhifood #dillistreetfood #delhi #food",
+        "description": "\"सड़क किनारे का खाना vs होटल का खाना | कौन सा है सबसे टेस्टी? Street Food vs Hotel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N4AUmDPJay8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N4AUmDPJay8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N4AUmDPJay8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N4AUmDPJay8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N4AUmDPJay8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "food  94",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T12:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hGhvGNTREI-WbqhIB_jVDW1N6lg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "544vhW95GEU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-02T03:30:07Z",
+        "channelId": "UCbs4nhDLOyHDP3hzBfAPrnQ",
+        "title": "BMW Delhi Ka Premium Mutton Curry 😍 | Real Review 🔥",
+        "description": "Delhi ke Paschim Vihar me located **BMW – Bunty Meat Wala** par log kehte hain, “Ek baar kha liya to aur kahin ka mutton ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/544vhW95GEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/544vhW95GEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/544vhW95GEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/544vhW95GEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/544vhW95GEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Hunters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-02T03:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YpNNeGN344mP2SwdnNcvg2t9lp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pMGYrL0KtAk"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T19:30:07Z",
+        "channelId": "UCGzYuOx0_EzP_gerTJeLXXQ",
+        "title": "हरिद्वार माँ गंगा किनारे छोले कुलचे ₹50 में 😱#trendingreels",
+        "description": "हरिद्वार माँ गंगा किनारे छोले कुलचे ₹50 में #trendingreels #indianfood #kesardadhaba ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pMGYrL0KtAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pMGYrL0KtAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pMGYrL0KtAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pMGYrL0KtAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pMGYrL0KtAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "We Are Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T19:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VX-da0QoVGHNBizsl17lchwaPE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VRY9Eubu_E4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-14T11:44:00Z",
+        "channelId": "UCXY2t_smAD9es0J41Mx8leA",
+        "title": "Top 5 Must-Try Food Spots of Shaheen Bagh",
+        "description": "Shaheen Bagh sirf ek area nahi, ek food street hai jaha har gali me ek naya zaiqa milta hai! Ye rahe top 5 spots jo har foodie ko ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VRY9Eubu_E4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VRY9Eubu_E4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRY9Eubu_E4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VRY9Eubu_E4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VRY9Eubu_E4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilli 6 Dil Se",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-14T11:44:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W61A69_MjTI9F8nKw_W8RvgUzQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7MBLAvE5UxA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-28T14:33:03Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "मात्र 50/-₹ में Famous Vda Pav 😱❤️⭐️#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Delhi's Most Famous Vda Pav Boy #shorts #india #food #vda #pavbhaji #streetfood #foodlover #viralreels #yummy #delhifood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7MBLAvE5UxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-28T14:33:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s_SyjYM9QJYGdMaOSEAeRbcVYFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kqsK4QBUQ4Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-20T13:36:23Z",
+        "channelId": "UCMPNpj0DZrG_ZWm-JCbirog",
+        "title": "Cute Girl Cooking Dosa | Cooking in Street #shortfoodvideo #streetfood #muttonrecepi #foodcoma",
+        "description": "Cute Girl. Cooking Dosa | Cooking in Street #shortfoodvideo #streetfood #muttonrecepi #foodcoma.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kqsK4QBUQ4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kqsK4QBUQ4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kqsK4QBUQ4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kqsK4QBUQ4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kqsK4QBUQ4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "foodie SIKANDER ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-20T13:36:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rv-TkVh-39R25bCWCqUz3_fHEzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tr9nVO7-EUQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-12T14:56:47Z",
+        "channelId": "UCAXhVN68xe7yJpyyxRdI1gA",
+        "title": "Aloo Paratha",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tr9nVO7-EUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tr9nVO7-EUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tr9nVO7-EUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tr9nVO7-EUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tr9nVO7-EUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rishu Eats",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-12T14:56:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X2E6eLViRj9miEbflp5oSoyiSX0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ljGBgaWaaKk"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T00:52:10Z",
+        "channelId": "UC3c7YnvODe4DHgU-6qJQjVA",
+        "title": "Mutton thali with rice 150 ke plate//food vlogs! #muttonthali #rice #chickenmutton #tranding",
+        "description": "mutton thali with rice, mutton thali aanam, mutton thali special, rice with mutton raan, mutton and rice street food, mutton and rice ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ljGBgaWaaKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ljGBgaWaaKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ljGBgaWaaKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ljGBgaWaaKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ljGBgaWaaKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taste_vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T00:52:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bx-YYgrH0w4TLay0NO3Lvzmo4Bs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0s4J8MTdDAA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-11T12:41:22Z",
+        "channelId": "UC4FMuhojZgIbvwAWrY8NiAw",
+        "title": "दिल्ली CP के प्रचीन हनुमान मंदिर के कचौड़ी #streetfood #food  #kachaudi #shorts@kaukachoriwaleq980",
+        "description": "दिल्ली के Connaught Place स्थित प्राचीन हनुमान मंदिर की मशहूर कचौड़ी ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0s4J8MTdDAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0s4J8MTdDAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0s4J8MTdDAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0s4J8MTdDAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0s4J8MTdDAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEV KANT MISHRA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-11T12:41:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_SESmofQz2hM1hAnyD6SLMurN64",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mGfIr1eVhi0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-13T08:50:36Z",
+        "channelId": "UCyIjRc6sxEjirK2kDNllBNA",
+        "title": "सनातन हिंदू एकता पदयात्रा के सातवें दिन गुरुदेव रोड पर खाना खाते हुए #bageshwardhamsarkarlive",
+        "description": "sanatan hindu ekta padyatra day 7 live bageshwar baba sanatan hindu ekta padyatra day 2, bageshwar baba sanatan hindu ekta ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mGfIr1eVhi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mGfIr1eVhi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mGfIr1eVhi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mGfIr1eVhi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mGfIr1eVhi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "viral dham ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-13T08:50:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ItjTR9c5aemHLyDochzXF3PIjYI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i99aSt11aBU"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-19T14:33:02Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "149/-₹ में UNLIMITED Pizza with Coke 😱❤️🔥#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "India's First Unlimited Pizza #shorts #india #food #unlimited #pizza #streetfood #foodlover #viralreels #yummy #delhifood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i99aSt11aBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i99aSt11aBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i99aSt11aBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i99aSt11aBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i99aSt11aBU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-19T14:33:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uPGXtV2pIjtdZqw9Lu8yPjBw6ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a6h6R41hox8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-11T05:18:48Z",
+        "channelId": "UCKGvCeVLWK5lguUogaq25gQ",
+        "title": "Delhi mumbai expressway food point #road",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6h6R41hox8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6h6R41hox8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6h6R41hox8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6h6R41hox8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6h6R41hox8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "vagobeyond",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-11T05:18:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R_pPhb2wL8ni_nU44FPH7Pa2BAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p0ePsYSBdek"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-09T13:30:50Z",
+        "channelId": "UCO1sCV4Rde5PlZGZy0emIGA",
+        "title": "बागेश्वर धाम सरकार अनिरुद्धाचार्य महाराज पदयात्रा में भूख लगी तो सड़क किनारे बैठकर भोजन करने लगे",
+        "description": "shortsfeed #shortvideo #shorts #bageshwardhamsarkar #trending.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0ePsYSBdek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0ePsYSBdek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0ePsYSBdek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p0ePsYSBdek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p0ePsYSBdek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nimit digital Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-09T13:30:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qWbjmh2FmqEqzBNR6K-fAQr4ZsE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zBfSsqKlD1U"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-21T02:58:00Z",
+        "channelId": "UCm-ZMCsmswxlMLrlrRlhNAg",
+        "title": "Delhi’s Famous Karim’s Opens in Bangalore 🇮🇳 Must-Visit Food Spot! #shorts",
+        "description": "Delhi's Famous Karim's Opens in Bangalore Must-Visit Food Spot! Check out our channel to watch the full vlog! Delhi's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBfSsqKlD1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBfSsqKlD1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBfSsqKlD1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zBfSsqKlD1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zBfSsqKlD1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Get Set GenZ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-21T02:58:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gm40LPF89Q3lcY3MiJT_1rnmzBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lhWT0j23PXE"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-23T06:30:28Z",
+        "channelId": "UC-hRcfT2A8Eb-gI7aGhZErA",
+        "title": "Delhi’s viral didi selling Kathi kebab #ytshorts #foodshorts #foodvideos #streetfood #kathikebab",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lhWT0j23PXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lhWT0j23PXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lhWT0j23PXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lhWT0j23PXE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lhWT0j23PXE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India wale Heena ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-23T06:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3bxfuCz7v45O_LN6Cbs3NREVNbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wRMltkKj17I"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-06T15:34:09Z",
+        "channelId": "UCAq_JvjVCOEmTq5IRJgEVsg",
+        "title": "भींगे बादाम खाने के फायदे||Benefits of Soaked Almonds By Dr Robin Sharma#ayurved#food #viral",
+        "description": "भींगे बादाम खाने के फायदे||Benefits of Soaked Almonds By Dr Robin Sharma#ayurved#food #viral ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wRMltkKj17I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wRMltkKj17I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wRMltkKj17I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wRMltkKj17I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wRMltkKj17I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jyoti special food",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-06T15:34:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iaSLhUrMHCE1DIagzEHswKUt4is",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Orik6YGLt0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-10T17:30:03Z",
+        "channelId": "UC6MpumO3x5EXpuzv6a58MLA",
+        "title": "सड़क किनारे गोलगप्पे खाने का मज़ा ही कुछ और है!",
+        "description": "delhihighcourt #delhihighcourtjuges #farewell #legalcommunity #lawyers #pradeeprai #indianjudiciary #scba #senioradvocate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Orik6YGLt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Orik6YGLt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Orik6YGLt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Orik6YGLt0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Orik6YGLt0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Senior Advocate Pradeep Rai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-10T17:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ZIM0vVXVROCvpEHScd9-ZAMGfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dc46zIGlj6s"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-17T12:30:28Z",
+        "channelId": "UC9zEMi8qCzeoJBxWBcFKVBg",
+        "title": "70रु में अनलिमिटेड छोले भटूरे करावलनगर #indianstreetfood #delhistreetfood #streetfood #viral #shorts",
+        "description": "करावल नगर के फेमस Anpurna छोले भटूरे | Delhi Street Food | Full Review --- करावल नगर ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dc46zIGlj6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dc46zIGlj6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dc46zIGlj6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dc46zIGlj6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dc46zIGlj6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JITU VASHISTH 94",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-17T12:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fXi98_CQq7bf5manAX77XcyzhMk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lTWypuX2llY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T17:43:28Z",
+        "channelId": "UCDbVjLZ0R0HGn342eI9ATxg",
+        "title": "Delhi Dryfruit Market 2025 || Diwali Gift Dryfruit || Dryfruit Wholesale Market Delhi Khari Baoli",
+        "description": "Cheapest Dryfruit Market In Delhi khari Baoli Delhi Dryfruits Market Dryfruits Wholesale Market in Delhi Khari Baoli #dryfruits ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTWypuX2llY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTWypuX2llY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTWypuX2llY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lTWypuX2llY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lTWypuX2llY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nijam siddique vlogs 011",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T17:43:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o_cd4V0WHT8ljjWBoP7-1X-r3Ms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-gAICM2LObg"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-22T20:16:34Z",
+        "channelId": "UCN3yqgddmqfOyPnkRR_jrCg",
+        "title": "ये दीदी रोड पर खड़े खड़े खिलाती है घर का खाना😍 #food #foodie #streetfood #thali #shorts",
+        "description": "ये दीदी रोड पर खड़े खड़े खिलाती है घर का खाना   #food #foodie #streetfood #thali #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gAICM2LObg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gAICM2LObg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gAICM2LObg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-gAICM2LObg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-gAICM2LObg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Verse",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-22T20:16:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JtDBIu1-7pC6O5nD9avhDQV9O2E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TRAnA9I5vss"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-12T05:40:00Z",
+        "channelId": "UC9zEMi8qCzeoJBxWBcFKVBg",
+        "title": "62 साल की उम्र में अंकल बेच रहे हैं सड़क किनारे समोसे #delhichaat #streetsnacks #foodcraze #samosa",
+        "description": "62 साल के अंकल बेच रहे हैं सड़क किनारे समोसे | Gandhi Nagar Famous Samosa Wale Uncle ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TRAnA9I5vss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TRAnA9I5vss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TRAnA9I5vss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TRAnA9I5vss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TRAnA9I5vss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JITU VASHISTH 94",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-12T05:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wcivd8eYiWupeFgNx-pynSBT2QU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f9CH8EoUaqQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-14T13:14:11Z",
+        "channelId": "UCwvqS1pNbDDDwSKG_MSaAUA",
+        "title": "I tried viral Chetan momo Dwarka sec 11 😭😭 #shorts #ytshorts #shortsfeed",
+        "description": "foodshorts #streetfoodchallenge #foodchallenge #freefoodchallenge #foodie #momo #bestmomos #momos #streetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9CH8EoUaqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9CH8EoUaqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9CH8EoUaqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f9CH8EoUaqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f9CH8EoUaqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Suman Bhusal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-14T13:14:11Z"
+      }
+    }
+  ]
+}

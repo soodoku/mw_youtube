@@ -1,0 +1,1114 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली खाने का ठेला",
+    "relevanceLanguage": "hi",
+    "videoDuration": "long",
+    "publishedAfter": "2025-10-01T00:00:00Z",
+    "publishedBefore": "2025-12-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:50.095441+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OqDcNum9UTV_xTVz0gG5zemd1h8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iNiaqzf5xcs"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-19T15:31:20Z",
+        "channelId": "UC0HLde5_UG7XqOBTuBkauXQ",
+        "title": "40 yrs Old Fish Thela | Delhi Street food | Best Fish In Khureji Khaas Delhi ",
+        "description": "streetfood #fish #indianfood ------------------- Address:- Khureji Khaas, Near Gogia Paneer Bhandar, Delhi Contact:- 9971880582 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iNiaqzf5xcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iNiaqzf5xcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iNiaqzf5xcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iNiaqzf5xcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iNiaqzf5xcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Faiz Baba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-19T15:31:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ft1MsTP0h3_F887kpaEAOYp7AqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vAzXsDuUKR4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-09T12:31:16Z",
+        "channelId": "UCVqAuZdTN8oiGf1ouv05yGg",
+        "title": "Chandni Chowk Ka World Famous Habshi Halwa | Desi Ghee Ki Poori Aloo| Brown Kheer | Irani Chai |",
+        "description": "Chandni Chowk Food Tour Chandni Chowk Street Food Old Delhi Food Tour Old Delhi Street Food 1–Ram Parshad Makhan Lal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND HUNGRY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-09T12:31:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BB56JPRxwaS61fFupi-qU5dhC-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iX_0jxXZ_Pw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-08T15:03:12Z",
+        "channelId": "UC0HLde5_UG7XqOBTuBkauXQ",
+        "title": "55 Saal Purani Legacy 🔥 Bilal Chicken Khureji — Buff Boti &amp; Bheja Fry Ka Asli Dilli Taste!",
+        "description": "Bilal Chicken — Khureji, Delhi | 55 Saal Purani Legacy Dilli ke Khureji ilake ka mashhoor naam — Bilal Chicken! Yahan ka ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iX_0jxXZ_Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iX_0jxXZ_Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iX_0jxXZ_Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iX_0jxXZ_Pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iX_0jxXZ_Pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Faiz Baba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-08T15:03:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BSDRx7J1aIWpqlF9MnrXH47Sr9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KIigJckQI-U"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-16T07:31:00Z",
+        "channelId": "UClfos9f7uDdoun8ZyE9jYFg",
+        "title": "Eating Viral Street Foods That Should NOT Exist 😭",
+        "description": "Go get it — https://www.odoo.com/r/DQh9 Follow me on Instagram for updates ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fukra Insaan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-16T07:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "72gBOU-xY8Y6Pbh4QiyVDoL8NXc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_NtfF2Xv_UY"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-14T15:01:08Z",
+        "channelId": "UC0HLde5_UG7XqOBTuBkauXQ",
+        "title": "Walima Haseen Bhai Ka | Delhi wedding Mughlai Food",
+        "description": "I hope you enjoyed this video hit likes. And do subscribe to my channel Thank you so much for watching god bless you all. lots of.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_NtfF2Xv_UY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_NtfF2Xv_UY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_NtfF2Xv_UY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_NtfF2Xv_UY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_NtfF2Xv_UY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Faiz Baba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-14T15:01:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cLPdwuQozAT38R0fOe5JgQ09xos",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hRhkS1A4lo8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T13:15:10Z",
+        "channelId": "UCk_0eitBx5Rn16qDsKPJpog",
+        "title": "Vlog -12 Vada pav with Vada Pav girl | Chandrika Dixit Gera ",
+        "description": "\"Welcome to our street food tasting and review video! Aaj hum try kar rahe hain asli Indian street food ka taste – crispy, spicy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hRhkS1A4lo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hRhkS1A4lo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hRhkS1A4lo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hRhkS1A4lo8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hRhkS1A4lo8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie official_3108",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T13:15:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X-DXH0ZNsMh5QbPin-P2SJySpyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6J9QOXDS7RU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-19T09:55:16Z",
+        "channelId": "UCiYk6PLC7-98np14GpXeIvQ",
+        "title": "Food Cart Manufacturing in Kanpur | Custom Street Food Cart Setup for Startups | Low Cost Setup",
+        "description": "Looking to start a street food business in Kanpur? This video covers custom food cart manufacturing in Kanpur for startups at low ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Market Rider",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-19T09:55:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wtYJDUaj4Q8ivc_Vvw3ReGQsqa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G1urAITWW_I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-12T14:37:10Z",
+        "channelId": "UCpiEl2ElkzSe5_RVwpzIUUw",
+        "title": "Only ₹ 1/- Unlimited Food &amp; ₹  1/- रूपए मैं इलाज Shyam Rasoi  | Shree Shyam Rasoi Ghaziabad | Viral",
+        "description": "Shree shyam rasoi | Shri shyam rasoi | Shree shyam rasoi sahibabad | Shyam rasoi thali | Shree shyam rasoi dispensary | Shyam ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G1urAITWW_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G1urAITWW_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1urAITWW_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G1urAITWW_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G1urAITWW_I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "National Taste",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-12T14:37:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0kKwHyl3JyVdXi_y2rnQ-cThzcE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KnfBec1hiYI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-10T11:30:28Z",
+        "channelId": "UCCuo3LwXDHOTGSq7MaH4hkw",
+        "title": "चलता फिरता दुकान सिर्फ 20-/ हजार से | Food Cart Factory Muzaffarpur | Best Food Cart Low Price Patna",
+        "description": "चलता फिरता दुकान सिर्फ 20-/ हजार से | Food Cart Factory Muzaffarpur | Best Food Cart Low Price in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KnfBec1hiYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KnfBec1hiYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KnfBec1hiYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KnfBec1hiYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Soni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-10T11:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qdIN67i56nwsuozPW5SYDdij2p8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f9PBtu91J44"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-22T14:19:16Z",
+        "channelId": "UC2RPWfBj5B9qCdmnQu4UOQw",
+        "title": "Aaj Banega Mera Favourite Mutton Curry Testidar Truck Driver Style 🤤 | Ghaziabad Trip Ho Gaya 🥰",
+        "description": "Aaj Banega Mera Favourite Mutton Curry Testidar Truck Driver Style | Ghaziabad Trip Ho Gaya Namaste doston! Aaj ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9PBtu91J44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9PBtu91J44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9PBtu91J44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f9PBtu91J44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f9PBtu91J44/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rohit Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-22T14:19:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nGuYHrVU3qtwK-hiNZHizIRv7IE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gEydZ84gEjw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-18T04:30:35Z",
+        "channelId": "UCwxa47c4Uf6ZCF4-sbjmReQ",
+        "title": "रोड से खाने वाली देवरानी को मिला महंगा रेस्टोरेंट में खिलाने वाला ससुराल |In-laws who take you to ex",
+        "description": "Rod_Se_Khane_Wali_Devrani_Ko_Mila_Mehnga_restaurant_me_khilane_wala_Sasural ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "झिलमिल Magical stories",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-18T04:30:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-V2dLzvYzqlnnMXfEWdv-M5XdEU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VWZGLoV15hw"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T05:15:02Z",
+        "channelId": "UCCuo3LwXDHOTGSq7MaH4hkw",
+        "title": "चलता फिरता दुकान सिर्फ 20-/ हजार से | Best Food Cart Factory Muzaffarpur | Best Food Cart Low Price",
+        "description": "चलता फिरता दुकान सिर्फ 20-/ हजार से | Best Food Cart Factory Muzaffarpur | Best Food Cart Low Price in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VWZGLoV15hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VWZGLoV15hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VWZGLoV15hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VWZGLoV15hw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VWZGLoV15hw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Raju Soni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T05:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UfLKdvFMaJfqjgmlXm3wkhYAJYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UiuZrpGWSis"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-05T04:30:32Z",
+        "channelId": "UC2RPWfBj5B9qCdmnQu4UOQw",
+        "title": "Gadi Lag Gaya Transporting Company | Ab Mujhe Truck Mein Jana Hai Mein Kitna Milega  Monthly Salary?",
+        "description": "Gadi Lag Gaya Transporting Company | Ab Mujhe Truck Mein Jana Hai Mein Kitna Milega Monthly Salary? gra Aake Me Fas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UiuZrpGWSis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UiuZrpGWSis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UiuZrpGWSis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UiuZrpGWSis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UiuZrpGWSis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rohit Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-05T04:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uwcauREM-5HqsIeRxaRxF_ivZms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HP19dn2JoSY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-14T13:30:15Z",
+        "channelId": "UCGtu9J8Hp5lOOdNR4_nZa2Q",
+        "title": "Can We Survive Selling Momos on the Streets ? 😱",
+        "description": "Mukti ka Instagram - https://www.instagram.com/muktigautam/?hl=en Onkar ka Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HP19dn2JoSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HP19dn2JoSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HP19dn2JoSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HP19dn2JoSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HP19dn2JoSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie We",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-14T13:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A3p7hu8s3SKxYuEbUuan6Nymr5U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ruPJOnbzaHk"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-11T09:53:31Z",
+        "channelId": "UCM86e73MhkaT2_mr6Dd3Tbw",
+        "title": "Big crowd crazy for Tibet momos daily | Indian viral street food | Food Vlog ",
+        "description": "In this video we explored the famous place for Tibetan food and other food like Thai , Korean, Japanese and other delicacies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ruPJOnbzaHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ruPJOnbzaHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ruPJOnbzaHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ruPJOnbzaHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ruPJOnbzaHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "World Food Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-11T09:53:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MfKoegtImxGniBAkZ15USzCKkC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZpDL71ItNrM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-09T12:39:16Z",
+        "channelId": "UCM86e73MhkaT2_mr6Dd3Tbw",
+        "title": "Unique Nepali popcorn momos King | Famous Catlee momos | Indian street food | Food vlog ",
+        "description": "In this video we have recorded Nepali guy who is quite famous in Delhi India with the name Catlee momos . The location of this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZpDL71ItNrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZpDL71ItNrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZpDL71ItNrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZpDL71ItNrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZpDL71ItNrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "World Food Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-09T12:39:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0373u4AsICaLFN6TaBJC360G5JM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5A3rwSyv_qc"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-14T05:31:55Z",
+        "channelId": "UC6vd-JCD7Z_FuF8N5LTydPA",
+        "title": "Sharks को कितना पसंद आया इनका food truck? | Shark Tank India S4 | Male Entrepreneurs",
+        "description": "Click here to subscribe: https://www.youtube.com/c/sharktankindia 'Schickwheel' is a leading manufacturer and supplier of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5A3rwSyv_qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5A3rwSyv_qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5A3rwSyv_qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5A3rwSyv_qc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5A3rwSyv_qc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shark Tank India",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-14T05:31:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OLo5JGXxmNLbmQ4Tuwt2GFnsZLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P8Ge0LxywyA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T11:12:46Z",
+        "channelId": "UC8FBSLxep59m9URn4nsSNcg",
+        "title": "First Time Himachali Famous Siddu Khaya 😍 in Delhi Trade Fair",
+        "description": "For Collaboration - blissfulnegifamily@gmail.com My team will get in touch with you Rudransh and Devanshi is getting naughty ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8Ge0LxywyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8Ge0LxywyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8Ge0LxywyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P8Ge0LxywyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P8Ge0LxywyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Negi & Family",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T11:12:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v72V-CM67nGUwDZN7H7Cyoly_Ls",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G-zA9yPXJaU"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-20T11:00:06Z",
+        "channelId": "UCOqGRex-aSD33wnjTIZTKfg",
+        "title": "80/- Rs PURE DESI PUNJABI STREET FOOD BREAKFAST 😍 SAAG MAKHAN | ALOO PARATHA - PAKISTAN STREET FOOD",
+        "description": "pakistanstreetfood #streetfoodpk #lahorestreetfood 70/- Rs PURE DESI PUNJABI STREET FOOD BREAKFAST SAAG ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G-zA9yPXJaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G-zA9yPXJaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G-zA9yPXJaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G-zA9yPXJaU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G-zA9yPXJaU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Munday Lahori",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-20T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ibkONWYcax1Ln3FxqQGxwglzZcQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q94JmfVUWmg"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-11T12:30:44Z",
+        "channelId": "UCNAyZdj3OsRS8ZoCkZzqMAQ",
+        "title": "ठंड में आलू गोभी की सब्जी खाने वाला ससुराल | In-laws who eat potato and cauliflower | Cartoon Video",
+        "description": "ठंड_में_आलू_गोभी_की_सब्जी_खाने_वाला_ससुराल ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q94JmfVUWmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q94JmfVUWmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q94JmfVUWmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q94JmfVUWmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q94JmfVUWmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kahaniyon Ka सफर ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-11T12:30:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5r7k2Ar3kgUaQ_Iyrr399BYo2x0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ETWUmf_J9Tg"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-09T06:08:01Z",
+        "channelId": "UCh56f66p6tsFZfWkfSiHsWA",
+        "title": "100₹ में भर पेट मटन चावल, 18 घंटे काम करती हूँ पेट पालने के लिए, नौकरी से पेट नहीं भरता, JeevChatora",
+        "description": "100₹ में भर पेट मटन चावल, 18 घंटे काम करती हूँ पेट पालने के लिए, नौकरी से ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ETWUmf_J9Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ETWUmf_J9Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETWUmf_J9Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ETWUmf_J9Tg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ETWUmf_J9Tg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jeev Chatora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-09T06:08:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ua-fMEsDpu4WPl3Puti3BJ9r-lE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WfU_EMD7Kt0"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-23T16:00:55Z",
+        "channelId": "UCWP7xpRSZkIg16P0LGj6rKg",
+        "title": "बस स्टैंड पर चलता था कातिल का खेल – पुलिस ने ठेला बनाकर किया पर्दाफाश || Crime Patrol",
+        "description": "बस स्टैंड पर चलता था कातिल का खेल – पुलिस ने ठेला बनाकर किया पर्दाफाश ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WfU_EMD7Kt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WfU_EMD7Kt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WfU_EMD7Kt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WfU_EMD7Kt0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WfU_EMD7Kt0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Mafia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-23T16:00:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1CD4qI_DMMhfhKUSHa5UZ0U_D7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1vmO-VjyFm4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-11T07:30:02Z",
+        "channelId": "UCOQNJjhXwvAScuELTT_i7cQ",
+        "title": "क्या हो पाएगा Gokuldham वालों का Mission Successful? |Taarak Mehta Ka Ooltah Chashmah|Pani Ki Chinta",
+        "description": "Click here to subscribe to the Sony LIV Channel: https://www.youtube.com/user/sonyliv Celebrate this Diwali with double the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1vmO-VjyFm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1vmO-VjyFm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vmO-VjyFm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1vmO-VjyFm4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1vmO-VjyFm4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony LIV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-11T07:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qlMf3LsJDFoHFxm5S6ZR6Y7luLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3UiNvk0FQYs"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-10T11:30:08Z",
+        "channelId": "UCzA-Y4vLF0nysdqNy7j9KYQ",
+        "title": "ठंड में रात की रसोई में रोज रोज मैगी बनाने वाली बहू । Bahu Who Makes Maggi Every Day In The Kitchen",
+        "description": "Thand_Me_Rasoi_Me_Roj_Roj_Maggi_Banane_Wali_Bahu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3UiNvk0FQYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3UiNvk0FQYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3UiNvk0FQYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3UiNvk0FQYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3UiNvk0FQYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABUNDANCE SAS Bahu fatafat ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-10T11:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MD6btXm4GRdBYlCoPXjrYyvjPTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2P944rhHWhQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-09T11:30:04Z",
+        "channelId": "UCBIT1FSJW6yTlzqK-31FDWg",
+        "title": "Coffee पीते-पीते Jetha ने ली Iyer की फिरकी | Taarak Mehta Ka Ooltah Chashmah | Full Movie",
+        "description": "Click here to Subscribe to LIV Comedy: https://www.youtube.com/channel/UCBIT1FSJW6yTlzqK-31FDWg?sub_confirmation=1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2P944rhHWhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2P944rhHWhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2P944rhHWhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2P944rhHWhQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2P944rhHWhQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIV Comedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-09T11:30:04Z"
+      }
+    }
+  ]
+}

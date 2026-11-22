@@ -1,0 +1,1099 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi food stall",
+    "relevanceLanguage": "en",
+    "videoDuration": "long",
+    "publishedAfter": "2025-10-01T00:00:00Z",
+    "publishedBefore": "2025-12-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:42.880529+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rJWyVe_qvuRkdPHPO0U-XmPzBK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RxNAtuMqRrM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-14T15:00:52Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "North Delhi Breakfast | Chole Kulche, Matar Kachori, Amritsari Naan, Chole Bhature, Sambar Vada",
+        "description": "North Delhi Breakfast | Chole Kulche, Matar Kachori, Amritsari Naan Thai, Chole Bhature, Sambar Vada #food #dillistreetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-14T15:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2QlHYGg95W1wFpzSARkwHY-rI4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zTMFPPZEG1k"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-19T07:18:48Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "5 Best Chole Kulche Street Food in Delhi You Need to Try | Veggie Paaji",
+        "description": "Join Veggie Paaji on an ultimate Delhi street food tour to find the 5 BEST Chole Kulche in the city! We travel across Delhi, from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-19T07:18:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4SxcxRO5KpQ3USBqqGT25RhaTYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FPzsT5Uv-AA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-12T17:35:42Z",
+        "channelId": "UCtdXY2td4AHj7vBaWIl_zsw",
+        "title": "We set up our stall in Delhi&#39;s Street Food Festival😍15th National Street Food Festival 2025",
+        "description": "Did you like this vlog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FPzsT5Uv-AA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FPzsT5Uv-AA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FPzsT5Uv-AA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FPzsT5Uv-AA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Priyam Upreti",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-12T17:35:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sccDHIH5nkubqiC6KsF_lykVh9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QkLRRsusJZQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T07:54:04Z",
+        "channelId": "UC9bZ2br7DxE7ZAoJSJdF66A",
+        "title": "Trade fair 2025 food court tour with price / iitf 2025 tour / trade fair Pragati maidan",
+        "description": "Trade fair 2025 food court tour with price / iitf 2025 tour / trade fair Pragati maidan Trade fair 2025 delhi - trade fair 2025 delhi food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QkLRRsusJZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QkLRRsusJZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QkLRRsusJZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QkLRRsusJZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DLRV VLOGS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T07:54:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WkJw2isp3AwRiDtNdkyXW4KvaJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qtl6pLZY2OM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-30T13:39:39Z",
+        "channelId": "UC7kcW9Gk5ru-ZNyQxq3yHFA",
+        "title": "Late Night Street Food In Delhi | Famous Delhi Street Food | Indian Street Food",
+        "description": "Late Night Street Food In Delhi | Famous Delhi Street Food | Indian Street Food #streetfood #indianstreetfood #delhistreetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qtl6pLZY2OM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qtl6pLZY2OM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtl6pLZY2OM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qtl6pLZY2OM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qtl6pLZY2OM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pettoo Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-30T13:39:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yqbsvqYjIFPr6-s2T7SjCW6MB7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-1eOCmTRrOE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-11T09:12:06Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "Uttam Nagar Food Tour | Delhi Street Food | Veggie Paaji",
+        "description": "Join Veggie Paaji on an exciting food adventure in Uttam Nagar, West Delhi! In this latest episode of our Delhi Food Series, we're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-11T09:12:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iOiOf3xoA8cE_0Tl_4_hLwrUsfg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uYX6IwMApPk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-17T07:47:58Z",
+        "channelId": "UC56FE_z7qPmi_2Z3_69ubnQ",
+        "title": "Trade fair 2025 food court tour with price / iitf 2025 tour / trade fair Pragati maidan",
+        "description": "Trade fair 2025 food court tour with price / iitf 2025 tour / trade fair Pragati maidan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uYX6IwMApPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uYX6IwMApPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uYX6IwMApPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uYX6IwMApPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uYX6IwMApPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "My Travel Run",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-17T07:47:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BSDRx7J1aIWpqlF9MnrXH47Sr9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KIigJckQI-U"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-16T07:31:00Z",
+        "channelId": "UClfos9f7uDdoun8ZyE9jYFg",
+        "title": "Eating Viral Street Foods That Should NOT Exist 😭",
+        "description": "Go get it — https://www.odoo.com/r/DQh9 Follow me on Instagram for updates ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KIigJckQI-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fukra Insaan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-16T07:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NcKun2IfqMcevMMPyh8u_CA-GWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F0LZe1_wUTw"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-27T15:00:34Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Mohalla Aapka Janakpuri | Kalmi Kebab, Fish Tikka, Keema Chicken, Butter Chicken Pizza,Chicken Tikka",
+        "description": "Mohalla Aapka Janakpuri | Kalmi Kebab, Fish Tikka, Keema Chicken, Butter Chicken Pizza,Chicken Tikka #dilsefoodie #food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F0LZe1_wUTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F0LZe1_wUTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F0LZe1_wUTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F0LZe1_wUTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F0LZe1_wUTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-27T15:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OlEG_Yp7ZKBEUyG_gIn5wK2ZPUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vnSSKhWkRDs"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-25T12:31:27Z",
+        "channelId": "UCd1DAfDaPdUbQQhqcQKfQJw",
+        "title": "Our FIRST Day in India 🇮🇳 | Mind-Blowing Street Food Tour in Old Delhi!",
+        "description": "Plan your trip with India Someday - https://indiasomeday.com/en/plan-your-trip-1/?q=sammyandtommy#planyourtripform Mention ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sammy and Tommy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-25T12:31:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SKzT-io_9oyFbYCBKAq_GbUt0iI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vU8UvovzLQI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-03T13:47:23Z",
+        "channelId": "UC7kcW9Gk5ru-ZNyQxq3yHFA",
+        "title": "5 Best Non Veg Street Food In Delhi | Indian Street Food",
+        "description": "Top 5 Must Try Non Veg Street Food In Delhi | Indian Street Food #streetfood #indianstreetfood #delhistreetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vU8UvovzLQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vU8UvovzLQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vU8UvovzLQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vU8UvovzLQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vU8UvovzLQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pettoo Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-03T13:47:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ou4Gs9Uaum9qkb5sOXqoT04e9OI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iwzBeHAKDoU"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-13T13:31:10Z",
+        "channelId": "UClu0tmI1pyrYeWdXD8-GXOg",
+        "title": "A day Out at Chandini Chowk Market | Food Stall | Purani Delhi | Delhi Walking Tour 4K 60FPS 🚶‍♀️",
+        "description": "Welcome to this full walking tour of Chandni Chowk, one of India's oldest and busiest markets, located in the heart of Old Delhi.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwzBeHAKDoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwzBeHAKDoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwzBeHAKDoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwzBeHAKDoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Street Walker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-13T13:31:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RbO0SMwbLqcVWvEGmzFpFt_uayI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9HdALpJYLrE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-01T15:00:30Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food At Jail Road | Sunny Chicken Soup, Mithlesh Ande Wala, Pao Bhaji, Tawa Chaap, Chicken",
+        "description": "Street Food At Jail Road | Sunny Chicken Soup, Mithlesh Ande Wala, Pao Bhaji, Tawa Chaap, Chicken #food #dilsefoodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9HdALpJYLrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9HdALpJYLrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9HdALpJYLrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9HdALpJYLrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9HdALpJYLrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-01T15:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "35hQW95a3iNyyyH99W9EWyLC_bw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v6I0To2nmIk"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-02T12:32:11Z",
+        "channelId": "UCYBTobp0OLmtP9uFDmsMMkg",
+        "title": "SARAS FOOD FESTIVAL DELHI INDIA FOOD COURT 2025",
+        "description": "This video is of Saras Food Festival where i have explored mouthwatering dishes, vibrant food stalls, live cooking, desserts, street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v6I0To2nmIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v6I0To2nmIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v6I0To2nmIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v6I0To2nmIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": " World of Neha Indian Artist ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-02T12:32:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w6vnx5f7WxNW2_JvtD1jVZms3w0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xb5leIdgV-o"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T15:00:56Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food At Indirapuram | Dinesh Chicken, PKS Kebab, Chicken Shawarma, Ninza Momos, Kathi Roll",
+        "description": "Street Food At Indrapuram | Dinesh Chicken, PKS Kebab, Chicken Shawarma, Ninza Momos, Kathi Roll #food #streetfood #foodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xb5leIdgV-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xb5leIdgV-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xb5leIdgV-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xb5leIdgV-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xb5leIdgV-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T15:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8PcSu6Y_63oMxpe6SJ6OnUiczd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i_EjUusEQb8"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-23T11:30:55Z",
+        "channelId": "UCz4a7agVFr1TxU-mpAP8hkw",
+        "title": "Reality of Indian Street Food",
+        "description": "Checkout BeatO CurV here: Amazon: https://tinyurl.com/YT-Mohak-AMz BeatO website: https://tinyurl.com/YT-Mohak-Shopify ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_EjUusEQb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_EjUusEQb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_EjUusEQb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i_EjUusEQb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i_EjUusEQb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mohak Mangal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-23T11:30:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X-DXH0ZNsMh5QbPin-P2SJySpyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6J9QOXDS7RU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-19T09:55:16Z",
+        "channelId": "UCiYk6PLC7-98np14GpXeIvQ",
+        "title": "Food Cart Manufacturing in Kanpur | Custom Street Food Cart Setup for Startups | Low Cost Setup",
+        "description": "Looking to start a street food business in Kanpur? This video covers custom food cart manufacturing in Kanpur for startups at low ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6J9QOXDS7RU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Market Rider",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-19T09:55:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D4w1JLkOg9WT787UdgXSMXSsEsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Szp_olyAClY"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-23T15:01:01Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Jaipur Veg Street Food | Tawa Chowmein, Butter Dabble, Kurkure Momos, Gupta JI Burger, Orange Soda",
+        "description": "Jaipur Veg Street Food | Tawa Chowmein, Butter Dabble, Kurkure Momos, Gupta JI Burger, Orange Soda #foodie #momowala ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Szp_olyAClY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Szp_olyAClY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Szp_olyAClY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Szp_olyAClY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Szp_olyAClY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-23T15:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eFUoMU_qs_RWlP9EXZqxMlkfYU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y8ipBdNAOrI"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T18:59:48Z",
+        "channelId": "UCq0AHqiRICb7CUCWcSuV0jw",
+        "title": "INDIA STREET FOOD VLOG /CART FOOD/STREETFOOD/DELHI/INDIAN STREET MARKIT PART 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y8ipBdNAOrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y8ipBdNAOrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8ipBdNAOrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y8ipBdNAOrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y8ipBdNAOrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Deep ASMR Story ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T18:59:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-akzEhmV4upyLv9U1-D9ZctG-Ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2GQJ0JLhqkI"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-12T13:56:39Z",
+        "channelId": "UC7kcW9Gk5ru-ZNyQxq3yHFA",
+        "title": "3 Superhit Street Food In Punjab | Famous Punjab Street Food | Indian Street Food ",
+        "description": "3 Superhit Street Food In Punjab | Famous Punjab Street Food | Indian Street Food #streetfood #indianstreetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2GQJ0JLhqkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2GQJ0JLhqkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2GQJ0JLhqkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2GQJ0JLhqkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2GQJ0JLhqkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pettoo Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-12T13:56:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LzfZURuUVc0LdDZWbZZwdeWzp-M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w-_HIlfo7-U"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T16:40:32Z",
+        "channelId": "UCq0AHqiRICb7CUCWcSuV0jw",
+        "title": "INDIA STREET FOOD LIVE VIDEO /DELHI STREET FOOD/CART FOOD/",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w-_HIlfo7-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w-_HIlfo7-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-_HIlfo7-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w-_HIlfo7-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w-_HIlfo7-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Deep ASMR Story ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T16:40:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8sg2ifN-Zzx2t9joxlWt_U2bVP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "18upie9LfjQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T10:28:42Z",
+        "channelId": "UC0OBVa4Yo6YBijNU0LkHPxA",
+        "title": "मजेदार खाना Food Court Trade Fair में !  Delhi Trade Fair 2025",
+        "description": "हर बार की तरह इस बार भी Food Court Delhi Trade Fair में लगाया गया है.. भारत के मुख्य ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18upie9LfjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18upie9LfjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18upie9LfjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18upie9LfjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18upie9LfjQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amit Travlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T10:28:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QwWmXgHt50e3XW1_btbzQkG8Kq0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GHwX8zWInnQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-18T12:00:06Z",
+        "channelId": "UCfuHubXBszR4tFrs2Nv3mlQ",
+        "title": "Must Watch Before Starting Food Cart | Why Food Cart Business Fail | Low Inventory Business ",
+        "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCfuHubXBszR4tFrs2Nv3mlQ/join Connect with me- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GHwX8zWInnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GHwX8zWInnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHwX8zWInnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GHwX8zWInnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GHwX8zWInnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rahul Sharma BRPC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-18T12:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DYB7TlyBvBV_bHuT9cT4oY_ikp4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ONmll9mwfp0"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T14:30:07Z",
+        "channelId": "UCeHBtWLeV3wLJT3B_8Oq0TQ",
+        "title": "I tried every dish in Food Mall | Mumbai Pune Expressway | Food Challenge | #Bha2Pa",
+        "description": "foodcourt #mumbaipuneexpressway During our road trip along the Mumbai–Pune Expressway, we stopped at the Khaugalli Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ONmll9mwfp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ONmll9mwfp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ONmll9mwfp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ONmll9mwfp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ONmll9mwfp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bharatiya Touring Party",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T14:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gYumAGjyqw5_MyOjoCpCa-bMKwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ikMSuzF7D7U"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-16T15:01:31Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Best South Indian Food | Open Masala Dosa, Coconut Shell Podi Idli, Podi Thatte Idli, Andhra Canteen",
+        "description": "Best South Indian Food | Open Masala Dosa, Coconut Shell Podi Idli, Podi Thatte Idli, Andhra Canteen #indianfood #streetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ikMSuzF7D7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ikMSuzF7D7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ikMSuzF7D7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ikMSuzF7D7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ikMSuzF7D7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-16T15:01:31Z"
+      }
+    }
+  ]
+}

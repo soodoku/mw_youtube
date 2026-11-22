@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली स्ट्रीट फूड",
+    "relevanceLanguage": "hi",
+    "videoDuration": "short",
+    "publishedAfter": "2025-01-01T00:00:00Z",
+    "publishedBefore": "2025-03-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:55:47.220044+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sMTur5kp6GBbKIEFfLwda5Vls0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jteLQEQJTXk"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-21T09:55:00Z",
+        "channelId": "UCh0WSc8lF26TRh6iP0_I0hQ",
+        "title": "Delhi ki Famous Akram Biryani 🤣😱🫣 #shorts #youtubeshorts #trending",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jteLQEQJTXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr VIRAL VLOGS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-21T09:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0jna785Qz1GZS-ZNtDzKcpcVUtY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fclfUFr2GiQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-07T06:40:05Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Most Crispiest Burger in Delhi😍🔥|| Indian Street Food",
+        "description": "burger #kurkureburger #bhukkaddillike #dillistreetfood #indianstreetfood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fclfUFr2GiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fclfUFr2GiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fclfUFr2GiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fclfUFr2GiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fclfUFr2GiQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-07T06:40:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GK8imXmniwKPDguUK_phMCRndbA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3hpBmBZVp68"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-06T12:45:15Z",
+        "channelId": "UCi2t4queU8n97jREQtIx93g",
+        "title": "Best Kebabs in Old Delhi | Must-Try Street Food Near Jama Masjid &amp; Chandni Chowk",
+        "description": "Video Description: Old Delhi's Iconic Kebabs – A Food Lover's Paradise! Welcome to the streets of Old Delhi, where the aroma of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hpBmBZVp68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hpBmBZVp68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hpBmBZVp68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3hpBmBZVp68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3hpBmBZVp68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hellovisit Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-06T12:45:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "00XWhicnQOplpJTdoW__hKSDII4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L_krbTm01Wc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-18T13:09:41Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Desi Noodles at Just Rs 10/-😋🔥|| Indian Street Food",
+        "description": "noodles #vegnoodle #bhukkaddillike #streetfood #delhistreetfood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L_krbTm01Wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L_krbTm01Wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L_krbTm01Wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L_krbTm01Wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L_krbTm01Wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-18T13:09:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4XrvF_fGBdtLwHidZgw9wUVCe3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "08hcAhjdLLY"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-07T06:30:00Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Most crunchiest Burger Making😍😋|| Indian Street Food",
+        "description": "burger #kurkureburger #vegburger #bhukkaddillike #rohinifood #rohinistreetfood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/08hcAhjdLLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-07T06:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qcEpdru90NePMixKg835FGvPmUU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2DrGakz08BI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-13T15:48:01Z",
+        "channelId": "UCXKQ5HWxtSoqf_Aq40Z3yaA",
+        "title": "Tasty Street Food In Noida Sector 62 | #noida  #delhi  #streetfood",
+        "description": "Exploring the flavors of Noida Sector 62, a culinary hub in the heart of Delhi NCR! In this food vlog, we take you on a gastronomic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2DrGakz08BI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "That Brat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-13T15:48:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MDStzWhQiLPP7Vv0o-qzlqnEO_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L7Ltx71opPU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-17T10:35:06Z",
+        "channelId": "UCy-pIJQu39gJqJDpdC1jALQ",
+        "title": "Delhi Best Rajma Chawal in Just 40/-❤️ #food #rajmachawal #streetfood #desifoodblog #indianfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L7Ltx71opPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L7Ltx71opPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L7Ltx71opPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L7Ltx71opPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L7Ltx71opPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "sardaarjifoodie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-17T10:35:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CFzQ5Y1vyLbJrgVoSllQCTx069s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zbaul35k7pQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T06:29:51Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Heera Paneer’s Spl Chai😳🤩|| Indian Street Food",
+        "description": "chai #punjabstreetfood #amritsarifood #bhukkaddillike.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zbaul35k7pQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zbaul35k7pQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zbaul35k7pQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zbaul35k7pQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zbaul35k7pQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T06:29:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4WIB-NiWs4w0Ro4vWP2jruSQVuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f5dUkzmXAWQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-30T12:35:19Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Most Spiciest Noodles in Delhi🥵🔥|| Indian Street Food",
+        "description": "noodles #chinesefood #bhukkaddillike #rohinifood #rohinistreetfood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f5dUkzmXAWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f5dUkzmXAWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f5dUkzmXAWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f5dUkzmXAWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f5dUkzmXAWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-30T12:35:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O4B_hd5uKK0re2hHvwUHhiWqwVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OLRRbqW00iQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-17T06:32:11Z",
+        "channelId": "UCQzKXn_bUstplfXgX03dHIw",
+        "title": "SAMOSA CHAAT ₹90/-😍✨| Purani dilli ka swad #chaat #shorts #indianstreetfood",
+        "description": "samosa #samosarecipe #samosachaat #samosalove #samosafillingrecipe #chaatcravings #chaatlover #chaatrecipe #stuffed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLRRbqW00iQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLRRbqW00iQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLRRbqW00iQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OLRRbqW00iQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OLRRbqW00iQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie Duo by Muktaa & Abhimanyu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-17T06:32:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWTQoFl_PHDH2fnfRwtQ2vhXh78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mrplq_Yq9BU"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-09T15:54:00Z",
+        "channelId": "UCyotG-McC1hAlO_q0KqWtSA",
+        "title": "Best street food in Delhi Jama Masjid #viralshorts #friedchicken #foodshorts #foodblogger",
+        "description": "Best street food in Delhi Jama Masjid global centre Fried chicken Abdul Malik Fareed Best fried chicken Adil Chaudhary Fried ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mrplq_Yq9BU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mrplq_Yq9BU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mrplq_Yq9BU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mrplq_Yq9BU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mrplq_Yq9BU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eat with AN foodie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-09T15:54:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hX33IQySDTj9og9grDA5SwRoVRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JIFLOAFuxq4"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T12:59:53Z",
+        "channelId": "UCHig-ISRb77VEn8rH0uZV1g",
+        "title": "Karol Bagh most Overhyped food 🤤😱 #yumvloger #foodchallenge #shorts #karolbagh #tikki #minivlog",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JIFLOAFuxq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JIFLOAFuxq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JIFLOAFuxq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JIFLOAFuxq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JIFLOAFuxq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yum vloger",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T12:59:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0630MkouHdvqZoXM8uV51sucPkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YcIrXY1Fo54"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-28T13:45:03Z",
+        "channelId": "UCATa9lVnmTTfxxe_5eL7Ddw",
+        "title": "4 Street Food to try in Chandni Chowk Delhi 🤤",
+        "description": "In this Shorts video, Backpacker Indian is sharing 4 Healthy Indian Street Food to try in Chandni Chowk Delhi a.k.a Delhi 06.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YcIrXY1Fo54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YcIrXY1Fo54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YcIrXY1Fo54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YcIrXY1Fo54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YcIrXY1Fo54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Backpacker Indian",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-28T13:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BV10NQiFebdmfMOlnp8HeqJ7wRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "agqtjMkVVk0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-27T06:30:01Z",
+        "channelId": "UCxT6k4MFbmV9VWtg25ZcTKw",
+        "title": "Eating Every Breakfast Available in Our City’s  Khau Gali🔥😍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/agqtjMkVVk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/agqtjMkVVk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/agqtjMkVVk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/agqtjMkVVk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/agqtjMkVVk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sourav Das",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-27T06:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pxEkY2Ul-rDcfm6aS1F3TSKZiRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OdZwbSz2vKE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-18T13:30:15Z",
+        "channelId": "UCsKc38DDpGkNTHwsYjA0rbA",
+        "title": "Must try Street Food in South Delhi except Momo || South Delhi ka Majnu ka Tila 😁",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OdZwbSz2vKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OdZwbSz2vKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OdZwbSz2vKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OdZwbSz2vKE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OdZwbSz2vKE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "cravingsandcalories vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-18T13:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hUIYn00RS8Ye4S_UP-2kEr5Lo7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HsqosAepcio"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-25T13:37:34Z",
+        "channelId": "UCyubW6s9H4cdxtrfbhoG1Sg",
+        "title": "200₹ laxmi nagar street food challenge 🔥😍 #food #shorts #streetfood",
+        "description": "Hello everyone, recently I visited Laxmi Nagar market and did ₹200 street food challenge 1. I tried Namkeen patty, which cost us ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HsqosAepcio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HsqosAepcio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HsqosAepcio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HsqosAepcio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HsqosAepcio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Help With Harsh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-25T13:37:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1gPYygdHKMlbIbOILRJZv1C4wgE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wR_ML8ouzw0"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T16:57:19Z",
+        "channelId": "UCVt9R5ASv14pXwbwKEeXElA",
+        "title": "Delhi’s Iconic Moolchand Paratha - Worth the hype? | Delhi Street Food | Lajpat Nagar",
+        "description": "During my trip to Delhi, a friend recommended Moolchand Paratha as a must-try spot. Eager to see what the hype was about, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wR_ML8ouzw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wR_ML8ouzw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wR_ML8ouzw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wR_ML8ouzw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wR_ML8ouzw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bushra Shahid",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T16:57:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6gCZcS8iYdOAJKMyW-2gnSMoYPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "78FCOOXnvSQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-17T09:12:49Z",
+        "channelId": "UC3BAgVgkG0BrnxBMZ2x_L9A",
+        "title": "Khan special egg for ₹225 😍🔥 #egg #streetfood #delhi #food #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/78FCOOXnvSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/78FCOOXnvSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/78FCOOXnvSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/78FCOOXnvSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/78FCOOXnvSQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sanskar Khemani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-17T09:12:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KYPfvj7qUnsYkCQrmP74DQtnOHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sdBHs9vMbAE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-06T07:40:43Z",
+        "channelId": "UCLIj-eIQ4r_xVP8gpYFDQxA",
+        "title": "Delhi के Best Gravy Momos🤤❤️ #shorts #gravymomos #indianstreetfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sdBHs9vMbAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sdBHs9vMbAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sdBHs9vMbAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sdBHs9vMbAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sdBHs9vMbAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "King’s Food Z by Aditya Baisla",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-06T07:40:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sbzz1ZvovKBDol4gwFe023erHEo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dFZjCp0XbpQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-02T07:08:42Z",
+        "channelId": "UCmpdfNHjVuOSvaBR2Wtdu8A",
+        "title": "Cheese Handi Pasta in Delhi😍😋|| Indian Street Food",
+        "description": "pasta #whitesaucepasta #bhukkaddillike #dillistreetfood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dFZjCp0XbpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dFZjCp0XbpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dFZjCp0XbpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dFZjCp0XbpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dFZjCp0XbpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "bhukkad dilli ke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-02T07:08:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LmOx_0A5C_s_m7deQTzbchhOSCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gIsK0Oe9qHI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-15T04:57:52Z",
+        "channelId": "UC-Nn4C_xqAMxc2Vbe60wRxw",
+        "title": "Tiny Roadside Stall Making Churmur Chaat in #delhi #dehlistreetfood #youtubeshortsindia #indianfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gIsK0Oe9qHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bhukkadnumber1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-15T04:57:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "necu2naGgzCSz8-rTWUre9z1SBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iqMjWcUFSBY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-01T07:34:20Z",
+        "channelId": "UCLIj-eIQ4r_xVP8gpYFDQxA",
+        "title": "Delhi वाली Street Maggi😋🥵 at ₹50/- Only #shorts #maggi #indianstreetfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iqMjWcUFSBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "King’s Food Z by Aditya Baisla",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-01T07:34:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bCerRoh5RG7llUrqbU8fE6fdnxI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6wQjGECI3vQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-01T17:59:50Z",
+        "channelId": "UCE9j9LBL8btEBIXMkW0z7FQ",
+        "title": "🔥Unlimited Pizza🔥| Rohini Street Food | Delhi Street Food | Unlimited Buffet #shorts #streetfood",
+        "description": "Unlimited Pizza  | Rohini Street Food | Delhi Street Food | Unlimited Buffet #shorts #streetfood #youtubeindia #swaadloo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6wQjGECI3vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6wQjGECI3vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6wQjGECI3vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6wQjGECI3vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6wQjGECI3vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Swaad Loo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-01T17:59:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H2_d7rf92niNwNgfcqqiAfxd3Pc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9bRPQyjiWBM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-10T08:32:02Z",
+        "channelId": "UC7rfED_ycmFlTsWbF03T_tA",
+        "title": "Tasty Momos in Delhi 🤤 || Unique momos of Delhi || Delhi Street Food ❤️ #shorts #momos #foodvideo",
+        "description": "foodunlimited #vegfood #dalchawal #corporate #foodvideo #streetfood #shahipaneer #foodrecipe #localfood #gharkakhana ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9bRPQyjiWBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9bRPQyjiWBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9bRPQyjiWBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9bRPQyjiWBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9bRPQyjiWBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Motu Foodiee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-10T08:32:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0tmY4kPv1CumbhuhIft4qBGrm5g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yo5yJysnncw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-07T13:12:54Z",
+        "channelId": "UC_hLj-IZaNO1JdLkHRmoKvw",
+        "title": "Best Sweet Shop in Delhi Paharganj | Bikaner Sweet Corner | Delhi Street Food | Paharganj Food Vlog",
+        "description": "Bikaner Sweet Corner Paharganj Paharganj food Delhi street food Chandani Chowk Street food Paranthe wali galli Parathe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yo5yJysnncw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yo5yJysnncw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yo5yJysnncw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yo5yJysnncw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yo5yJysnncw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SRS VLOGS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-07T13:12:54Z"
+      }
+    }
+  ]
+}

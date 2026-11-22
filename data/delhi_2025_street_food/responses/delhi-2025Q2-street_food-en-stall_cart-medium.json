@@ -1,0 +1,1109 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi food stall",
+    "relevanceLanguage": "en",
+    "videoDuration": "medium",
+    "publishedAfter": "2025-04-01T00:00:00Z",
+    "publishedBefore": "2025-06-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:55:59.976310+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eTTJpbALDp4jJyVm0FKfg2ub0Go",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DxVkN1aOqiw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-21T15:03:04Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "2 घंटे me Sold 😍 Jeep wali Desi Ghee 4x4 Thali | Delhi Street Food India",
+        "description": "Delhi Street Food | 2 Ghante me Sold | Jeep wali Desi Ghee 4x4 Punjabi Thali | Street Food India | Indian Street Food | Best Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DxVkN1aOqiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DxVkN1aOqiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DxVkN1aOqiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DxVkN1aOqiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DxVkN1aOqiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-21T15:03:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C6sOFP7zTw9ton52TjQC8gzsSWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4tDFe4IcXq8"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-11T15:03:20Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "High Court Judges ka Favourite Pooja Dhaba 😍 Street Food India | Lunch Thali",
+        "description": "Street Food India | High Court Judges ka Favourite Pooja Dhaba | Indian Street Food | Best Thali | Food Video | Street Food In ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4tDFe4IcXq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4tDFe4IcXq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4tDFe4IcXq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4tDFe4IcXq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4tDFe4IcXq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-11T15:03:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0OTjOuful_-QvEbs5ALloCM6Q_A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JGowYVfK_s8"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-13T04:01:10Z",
+        "channelId": "UCjvwlBbJaBVVHmHG_559Gng",
+        "title": "Best Food Cart Designs | E-Rickshaw Food Cart | Fast Food &amp; Pizza Cart | Food Cart Manufacturer",
+        "description": "Best Food Cart Designs | E-Rickshaw Food Cart | Fast Food & Pizza Cart | Food Cart Manufacturer Name : Shree Ganesh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGowYVfK_s8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGowYVfK_s8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGowYVfK_s8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGowYVfK_s8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JGowYVfK_s8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": " Business Sanchaar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-13T04:01:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m0ylJNjoqIf3gbbCgorDJwUvDSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xBTwYD40hyw"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-29T14:27:41Z",
+        "channelId": "UCjfWVl8sFvq-SBHLpZPx6kQ",
+        "title": "food cart manufacturer in delhi | food cart factory in delhi - मात्र 35 हजार रुपये से शुरू फूड कार्ट",
+        "description": "Food cart manufacturer in delhi best place for tour business if you are finding best quality food carts machinery hub providing you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xBTwYD40hyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xBTwYD40hyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xBTwYD40hyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xBTwYD40hyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xBTwYD40hyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Business Darbar ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-29T14:27:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OVQsgwIhW_Qh0kqoWtnhI85O1-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cf-zlDnHxLY"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-07T14:59:00Z",
+        "channelId": "UC4qXyMvDs6OnNEnjQtinZJA",
+        "title": "70/- UNLIMITED Thali 🇮🇳 Best Indian Street Food | Paneer Makhani, Dal Double Tadka, Lachha Paratha",
+        "description": "70/- UNLIMITED Thali Best Indian Street Food | Paneer Makhani, Dal Double Tadka, Lachha Paratha.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cf-zlDnHxLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cf-zlDnHxLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cf-zlDnHxLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cf-zlDnHxLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cf-zlDnHxLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harry Uppal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-07T14:59:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L3FoPVPjricdRxY2VKsjESTIkDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6DhWhVftpBE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-17T03:30:18Z",
+        "channelId": "UCYnTa089YkHHHnRYpuhsoqw",
+        "title": "24 Hours Eating THE BEST INDIAN STREET FOOD in Delhi!",
+        "description": "In today's video, I'm taking you with me to Chandni Chowk! It's one of the busiest and most iconic areas in Delhi. We kicked things ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6DhWhVftpBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6DhWhVftpBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6DhWhVftpBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6DhWhVftpBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6DhWhVftpBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nicole Danner",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-17T03:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_2JEd4gP5JIXB7K8hdCorK9TXhw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EjEylQH9He8"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-28T06:30:14Z",
+        "channelId": "UCNsLQm6XFXeYlL6r8pnAJug",
+        "title": "Omaxe mall | purani Delhi ka naya Chandni chowk food court | variety of shopping | delicious food",
+        "description": "omaxemall #chandinichowk #delhi #hindichannel About me} I'm suji I love cooking, I love to show varieties of food dishes in my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EjEylQH9He8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EjEylQH9He8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EjEylQH9He8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EjEylQH9He8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EjEylQH9He8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Flavors of India",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-28T06:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rWRhlK3mrAZQ3wya8JmneUVn4YQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aM_WijZyMfg"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-23T15:24:00Z",
+        "channelId": "UC4qXyMvDs6OnNEnjQtinZJA",
+        "title": "Only 1 in India: A Street Food Stall That Feeds 1,000 People per Day 😍 Unlimited Items Start at Rs.7",
+        "description": "Only 1 in India: A Street Food Stall That Feeds 1000 People per Day Unlimited Items Start at Rs.7.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aM_WijZyMfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aM_WijZyMfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aM_WijZyMfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aM_WijZyMfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aM_WijZyMfg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harry Uppal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-23T15:24:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HYWgdVQweCeDvKBrye-kUzekceE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nskzikg0c-I"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-23T15:03:27Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "99/- Dubai Brothers ka Ultimate Tandoori Sham ka Nashta | Street Food India",
+        "description": "Street Food India | 99/- Dubai Brothers ka Ultimate Tandoori Sham ka Nashta | Indian Street Food | Best Street Food | Street Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nskzikg0c-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nskzikg0c-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nskzikg0c-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nskzikg0c-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nskzikg0c-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-23T15:03:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fjuL0Qm7_vHzjpGF33y4h0kZBBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DeDiUgzs5zE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-26T02:30:21Z",
+        "channelId": "UCwNrL4xwx9MrLpQm75X2srQ",
+        "title": "Food Cart Factory in Patna Food Stall | Low Price Food Cart in Patna Me Food Cart Kaha Milta Hai",
+        "description": "Best Food Cart Factory in Patna | सिर्फ 20 हजार में बनवाइए | Food Cart Low Price | Food Cart Patna Hello ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DeDiUgzs5zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DeDiUgzs5zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DeDiUgzs5zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DeDiUgzs5zE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DeDiUgzs5zE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mj Rahul Vlogs ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-26T02:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jAS4vh_IOvbdSSZGi6otXjDESBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "atjiJmQYqxI"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-08T11:02:55Z",
+        "channelId": "UC3NnKCXezlCPO9wVolOI5wg",
+        "title": "𝗗𝗲𝗹𝗵𝗶 𝗦𝘁𝗿𝗲𝗲𝘁 𝗙𝗼𝗼𝗱 || 𝗗𝗲𝗹𝗵𝗶 𝘀𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗺𝗮𝗿𝗸𝗲𝘁 𝗳𝗼𝗼𝗱 𝗦𝘁𝗮𝗹𝗹 ||दिल्ली की मार्किट मे खाने के फेमस फ़ूड स्टाल",
+        "description": "Delhi Street Food || Delhi shopping market food Stall ||दिल्ली की ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/atjiJmQYqxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/atjiJmQYqxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/atjiJmQYqxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/atjiJmQYqxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Ghumakkad Life vlogs ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-08T11:02:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o6hVH3vmVZDuly5i1umcNdfCT7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0pF4GOA_pC4"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-18T05:45:01Z",
+        "channelId": "UCSZd47a2r_oOLdUjmTwD-3w",
+        "title": "Food Cart Manufacturing in Delhi | Custom Street Food Cart for Startup Business | Low Cost Setup",
+        "description": "Are you planning to start a street food business in India? Discover everything you need to know about Food Cart Manufacturing in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pF4GOA_pC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pF4GOA_pC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pF4GOA_pC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0pF4GOA_pC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0pF4GOA_pC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Business Guruji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-18T05:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "87Ej3Od8y7dcuy2SrudP0Flu50E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AVDZepF8_5M"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-21T08:33:01Z",
+        "channelId": "UChSNfIER90uPzUMKmYJjKTg",
+        "title": "We Tried Every Food Stall In Omaxe Mall Chandni Chowk",
+        "description": "Omaxe mall chandni chowk food court DEHLI Discover the ultimate foodie paradise at Omaxe Mall Chandni Chowk Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVDZepF8_5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVDZepF8_5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVDZepF8_5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AVDZepF8_5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AVDZepF8_5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aabidxvlogs ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-21T08:33:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XfcZLjg6_499JpWPK9Rr_wUeYlw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q-GPWgthZA8"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-29T10:48:20Z",
+        "channelId": "UC5aKead6Q8YQYjceizxJIuw",
+        "title": "Testing Restaurants With 0 Google Reviews",
+        "description": "Click on the link to register yourself for Odoo Community Days - https://www.odoo.com/r/PZP Follow me on Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q-GPWgthZA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q-GPWgthZA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q-GPWgthZA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q-GPWgthZA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q-GPWgthZA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nishu Tiwari",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-29T10:48:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_G_G9WGCHTbWzrIHG43PneeVjEc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sbPFE4TdLyU"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-27T11:00:07Z",
+        "channelId": "UCR1Jltq7vMzGQVtRd-DR5AA",
+        "title": "Eating Viral Indian Street Food in India",
+        "description": "In this video, we are going to tried viral Indian street food on the street of Mumbai. We are risking our stomach to do this, so make ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sbPFE4TdLyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sbPFE4TdLyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sbPFE4TdLyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sbPFE4TdLyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sbPFE4TdLyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NickandCarrie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-27T11:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9Ci6cNpvcB2JY1HS5jEeO6ojpH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C-vwkA4zGco"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-05T04:00:28Z",
+        "channelId": "UC_Lnb8ZHqqgLbp-7hltuT9w",
+        "title": "S$6 Michelin Meals at Indian-Pakistani Hawker Stall in Tekka | Lunch With Us: Singapore",
+        "description": "Tekka Centre in Singapore's Little India has long been associated with good budget South Asian food. Cafe chef Rathakrishnan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-vwkA4zGco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-vwkA4zGco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-vwkA4zGco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-vwkA4zGco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-vwkA4zGco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNA Insider",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-05T04:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vCIE3F84o67o4spS6DuCkkL80Ik",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q1L6hip2YV4"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-27T07:45:33Z",
+        "channelId": "UC5aKead6Q8YQYjceizxJIuw",
+        "title": "I Tried Famous Food Vloggers Recommendations",
+        "description": "Ad Get this amazing product on Amazon today and enjoy great discounts! Amazon: https://rebrand.ly/nishuturmericserum0425 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q1L6hip2YV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q1L6hip2YV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q1L6hip2YV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q1L6hip2YV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q1L6hip2YV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nishu Tiwari",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-27T07:45:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vDTNVnkDXUb13iLAVY5LRWg_U_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LtsaYYoqLa0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-13T05:30:10Z",
+        "channelId": "UC1q0yEg0tLwnPKHFQ1t4FDQ",
+        "title": "Food Cart Start Only 30,000/- at Guru Kirpa Enterprises uttam nagar delhi | cart manufacture delhi",
+        "description": "Food Cart Start Only 30000/- at Guru Kirpa Enterprises uttam nagar delhi | cart manufacture delhi nearest metro :- uttam nagar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LtsaYYoqLa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LtsaYYoqLa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LtsaYYoqLa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LtsaYYoqLa0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LtsaYYoqLa0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "nc vlog ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-13T05:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FL_QAHB5pN8szZK-aJwO0X_GPDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r-f_F4xcMdI"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-04T08:30:26Z",
+        "channelId": "UCjvwlBbJaBVVHmHG_559Gng",
+        "title": "Affordable &amp; Durable Food Cart Manufacturer in U.P. Kanpur | Chinese Food Cart| E-Rickshaw Food Cart",
+        "description": "Affordable & Durable Food Cart Manufacturer in U.P. Kanpur | Chinese Food Cart | E-Rickshaw Food Cart Name : Ram Jyoti ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r-f_F4xcMdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r-f_F4xcMdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r-f_F4xcMdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r-f_F4xcMdI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r-f_F4xcMdI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": " Business Sanchaar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-04T08:30:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wStyDCf4sKXXl5NmA9A-SRdcjlo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9tCPOHQI8SI"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-29T08:34:25Z",
+        "channelId": "UCUU1Qjr62A02cjP_CzL_Kig",
+        "title": "Best food stall, food cart manufacturing manufacturer in delhi faridabad NCR, Food card factory",
+        "description": "ear Sir/Mam I am Angad Ojha, From Food cart factory We deal with all Luxury Types of Fast Food Stall Khoka and Shop, Dukan, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tCPOHQI8SI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tCPOHQI8SI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tCPOHQI8SI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9tCPOHQI8SI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9tCPOHQI8SI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Cart Factory",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-29T08:34:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "THAXHZmhSXW6BZEUHad5d1U9Ato",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iHyuihWssyY"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-13T14:47:30Z",
+        "channelId": "UC9P8RGEax5PQHJPAoVdfzmw",
+        "title": "Food cart manufacturer | Bike cart | fast food cart | Pizza Cart",
+        "description": "foodcart #newbusiness Machinery Hub Add- Plot No-23/17 ,Matiyala Village ,Uttam Nagar ,New Delhi-110059 8178466757 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iHyuihWssyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iHyuihWssyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iHyuihWssyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iHyuihWssyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iHyuihWssyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EPIC LADKA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-13T14:47:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C4vSQcF_0rFUW7BYLE7ZANYXyYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ckTF017vebE"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-04T07:30:15Z",
+        "channelId": "UCEHCDn_BBnk3uTK1M64ptyw",
+        "title": "पुरानी दिल्ली के मशहूर छोले कुलचे | Chole Old Delhi style | Instant Gajar Achaar | Chef Ranveer Brar",
+        "description": "PURANI DILLI CHOLE - Weekend ka matlab something special for the whole family. What better than this Old Dilli style Chole ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ckTF017vebE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ckTF017vebE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ckTF017vebE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ckTF017vebE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chef Ranveer Brar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-04T07:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xf3MCD6twQtGTYjwOqLJaTDTACM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mbhZvtDtcVM"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-29T10:22:52Z",
+        "channelId": "UCv1_bgMbq5-oHoKANY_ydyA",
+        "title": "Food cart factory | Food cart Manufacturer | Food truck manufacturer | Food trailer | Food kiosk",
+        "description": "Food cart factory | Food cart Manufacturer | Food truck manufacturer | Food trailer | Food kiosk Factory Address:- Machinery Hub ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mbhZvtDtcVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mbhZvtDtcVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mbhZvtDtcVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mbhZvtDtcVM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mbhZvtDtcVM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Machinery Hub Small Business Ideas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-29T10:22:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "74_EESIIdjDLZLm86Rx2A1MkPPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H0LEdFeJGP8"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-31T14:15:02Z",
+        "channelId": "UCT4rEk57euSYOjbgfWLNV7Q",
+        "title": "Unique E-Rickshaw Food Cart ki Veg Biryani | Mint Sauce &amp; Chatpati Chutney |#chillitadka #streetfood",
+        "description": "Dosto, iss video me hum aaye hain East Delhi – Dilshad Garden Deer Park ke paas, jahan ek unique E-Rickshaw Food Cart se ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H0LEdFeJGP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H0LEdFeJGP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H0LEdFeJGP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H0LEdFeJGP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H0LEdFeJGP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chilli Tadka",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-31T14:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dP2orJbValZgXiT6Lt3bghfhbTs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sOFr3-vokSE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-06T06:38:32Z",
+        "channelId": "UC9P8RGEax5PQHJPAoVdfzmw",
+        "title": "Food cart manufacturer | bike food cart | fast food cart | Pizza Cart,Momos cart, Chinese cart",
+        "description": "foodcart #newbusiness Machinery Hub Add- Plot No-23/17 ,Matiyala Village ,Uttam Nagar ,New Delhi-110059 8178466757 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sOFr3-vokSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sOFr3-vokSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sOFr3-vokSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sOFr3-vokSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sOFr3-vokSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EPIC LADKA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-06T06:38:32Z"
+      }
+    }
+  ]
+}

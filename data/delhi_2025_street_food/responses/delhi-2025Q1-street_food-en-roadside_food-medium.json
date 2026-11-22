@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi roadside food",
+    "relevanceLanguage": "en",
+    "videoDuration": "medium",
+    "publishedAfter": "2025-01-01T00:00:00Z",
+    "publishedBefore": "2025-03-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:55:45.601920+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "20Dv51YzTb0j8S4p21K8sWvyYXc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QJEejBkeYPk"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T15:11:17Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "300 Kilo Roz 😍 Jamna Paar Delhi ka MOST WANTED Dhaba | Street Food India",
+        "description": "Street Food India | 300 Kilo Roz Jamna Paar Delhi ka MOST WANTED Dhaba | Indian Street Food | Delhi Street Food | Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T15:11:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vxX9jFFghr5R0RcWVXGwc-RexM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Oqvt3B4oDc"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-16T04:30:05Z",
+        "channelId": "UC5vQMkqw2JVC9mqGNBXjzMw",
+        "title": "Bihari Style Cheapest Tawa Chicken In Delhi Rs. 80/- Only l Delhi Street Food",
+        "description": "tawachicken #viralvideo #food #streetfood #delhistreetfood #trending #foodie #foodlover #delhifood #delhitawachicken ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "INDIA EAT MANIA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-16T04:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VpzrWfuTno8x4oL8fJwCQcyHdt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nzv6_v8vom8"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-16T15:20:25Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "1980 से Delhi ka BEST SELLING Dhaba Street Food India 😍 Langar Wala Dhaba",
+        "description": "Street Food India | 1980 se Delhi ka Best Selling Punjabi Dhaba Food | Indian Street Food | Langar Wala Dhaba | Delhi Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nzv6_v8vom8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nzv6_v8vom8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nzv6_v8vom8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nzv6_v8vom8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nzv6_v8vom8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-16T15:20:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DFrnIvlqGqkS3GB4uwe8Ruf8yRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kAt9CiXREh4"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-12T15:17:19Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Jamna Paar Delhi ka HEAVY WEIGHT Kill Dil Burger 😍 Delhi Street Food India",
+        "description": "Street Food India | Jamna Paar Delhi ka HEAVY WEIGHT Kill Dil Burger | Indian Street Food | Delhi Street Food | Food Vlogs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kAt9CiXREh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kAt9CiXREh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kAt9CiXREh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kAt9CiXREh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kAt9CiXREh4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-12T15:17:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E0IjcFIQw6Z56sqwc2TcpwyrV4o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1TAsCMHw1gU"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-23T06:48:54Z",
+        "channelId": "UCoKTpfJXIMJvzWuc8FvJgdw",
+        "title": "5 Star Roadside Dhaba In Delhi! 😳 Delhi Karol Bagh Street Food | Latest Street Food Vlogs 2025",
+        "description": "streetfood #foodblogger #indianstreetfood #delhistreetfood #delhi #karolbhag #delhifood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1TAsCMHw1gU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1TAsCMHw1gU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1TAsCMHw1gU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1TAsCMHw1gU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1TAsCMHw1gU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr. HNV India Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-23T06:48:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u0mGE_UWeSmaRzUX8iyJFlfvZek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N5LeNn68xOY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-24T15:20:11Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Delhi Street Food ke NATIONAL Chaat King 😍 14+ VIRAL Items | Street Food India",
+        "description": "Street Food India | Delhi Street Food ke NATIONAL Chaat King 14+ VIRAL Items | Indian Street Food | Delhi Street Food | Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N5LeNn68xOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N5LeNn68xOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N5LeNn68xOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N5LeNn68xOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N5LeNn68xOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-24T15:20:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SIAgAAAStpo0I8wpmJ1IMd5WGUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Erjjnj2-rwg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-11T15:00:17Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "DISCOVERING The Best Street Food Spots in Connaught Place",
+        "description": "I Found AMAZING Street Food in Connaught Place #streetfood #dilsefoodie #food #connaughtplacedelhi For Collaboration ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Erjjnj2-rwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Erjjnj2-rwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Erjjnj2-rwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Erjjnj2-rwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Erjjnj2-rwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-11T15:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tnVR9Dgo1tAhWztGGzcW9KgwqZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7V2cyvF7UNk"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T15:15:29Z",
+        "channelId": "UC4qXyMvDs6OnNEnjQtinZJA",
+        "title": "Delhi&#39;s No. 1 Tadke Wale Chole Kulche | Delhi Street Food Mayapuri | Shahi Paneer Chole Kulche",
+        "description": "Delhi's No. 1 Tadke Wale Chole Kulche | Delhi Street Food Mayapuri | Shahi Paneer Chole Kulche SUBSCRIBE TO MY MUSIC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harry Uppal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T15:15:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N7lWEEYMvYHYe9HPE8TdW3wRoKg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AXEwV6qufeU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T15:20:10Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "India&#39;s MOST FAMOUS Tadke Wale Mayapuri Chole Kulche 😍 Street Food India",
+        "description": "Street Food India | India's MOST FAMOUS Tadke Wale Mayapuri Chole Kulche | Indian Street Food | Delhi Street Food | Best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-22T15:20:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7R8GRrAXWuYeIZ-m3ojr9K4UCuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OesTxx2qCFM"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-20T15:00:29Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Mohalla Aapka JAMA MASJID | Qureshi Kebab, Aslam Butter Chicken, Chicken Shawarma, Al Jawahar Hotel",
+        "description": "Mohalla Aapka JAMA MASJID | Qureshi Kebab, Aslam Butter Chicken, Chicken Shawarma, Al Jawahar Hotel #foodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OesTxx2qCFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OesTxx2qCFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OesTxx2qCFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OesTxx2qCFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OesTxx2qCFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-20T15:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d3jyveG36bhG8R7um1FbLNrxtdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "898kni1UqPM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-18T13:30:06Z",
+        "channelId": "UCvTLyB-aixsl4MhiMEomVRQ",
+        "title": "Old Delhi Street Food Tour | Purani Dilli ke Pakwaan | Ashok &amp; Ashok Meat Dhaba|Bedmi Puri |Biryani",
+        "description": "Join Kunal Vijayakar in this mouth-watering episode of Khaane Mein Kya Hai, as he embarks on a flavorful journey through the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/898kni1UqPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/898kni1UqPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/898kni1UqPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/898kni1UqPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/898kni1UqPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khaane Mein Kya Hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-18T13:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HjxhwBM20C122CC_763VDmEsio0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y6jezhdXe94"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-20T15:42:22Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Delhi&#39;s No 1 Oil Free Chole Bhature | Street Food India | Kulhad Chole Bhature",
+        "description": "Delhi's No 1 Oil Free Chole Bhature | Street Food India | Kulhad Chole Bhature | Indian Street Food | Delhi Street Food | Best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-20T15:42:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XLohx_NStoHcK8o5-5gfvSaYTTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NmfSpHEiGII"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-26T15:03:32Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "15/- Rs Record Tod Nashta | No 1 Pani Wale Chole Bhature | Street Food India",
+        "description": "Street Food India | 15/- Rs Record Tod Nashta | No 1 Pani Wale Chole Bhature | Indian Street Food | Punjab Street Food | Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NmfSpHEiGII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NmfSpHEiGII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NmfSpHEiGII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NmfSpHEiGII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NmfSpHEiGII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-26T15:03:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "azTUEPkPKOHGLSy4aJG1WcO8DDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qiAd_rhduO0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-08T15:20:26Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Delhi&#39;s No.1 Politician Lunch Thali | Baba Da Dhaba | Delhi Street Food India",
+        "description": "Street Food India | Delhi's No.1 Politician Lunch Thali | Baba Da Dhaba | Delhi Street Food | Indian Street Food | Punjabi Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qiAd_rhduO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qiAd_rhduO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qiAd_rhduO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qiAd_rhduO0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qiAd_rhduO0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-08T15:20:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3t3RBv-bkJcHk5nKrarVHEG68pU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jg-T_z83Imw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-16T13:52:20Z",
+        "channelId": "UCTv78rh_eLqvDRE9yWSZNaA",
+        "title": "Delhi Ncr ONLY Cheapest/Local Lebanese Street Food. Chicken Shawarma, Turkish Kebab, Grilled Chicken",
+        "description": "Delhi Ncr ONLY Cheapest/Local Lebanese Street Food. Chicken Shawarma, Turkish Kebab, Grilled Chicken What Up Peeps, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jg-T_z83Imw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jg-T_z83Imw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jg-T_z83Imw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jg-T_z83Imw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jg-T_z83Imw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shoaib Arora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-16T13:52:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e0UcSqSCZg1D6fo6DjQLI1QSJPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HLToI4Z8Soo"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-26T15:36:59Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Jamna Paar ki FIRST CHOICE Gulshan da Punjabi Dhaba | Delhi Street Food India",
+        "description": "Street Food India | Jamna Paar ki FIRST CHOICE Gulshan da Punjabi Dhaba | Delhi Street Food | Indian Street Food | Punjabi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HLToI4Z8Soo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HLToI4Z8Soo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HLToI4Z8Soo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HLToI4Z8Soo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HLToI4Z8Soo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-26T15:36:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SLbQ0kmiOs-Ehm0qBLcmjo0kOf8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M79JXmUYvvk"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-12T15:21:10Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "India&#39;s MOST UNIQUE Dhaba | बिना Oil और Namak Milega Food 😍 Street Food India",
+        "description": "Street Food India | India's Most Unique Dhaba | Bina Oil aur Namak Milega Punjabi Food | Indian Street Food | Punjab Street Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M79JXmUYvvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M79JXmUYvvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M79JXmUYvvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M79JXmUYvvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M79JXmUYvvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-12T15:21:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZHQdCzMK43hb7HpAUY6kWupni8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xh6rKECyduI"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-28T14:03:21Z",
+        "channelId": "UC5785RkS00IBIMC_MrcIVCQ",
+        "title": "Most Unhealthy 🤮 Lali Chhangani Club Kachori Kolkata | ₹50/- ONLY | Indian Street Food |",
+        "description": "Most Unhealthy Lali Chhangani Club Kachori Kolkata #chhanganiclubkachori #unhealthyfoods #indianstreetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xh6rKECyduI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xh6rKECyduI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xh6rKECyduI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xh6rKECyduI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xh6rKECyduI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Explore With Prince ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-28T14:03:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T9wjmOOAzqKsx07OXnAi2oPdENM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uio7FZfBxc8"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T14:04:58Z",
+        "channelId": "UCrYfpsA5ffyK1Muht65Nwug",
+        "title": "MAJNU KA TILA Tour | Best Food Tour | Laphing, Corn Dog, Croissant",
+        "description": "Hi Everyone!! How are you? In this video, I have tried all the famous Asian Food at Majnu Ka Tila. Majnu ka Tila is a mini Tibet in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uio7FZfBxc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uio7FZfBxc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uio7FZfBxc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uio7FZfBxc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uio7FZfBxc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "themellowdoodles",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T14:04:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ilYxYRTdCtdZDukGIL_72L66up0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DpdwE_S5NXg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-30T15:03:06Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "India ka Most Honest Street Food Chef | Street Food India | सबकी पोल Kholdi",
+        "description": "Street Food India | India ka Most Honest Street Food Chef | Indian Street Food | Food Vlogs | Best Street Food | Food Video | Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DpdwE_S5NXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DpdwE_S5NXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DpdwE_S5NXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DpdwE_S5NXg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DpdwE_S5NXg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-30T15:03:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b_5evfkWnkNbgIPlpPy06lgtj70",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wrXXq3N7OHg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-03T14:25:48Z",
+        "channelId": "UCM-q0U0F6-oMOFTYPtlsEfA",
+        "title": "Delhi&#39;s No.1Street Food in  Ramesh Nagar| Punjabi Poori , Chole Kulche , Atta Naan",
+        "description": "Delhi's No.1Street Food in Ramesh Nagar| Punjabi Poori , Chole Kulche , Atta Naan google location Pakoda corner Gol ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr. Singh food hunter",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-03T14:25:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1yRdb_0t9XeNvi4SD-2sHTOGOPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vYvpVhqAAd8"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-22T15:07:36Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "149/- Punjab&#39;s Most Wanted Blue Rehri Wala Spl Lunch | Street Food India",
+        "description": "149/- Punjab's Most Wanted Blue Rehri Wala Spl Lunch | Street Food India | Indian Street Food | Punjab Street Food | Best Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-22T15:07:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lk_bMfrX_lIG6Ock4Awc36kFiY0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2nGkyNInyzY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-03T09:00:04Z",
+        "channelId": "UCiLXH9emUsuzWIROp3ntL0Q",
+        "title": "Tolichowki Hidden Streetfood Backside of Rumaan | Explore with @bhukkanawab",
+        "description": "Address - Tolichowki https://maps.app.goo.gl/JHX9X6desePwf52M6 Our vision is to explore Hyderabad's best food for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2nGkyNInyzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2nGkyNInyzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2nGkyNInyzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2nGkyNInyzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2nGkyNInyzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bhukka Nawab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-03T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WtPO4ZVFlP8gxeEQuQr1h2R-O0g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lPKh2MJnc1c"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T04:30:32Z",
+        "channelId": "UC5vQMkqw2JVC9mqGNBXjzMw",
+        "title": "Jharkhandi Adivasi Style Murge Ke Panje Making In Ranchi l Jharkhand Street Food",
+        "description": "ranchistreetfood #ranchifood #murgekepanje #chickenlegs #viralvideo #food #adivasibazarranchi #adivasifood #ranchijharkhand ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "INDIA EAT MANIA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T04:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sc4Q4JCIAz7J9h8PfmyFWFQGThw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I7j9YNr3P1E"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-14T13:53:09Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Bank Manager ka Roadside Punjabi Dhaba | Street Food India | Liquid Gold Thali",
+        "description": "Street Food India | Bank Manager ka Roadside Punjabi Dhaba | Indian Street Food | Desi Ghee Thali | Punjab Street Food | Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I7j9YNr3P1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I7j9YNr3P1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I7j9YNr3P1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I7j9YNr3P1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I7j9YNr3P1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-14T13:53:09Z"
+      }
+    }
+  ]
+}

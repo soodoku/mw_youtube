@@ -1,0 +1,1114 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली खाने का ठेला",
+    "relevanceLanguage": "hi",
+    "videoDuration": "medium",
+    "publishedAfter": "2025-07-01T00:00:00Z",
+    "publishedBefore": "2025-09-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:35.124382+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZM2dlnozstU_KqbB4EfGnp3wpYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6jHQ670YukA"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-29T12:22:24Z",
+        "channelId": "UCSZd47a2r_oOLdUjmTwD-3w",
+        "title": "Best Food Cart Maker in Delhi 🚚 | Street Food Thela Design 2025 | Start Your Business Today 🔥",
+        "description": "Best Food Cart Maker in Delhi | Street Food Thela Design 2025 | Start Your Business Today Looking for the best food cart ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6jHQ670YukA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6jHQ670YukA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6jHQ670YukA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6jHQ670YukA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6jHQ670YukA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Business Guruji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-29T12:22:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M4TNTkqMYD1mcwT5LE3Az6SBymw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jw0D0fjGmns"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T12:04:32Z",
+        "channelId": "UCSZd47a2r_oOLdUjmTwD-3w",
+        "title": "₹15,000 से शुरू Food Cart | Best Food Cart Maker in Delhi | Thela for Street Food Business 2025",
+        "description": "15000 में शुरू करें अपना फूड कार्ट बिज़नेस! क्या आप दिल्ली या आसपास के ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jw0D0fjGmns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jw0D0fjGmns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jw0D0fjGmns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jw0D0fjGmns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jw0D0fjGmns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Business Guruji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T12:04:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rHv7bYez32b41B12zZfxuCLX8J0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vF3UekxLYLs"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T15:03:29Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "PVR Manager ka 7 Star Exotic Street Food 😍 Street Food India | BIG BRANDS FAIL?",
+        "description": "Street Food India | PVR Manager ka 7 Star Exotic Street Food | Indian Street Food | Best Street Food | Street Food | Food Vlogs In ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vF3UekxLYLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vF3UekxLYLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vF3UekxLYLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vF3UekxLYLs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vF3UekxLYLs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T15:03:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "96lDEPrZ1vpNgLtAlpsF5menN0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aUlL69If8e8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-05T13:00:04Z",
+        "channelId": "UCN8BM0DFXrRKscb-C5oAZ9g",
+        "title": "This Delhi Vendor’s Setup Turns Simple Ingredients into a Street Food Hit! 🤯🔥",
+        "description": "Watch the full street cart setup of Delhi's most iconic Chole Kulche vendor, where soft kulchas meet spicy, tangy chole — all ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aUlL69If8e8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aUlL69If8e8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aUlL69If8e8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aUlL69If8e8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aUlL69If8e8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tastie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-05T13:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ll0mltfc2W2Ld6Bf47vXa_UclAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9JdOelts2WA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T12:30:06Z",
+        "channelId": "UCkqrnyJ9GUxWCJXgzBwx3wA",
+        "title": "Top Food Cart Manufacturer in Delhi | Customize Your Thela for Food Business Under ₹20,000",
+        "description": "दिल्ली में ढूंढ रहे हैं एक मजबूत और किफायती Food Cart? अब शुरू करें अपना ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9JdOelts2WA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9JdOelts2WA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9JdOelts2WA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9JdOelts2WA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9JdOelts2WA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Manish Business Ideas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T12:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C6wENiuOGBYmDq3R6yH41gSkIxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bitm-iJvasg"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-14T07:26:59Z",
+        "channelId": "UClfos9f7uDdoun8ZyE9jYFg",
+        "title": "Eating at INDIA&#39;S most FAMOUS Street Food Shops",
+        "description": "Follow me on Instagram for updates ➞ https://instagram.com/fukra_insaan?igshid=jytojomgh8j4 Join my discord server ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bitm-iJvasg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bitm-iJvasg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bitm-iJvasg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bitm-iJvasg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bitm-iJvasg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fukra Insaan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-14T07:26:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kcn6ahXZ0QOZdAi937_Q8701snw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NWg9qWEYfuU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-06T14:45:03Z",
+        "channelId": "UCB8J0kIjF-MWZpmgwB7PWZw",
+        "title": "शुद्ध शाकाहारी वेज बिरयानी ठेला गाड़ी, VEG BIRYANI BUSINESS CART ( THELA GADI )",
+        "description": "शुद्ध शाकाहारी वेज बिरयानी ठेला गाड़ी, VEG BIRYANI BUSINESS CART ( THELA GADI ) Hii I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NWg9qWEYfuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NWg9qWEYfuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NWg9qWEYfuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NWg9qWEYfuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NWg9qWEYfuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Super furniture work Shop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-06T14:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yi92enkQMBoAifrOloXR2fX68rY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3CljF-yMowU"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-31T04:37:52Z",
+        "channelId": "UClF9vKtRlHfLgyolnErf2Ew",
+        "title": "मोटरसाइकिल वाला ठेला|Bike thela| Built A Motorcycle Form A Hand cart|",
+        "description": "मोटरसाइकिल वाला ठेला|Bike thela|Built A Motorcycle Form A Hand cart|bike thela ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3CljF-yMowU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3CljF-yMowU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3CljF-yMowU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3CljF-yMowU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3CljF-yMowU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thele Wale ki Life style",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-31T04:37:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gey6mFuVOlEh8Ip5zdsGAe77S8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xE7p82A1QRY"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-01T10:29:29Z",
+        "channelId": "UCggFaKfxYpai1eep6Vr2w7g",
+        "title": "Vcrea8 Custom Food Trucks &amp; Carts | Best Food Cart Manufacturer in Delhi, India",
+        "description": "Vcrea8 Custom Food Trucks & Carts | Best Food Cart Manufacturer in Delhi, India Explore Vcrea8's custom-designed food trucks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xE7p82A1QRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xE7p82A1QRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xE7p82A1QRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xE7p82A1QRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xE7p82A1QRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jagjiit Chaudhary Vlog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-01T10:29:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yu-1W5UcWfLsRrhQO14ECeCXd5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xzuxeTFi53o"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-19T06:47:04Z",
+        "channelId": "UCLnOM51UTXObCxrVdF8jkkg",
+        "title": "दिल्ली में ठेला लगाने वाले लोगों को भारी बड़ी चेतावनी #viralvideo #delhiCMO",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xzuxeTFi53o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xzuxeTFi53o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xzuxeTFi53o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xzuxeTFi53o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xzuxeTFi53o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi BJP party ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-19T06:47:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qFIEslldVCB9RcaeZewxf2aqhOI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RfhK3mejPMk"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-14T14:20:38Z",
+        "channelId": "UCB8J0kIjF-MWZpmgwB7PWZw",
+        "title": "FAST FOOD BUSINESS CART, Design Thela Gadi for Fast Food Heavy Quality...",
+        "description": "FAST FOOD BUSINESS CART, Design Thela Gadi for Fast Food Heavy Quality... Hii I Am GYASUDDIN SAIFI, Welcome to Our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RfhK3mejPMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RfhK3mejPMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RfhK3mejPMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RfhK3mejPMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RfhK3mejPMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Super furniture work Shop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-14T14:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tTFZM_rZxdjLlN-sNy7Ny8Rx0vs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fIK__VgGY8A"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-24T09:53:05Z",
+        "channelId": "UCE5hOKI8ypgjT1uCAtUiVqA",
+        "title": "  ठेला से सब्जी कैसे बेचे महीने का इनकम 25000 से ₹30000 कैसे इनकम करें sandeep patel blog 🍅🌶️🥕🍆🥦🥒🌽",
+        "description": "ठेला से सब्जी कैसे बेचे महीने का इनकम 25000 से ₹30000 कैसे इनकम करें sandeep ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fIK__VgGY8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fIK__VgGY8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fIK__VgGY8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fIK__VgGY8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Sandeep The Vlog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-24T09:53:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xy_CKu1c22DGwqTPdyyIq09OFLc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-hQYQnyrcrE"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-27T14:51:42Z",
+        "channelId": "UCVSOeHExviTjLnr-iZ4GL2A",
+        "title": "Most Funny and dirty street food of India | weird indian street food | Aina Tv",
+        "description": "Funny and dirty street food of India | weird indian street food | Aina Tv This video is about Indian street food. In this video We ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-hQYQnyrcrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-hQYQnyrcrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hQYQnyrcrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-hQYQnyrcrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-hQYQnyrcrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aina TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-27T14:51:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NP4gHlGmggTro8ha534cwjWEUwA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c11bXtm5NaA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-30T15:03:03Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "200 Kg Roz 😍 Tricity ka सबसे MAKHANI Sham ka Nashta | Street Food India",
+        "description": "Street Food India | 200 Kilo Sale Daily | Tricity ka सबसे MAKHANI Sham ka Nashta | Indian Street Food | Best Street Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c11bXtm5NaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c11bXtm5NaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c11bXtm5NaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c11bXtm5NaA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c11bXtm5NaA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-30T15:03:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DHSUJMvpeuT4ofEZLyRd0RYK_Ak",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FAih8Js7Atw"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-27T07:30:07Z",
+        "channelId": "UC5sAxbzXgEL1M5rnHqu6Ljg",
+        "title": "Food cart manufacturer | bike food cart | fast food cart | Pizza Cart,Momos cart, Chinese cart",
+        "description": "foodcart manufacturer, #foodcart, #foodcartmanufacturerin delhi, #foodcartdelhi, #foodcartbusiness ADDRESS :- Uttam Nagar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FAih8Js7Atw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FAih8Js7Atw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FAih8Js7Atw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FAih8Js7Atw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FAih8Js7Atw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "INFINITY VLOGS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-27T07:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9FU8jhKoZ8Rpx-llWlEFmD48hxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BNgXU_UXjVc"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-24T14:54:12Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "35/- India&#39;s HIGHEST SELLING Desi Ghee Jumbo Parathe 😍 Street Food India",
+        "description": "Street Food India | 35/- India's HIGHEST SELLING Desi Ghee Jumbo Parathe | Indian Street Food | Chandigarh Street Food | Best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BNgXU_UXjVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BNgXU_UXjVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BNgXU_UXjVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BNgXU_UXjVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BNgXU_UXjVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-24T14:54:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GPyNAhuQcrx2emiXR6TY4P4O864",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wi8v7XYsWQ4"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-06T02:45:05Z",
+        "channelId": "UCX1cHv8ASQENRCtGRWofeww",
+        "title": "सभी प्रकार के बाइक जुगाड ट्राली | Bike trolly juggad | Thela | Food card Bilaspur Chhattisgarh",
+        "description": "नमस्कार दोस्तों हम आपको लेकर चल रहे हैं ठेले की सबसे बड़ी होलसेल ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wi8v7XYsWQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wi8v7XYsWQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wi8v7XYsWQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wi8v7XYsWQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wi8v7XYsWQ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mithlesh Bike Thela Engineering,Food Cart Factory ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-06T02:45:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zHqpwmsAZXbBXvDzdRueBruDZNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Ki0Uorbj-g"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T02:56:35Z",
+        "channelId": "UCW9C9KI7HnGJ2O830IZEIqA",
+        "title": "IceCream factory ke liye kaun sa thela kharidna chahie barf wala ya freezer wala.",
+        "description": "IceCream factory ke liye kaun sa thela kharidna chahie barf wala ya freezer wala. #icecreamcart #besticecreamcart #freezercart ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Ki0Uorbj-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Ki0Uorbj-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Ki0Uorbj-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Ki0Uorbj-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Ki0Uorbj-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Moraabhi vlog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T02:56:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7_9bkdjTdzYKzbm0ooC0Uy5XTYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g8ctUtMjI88"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-25T03:30:34Z",
+        "channelId": "UC2AkIQufSwo0hu3M57N8CaA",
+        "title": "दिल्ली के ठेला स्टाइल मटर कुल्चे | Street Food Recipe at Home",
+        "description": "Delhi Street Style Matar Kulcha Recipe | ठेला स्टाइल मटर कुल्चा बनाना सीखें Authentic Delhi Matar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g8ctUtMjI88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g8ctUtMjI88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g8ctUtMjI88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g8ctUtMjI88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g8ctUtMjI88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Desi Tadka By Babita",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-25T03:30:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k_nPnuEf4tSdDVFEgDA_bzwH5WE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-ZkY628Ceds"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-21T07:34:24Z",
+        "channelId": "UCUU1Qjr62A02cjP_CzL_Kig",
+        "title": "दिल्ली, में फूड कार्ट निर्माण | केवल ₹35,000 में बनवाएं अपना फूड कार्ट Food cart factory 9953875057",
+        "description": "ear Sir/Mam I am Angad Ojha, From Food cart factory We deal with all Luxury Types of Fast Food Stall Khoka and Shop, Dukan, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ZkY628Ceds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ZkY628Ceds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ZkY628Ceds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-ZkY628Ceds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-ZkY628Ceds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Cart Factory",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-21T07:34:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I5OMFogKP-zzXLolKVnQHsZm4hI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I6a2i-g9qhs"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T08:04:36Z",
+        "channelId": "UCsV4WaKfG2ldTtz-nLjzeqA",
+        "title": "जयपुर की इस Bedai Kachori और आलू की सब्जी को लड़कियां खाने से भी घबराती है | Jaipur Street Food",
+        "description": "जयपुर की इस Bedai Kachori और आलू की सब्जी को लड़कियां खाने से भी घबराती है ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6a2i-g9qhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6a2i-g9qhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6a2i-g9qhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I6a2i-g9qhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I6a2i-g9qhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Beautiful Gulabi Nagri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T08:04:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iBGZTDuDiQQOO_o6EKccwMVP0Do",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M-D7td1Hr-Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-01T15:04:38Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "35 Years से Chandigarh ka Street Food KING 🇮🇳 Kale के Oil Free Chole Bhature",
+        "description": "Street Food India | 35 Years से Chandigarh ka Street Food KING Kale के Oil Free Chole Bhature | Indian Street Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M-D7td1Hr-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M-D7td1Hr-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M-D7td1Hr-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M-D7td1Hr-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M-D7td1Hr-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-01T15:04:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nET2DEHFGg9sUOqYRqOuFdMRm8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kcy2ErVd-Lo"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-22T18:32:33Z",
+        "channelId": "UCjuqbKqe1nCTlkJlEvn-sDA",
+        "title": "Tikki Bread Wale Chacha | रोज़ चल के आते हैं 50 किमी टिक्की ब्रेड बनाने के लिए #streetfood",
+        "description": "In the heart of Delhi's crowded streets, lives a humble and inspiring soul — Tikki Bread Wale Chacha. He's not just selling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kcy2ErVd-Lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kcy2ErVd-Lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kcy2ErVd-Lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kcy2ErVd-Lo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kcy2ErVd-Lo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hungermen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-22T18:32:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ewb8FR17XxxLzwl-GVg2L4xk-tw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_5iQSFjQ-Hw"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-25T02:00:04Z",
+        "channelId": "UCzq7k9mC-gn_TpbXDk0tXZg",
+        "title": "मटर पनीर की सब्जी पूरी वाली | Matar Paneer Thela | Hindi Kahani | Moral Stories | Hindi Story",
+        "description": "मटर पनीर की सब्जी पूरी वाली | Matar Paneer Ki Sabji Puri Wali | Hindi Kahani | Moral Stories | Bedtime ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_5iQSFjQ-Hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_5iQSFjQ-Hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_5iQSFjQ-Hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_5iQSFjQ-Hw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_5iQSFjQ-Hw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Best Buddies Stories",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-25T02:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lgu8Q4lmIA5fYKimUNq5Vy7XqBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VOLVGGBeKB8"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-16T06:27:35Z",
+        "channelId": "UCUU1Qjr62A02cjP_CzL_Kig",
+        "title": "Fast Food Stall | Fast Food Thela Manufacturers |फास्ट फूड स्टॉल |food card factory",
+        "description": "ear Sir/Mam I am Angad Ojha, From Food cart factory We deal with all Luxury Types of Fast Food Stall Khoka and Shop, Dukan, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VOLVGGBeKB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VOLVGGBeKB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VOLVGGBeKB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VOLVGGBeKB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VOLVGGBeKB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Cart Factory",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-16T06:27:35Z"
+      }
+    }
+  ]
+}

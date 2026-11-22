@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi street food",
+    "relevanceLanguage": "en",
+    "videoDuration": "long",
+    "publishedAfter": "2025-10-01T00:00:00Z",
+    "publishedBefore": "2025-12-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:40.429380+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rJWyVe_qvuRkdPHPO0U-XmPzBK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RxNAtuMqRrM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-14T15:00:52Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "North Delhi Breakfast | Chole Kulche, Matar Kachori, Amritsari Naan, Chole Bhature, Sambar Vada",
+        "description": "North Delhi Breakfast | Chole Kulche, Matar Kachori, Amritsari Naan Thai, Chole Bhature, Sambar Vada #food #dillistreetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RxNAtuMqRrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-14T15:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c7aeNwdm3iQsFuAnJV0ZOezfXAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dYl4NXojacg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-13T15:01:13Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "West Delhi Food | Standard Sweets, Raju Ke Chole Bhature, Sarso Ka Saag, Rajma Chawal | Street food",
+        "description": "West Delhi Food | Standard Sweets, Raju Ke Chole Bhature, Sarso Ka Saag, Rajma Chawal | Street food #indianfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dYl4NXojacg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dYl4NXojacg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dYl4NXojacg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dYl4NXojacg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dYl4NXojacg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-13T15:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5GjIl66C5tA5DiTaGawjLpjMlnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_sT6Y2GSLIM"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-08T14:19:21Z",
+        "channelId": "UC7kcW9Gk5ru-ZNyQxq3yHFA",
+        "title": "5 Must Try Street Food In Delhi | Famous Delhi Street Food | Delhi Street Food | Indian Street Food",
+        "description": "5 Must Try Street Food In Delhi | Famous Delhi Street Food | Delhi Street Food | Indian Street Food #streetfood #indianstreetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_sT6Y2GSLIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_sT6Y2GSLIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_sT6Y2GSLIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_sT6Y2GSLIM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_sT6Y2GSLIM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pettoo Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-08T14:19:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H8cJTKRb14Nj42v_F1eUcK_7LDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jbw-cdvcjeE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-04T15:21:50Z",
+        "channelId": "UCaqULAbiq-6ZRlKmx0Uv_Cw",
+        "title": "DELHI FOOD EXPOSING IN 24 HOURS | Rimorav Vlogs",
+        "description": "Watch DELHI FOOD EXPOSING IN 24 HOURS by Rimorav Vlogs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jbw-cdvcjeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jbw-cdvcjeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jbw-cdvcjeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jbw-cdvcjeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jbw-cdvcjeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rimorav Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-04T15:21:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GvcgZTXELqB8SUHZEeJyKCnBpgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qZy8Xravrk0"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-19T15:01:20Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food TILAK NAGAR | Bhape Di Hatti, Dal Moth Kachori, Pachranga Golgappe, Soya Chaap Pakoda",
+        "description": "Street Food TILAK NAGAR | Bhape Di Hatti, Dal Moth Kachori, Pachranga Golgappe, Soya Chaap Pakoda #indianfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZy8Xravrk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZy8Xravrk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZy8Xravrk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qZy8Xravrk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qZy8Xravrk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-19T15:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4gBPALjP5nqRysNbs8X-pMh64WE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AGrmjlOlnCc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-24T15:00:25Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food KIRTI NAGAR | Pappi Machi Wala, Mama Omelette, Pappu Tikki Wala, Bawa Chicken",
+        "description": "Street Food KIRTI NAGAR | Pappi Machi Wala, Mama Omelette, Pappu Tikki Wala, Bawa Chicken #foodie #dilsefoodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AGrmjlOlnCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AGrmjlOlnCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AGrmjlOlnCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AGrmjlOlnCc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AGrmjlOlnCc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-24T15:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2QlHYGg95W1wFpzSARkwHY-rI4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zTMFPPZEG1k"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-19T07:18:48Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "5 Best Chole Kulche Street Food in Delhi You Need to Try | Veggie Paaji",
+        "description": "Join Veggie Paaji on an ultimate Delhi street food tour to find the 5 BEST Chole Kulche in the city! We travel across Delhi, from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zTMFPPZEG1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-19T07:18:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kLebeA_iQjMc6QBBzRHdINc2T9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IxNKM4MioZ8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T15:16:55Z",
+        "channelId": "UC0HLde5_UG7XqOBTuBkauXQ",
+        "title": "Top 5 Nahari in Old Delhi | Purani Delhi Ki 5 Mashoor Nahariya | Aapki Konsi Favorite Hai?",
+        "description": "nahari #olddelhi #streetfood Purani Dilli — jahan har subah masalon ki khushboo aur nahari ka swaad milke bana dete hain asli ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IxNKM4MioZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IxNKM4MioZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IxNKM4MioZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IxNKM4MioZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IxNKM4MioZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Faiz Baba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T15:16:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nuAUpjuT0KomL8DdeMRfEOyn8M4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZVcNzTFNl-g"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-25T06:36:44Z",
+        "channelId": "UCN8BM0DFXrRKscb-C5oAZ9g",
+        "title": "Non-Stop Indian Street Food Collection | Spicy, Crispy &amp; Juicy Cooking",
+        "description": "Experience the real taste of India through its most popular street foods. From spicy desi burgers to sizzling tawa snacks, watch ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZVcNzTFNl-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZVcNzTFNl-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZVcNzTFNl-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZVcNzTFNl-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZVcNzTFNl-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tastie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-25T06:36:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yqbsvqYjIFPr6-s2T7SjCW6MB7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-1eOCmTRrOE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-11T09:12:06Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "Uttam Nagar Food Tour | Delhi Street Food | Veggie Paaji",
+        "description": "Join Veggie Paaji on an exciting food adventure in Uttam Nagar, West Delhi! In this latest episode of our Delhi Food Series, we're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-1eOCmTRrOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-11T09:12:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wl248ie3PiNv2H4znNEofZ6tae4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P7mWhfUHJeQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T10:40:34Z",
+        "channelId": "UCbTOgDRbAA5qTQosHM7DjVg",
+        "title": "EXPLORING FAMOUS DELHI STREET FOOD",
+        "description": "Hi my muffins AMISHA'S STORE - https://amivastra.com/ Trying the BEST Delhi food with Amisha! From street chaat to iconic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P7mWhfUHJeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P7mWhfUHJeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P7mWhfUHJeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P7mWhfUHJeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P7mWhfUHJeQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kaash Plays",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T10:40:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qxb3lxbUdf9387uCqL45vem3aEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aSI0qW2iR8A"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T08:46:44Z",
+        "channelId": "UCfCF23g6ZZS0UVGYpcjh2cw",
+        "title": "Best Delhi Street FOOD 😱 BEST kachori in INDIA ,  PRONTHE WALI GALI , FRUIT ALOO CHAAT",
+        "description": "England trip ; https://www.youtube.com/watch?v=TgwmncAr2a4&list=PL46bckMPPO5X1x4HRedxKnecNppJYqvQC Australia Trip ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aSI0qW2iR8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aSI0qW2iR8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aSI0qW2iR8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aSI0qW2iR8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aSI0qW2iR8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BIR RAMGARHIA ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T08:46:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V9KnoZpG-HqnYP6n95luVD0PDpw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7VNVn3Fj0BY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-16T08:28:10Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "Rohini ka Mashoor Chaat Wala | Tauji Chaat Caterers | Veggie Paaji Delhi Food",
+        "description": "Rohini ka Mashoor Chaat Wala | Tauji Chaat Caterers | Veggie Paaji Delhi Food My Fun Cooking Channel : @CookingPaaji My ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7VNVn3Fj0BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7VNVn3Fj0BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7VNVn3Fj0BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7VNVn3Fj0BY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7VNVn3Fj0BY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-16T08:28:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v0HcyUxgSORbFO4n7HkWRp3idT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_pR6LxjVQuo"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-24T05:27:00Z",
+        "channelId": "UCmz1Dd0Nrq6gynpQravPE2g",
+        "title": "Tilak Munjal-R, Bille Di Hatti, Mama Chole Kulche, Veg Roll, ZZZ Pizza &amp; More || Delhi Street Food",
+        "description": "Mama Chole Kulche : https://g.co/kgs/B2NsgT Bille Di Hatti : https://g.co/kgs/nkB2WX Shah Ji Special ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_pR6LxjVQuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_pR6LxjVQuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_pR6LxjVQuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_pR6LxjVQuo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_pR6LxjVQuo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie Saand",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-24T05:27:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FxU-b2oipadA4B8yPesPkw88M7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2-UnIoXAfHE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-15T08:00:30Z",
+        "channelId": "UCN8BM0DFXrRKscb-C5oAZ9g",
+        "title": "Delhi Street Food Heaven 🇮🇳 | Pav Bhaji, 10-Egg Omelette, Tandoori Chicken, Nutri Kulcha &amp; MORE!",
+        "description": "Experience the wildest street food of Delhi, India! From mega-sized 10-egg bread omelettes to buttery Pav Bhaji, smoky Tandoori ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2-UnIoXAfHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2-UnIoXAfHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2-UnIoXAfHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2-UnIoXAfHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2-UnIoXAfHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tastie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-15T08:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "92pI5Cu_oj3w_fUkxLiYeUMZRn8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qyqA2jvzk9g"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-02T16:00:28Z",
+        "channelId": "UC5MtoDYukoOjDNBjZnUVdrg",
+        "title": "Jama Masjid delhi street food Tour Part 1 | Hilal Hotel, Babu bhai kebab, Aslam butter chicken!",
+        "description": "I travelled all the way from Pune to the heart of India's capital to spend 48 hours immersing myself in the rich history and even ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qyqA2jvzk9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qyqA2jvzk9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qyqA2jvzk9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qyqA2jvzk9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qyqA2jvzk9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thelocalguide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-02T16:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3v5YnbpiQGwY_DXEXcA8Ouhn2mg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0ZwgiEITxoQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-21T15:00:05Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "STREET FOOD | Baljeet Amritsari Naan , Prem Di Hatti, Chawla De Chur Chur Naan, Raju Chur Chur Naan",
+        "description": "Delhi's Best Chur Chur Naan #streetfood #dilsefoodie #indianstreetfood #puranidilli For Collaboration Contact US:- Call At ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ZwgiEITxoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ZwgiEITxoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ZwgiEITxoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ZwgiEITxoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ZwgiEITxoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-21T15:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O6ZWG4EUIeToxukyHVkoxvg3Rpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y7M9SZIvL_Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-05T04:30:06Z",
+        "channelId": "UCQfBN7Ut5TiZJAhMo_Rgfyw",
+        "title": "EXPLORING THE LEGENDARY STREET FOOD OF DELHI - VLOG 112",
+        "description": "As you guys know the drill like, comment and subscribe. Instagram - https://www.instagram.com/snaxgaming/ Discord ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y7M9SZIvL_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y7M9SZIvL_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y7M9SZIvL_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y7M9SZIvL_Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y7M9SZIvL_Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Snax Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-05T04:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ChZ-axwwgLes3sjY9VIJm7601GA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CUNrdlxpz3g"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-25T12:30:16Z",
+        "channelId": "UCVqAuZdTN8oiGf1ouv05yGg",
+        "title": "Connaught Place Delhi के 8 धुआँधार ज़ायके |Spicy Kachori |Mini Samosa |Rajma Chawal|Kachalu Bhature|",
+        "description": "Delhi Street Food Delhi Food Tour Connaught Place Food Tour 1–NETA JI TEA STALL Location:—near Shop No.20 20 A, Mandir, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CUNrdlxpz3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CUNrdlxpz3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CUNrdlxpz3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CUNrdlxpz3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CUNrdlxpz3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND HUNGRY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-25T12:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bmbmLnFXuFDd_pPQma0u_lMpRps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6BDy4n6luj4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-29T14:09:56Z",
+        "channelId": "UCM-q0U0F6-oMOFTYPtlsEfA",
+        "title": "Best Street Food Of East Delhi | Indian Street Food | Dhaba Food , Kathi Kabab , Fruit Cream",
+        "description": "East Delhi Street Food Tour | Indian Street Food | Dhaba Food , Kathi Kabab , Fruit Cream google location youtube handle ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6BDy4n6luj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6BDy4n6luj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6BDy4n6luj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6BDy4n6luj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6BDy4n6luj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr. Singh food hunter",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-29T14:09:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LZXkKiuDmjGez_lA2xJs-8WL-rc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EsWfZt4YRPc"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-04T15:00:33Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Saras Food Festival 2025 | Rajasthani Kadi Kachodi, Himachal Siddu, Mutton Biyani, Tandoori Chai",
+        "description": "Saras Food Festival 2025 | Rajasthani Kadi Kachodi, Himachal Siddu, Mutton Biyani, Tandoori Chai #foodie #food #dilsefoodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EsWfZt4YRPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EsWfZt4YRPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsWfZt4YRPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EsWfZt4YRPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EsWfZt4YRPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-04T15:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Ls5YkcD563Mpd_OArvEfTZtPDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bJGtFrTDBkA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-05T07:58:42Z",
+        "channelId": "UCVC9JRU1JpfupKHVV0sThOg",
+        "title": "Narela Food Tour Part 2 Delhi Street Food | Spicy Tikki, Creamy Malai Chaap &amp; Momos | Veggie Paaji",
+        "description": "Join Veggie Paaji for Part 2 of our Narela Food Tour, where we dive into Delhi's best evening street food! In this episode, we ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bJGtFrTDBkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bJGtFrTDBkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bJGtFrTDBkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bJGtFrTDBkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bJGtFrTDBkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veggie Paaji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-05T07:58:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OlEG_Yp7ZKBEUyG_gIn5wK2ZPUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vnSSKhWkRDs"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-25T12:31:27Z",
+        "channelId": "UCd1DAfDaPdUbQQhqcQKfQJw",
+        "title": "Our FIRST Day in India 🇮🇳 | Mind-Blowing Street Food Tour in Old Delhi!",
+        "description": "Plan your trip with India Someday - https://indiasomeday.com/en/plan-your-trip-1/?q=sammyandtommy#planyourtripform Mention ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vnSSKhWkRDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sammy and Tommy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-25T12:31:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bs8J5wE2Uj4iyPhX2mt-gZecf60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r0DJph1vO8M"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-13T15:01:28Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Winter Special Non Veg Food | Tawa Chicken, Salami Tikka, Raju Kharode, Mutton Keema, Brain Curry",
+        "description": "Winter Special Non Veg Food | Tawa Chicken, Salami Tikka, Raju Kharode, Mutton Keema, Brain Curry #foodie #dilsefoodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r0DJph1vO8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r0DJph1vO8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r0DJph1vO8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r0DJph1vO8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r0DJph1vO8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-13T15:01:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7WTUCKGIPZquUjVs9dpD06KKQ64",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vD8wLpMObjI"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-03T12:31:19Z",
+        "channelId": "UCVqAuZdTN8oiGf1ouv05yGg",
+        "title": "Chawri Bazaar ka Desi Ghee Halwa Poori | Firangi Kachori |Kalmi Vada Chaat | Old Delhi Street Food |",
+        "description": "Chawri Bazaar Street Food Chawri Bazaar Food Tour Old Delhi Food Tour 1–Standard Sweets Location:—3510, Hakim Baqa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vD8wLpMObjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vD8wLpMObjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vD8wLpMObjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vD8wLpMObjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vD8wLpMObjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND HUNGRY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-03T12:31:19Z"
+      }
+    }
+  ]
+}

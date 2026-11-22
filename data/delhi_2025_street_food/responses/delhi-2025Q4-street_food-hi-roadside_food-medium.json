@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली सड़क किनारे खाना",
+    "relevanceLanguage": "hi",
+    "videoDuration": "medium",
+    "publishedAfter": "2025-10-01T00:00:00Z",
+    "publishedBefore": "2025-12-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:51.869763+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yjiyi_cbYNw9WvRKNBWpQMiaovI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gmu8PIfxDBo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-11T15:02:18Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Unlimited 50/- Delhi ka Traffic Jam Dhaba Food 😍 Van Wali Thali | Delhi Street Food",
+        "description": "Street Food India | Unlimited 50/- Delhi ka Traffic Jam Dhaba Food Van Wali Thali | Delhi Street Food India | Indian Street Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gmu8PIfxDBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gmu8PIfxDBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gmu8PIfxDBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gmu8PIfxDBo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gmu8PIfxDBo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-11T15:02:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hX2n9qM97pDvx4kYk2aKiEl3DsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yz2pykDJfcA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-16T15:15:37Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "50 रुपये मे India&#39;s No 1 Tadke Wali Veg Biryani 😍 Roz 800 Kilo Sale | Street Food India",
+        "description": "Street Food India | 50 रुपये मे India's No 1 Tadke Wali Veg Biryani Daily 800 Kilo Sale | Indian Street Food | Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yz2pykDJfcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yz2pykDJfcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yz2pykDJfcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yz2pykDJfcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yz2pykDJfcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-16T15:15:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kNDPhs8IeK9QNQUFw55gtGlCjZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_8b4MuQAD3g"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-12T14:25:25Z",
+        "channelId": "UCYFOcT0LbDv776xd7P6u9cA",
+        "title": "शहर के मजदूरों का असली लंच | सड़क किनारे खाना कितना सस्ता? |  #pradeepvlogs",
+        "description": "आज के इस व्लॉग में मैंने दिखाया है कि दोपहर के समय शहर में रहने वाले ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8b4MuQAD3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8b4MuQAD3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8b4MuQAD3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8b4MuQAD3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_8b4MuQAD3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pradeep Delhi vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-12T14:25:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Crh_UDUOUxpWvftR4M6LDrpOMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rbomf6FyM4U"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-01T15:20:08Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "1400 Plates Daily 😍 AC Market ka Highest Selling Lunch | Street Food India",
+        "description": "Street Food India | 1400 Plates Roz AC Market ka Highest Selling Desi Lunch | Indian Street Food | Punjab Street Food | Best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rbomf6FyM4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rbomf6FyM4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rbomf6FyM4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rbomf6FyM4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rbomf6FyM4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-01T15:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Poac0mcRQWk6Dg9-6pD7mmTzRsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZmBfCcLxi2c"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-09T14:56:06Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Delhi ka Most Wanted Street Food 😍 Gold Man के 1st Floor Chole Kulche",
+        "description": "Street Food India | Delhi ka Highest Selling Street Food Gold Man के 1st Floor Wale Chole Kulche | Chole Kulche Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmBfCcLxi2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmBfCcLxi2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmBfCcLxi2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZmBfCcLxi2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZmBfCcLxi2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-09T14:56:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TAyffhLeesyRQjUizJ3vQdbcm8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cs4pIhEcX9o"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T08:17:09Z",
+        "channelId": "UCKZ3ad95WlLhLGnAH_pyMRA",
+        "title": "हिंदुस्तान का सबसे सस्ता Dhaba जहाँ सिर्फ Rs25 में जो मन वो खायें||Raju Da Dhaba||Zaika Patna Ka",
+        "description": "Follow me on Instagram- https://instagram.com/zaika_patna_ka?utm_medium= Address- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cs4pIhEcX9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cs4pIhEcX9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cs4pIhEcX9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cs4pIhEcX9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cs4pIhEcX9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zaika Patna Ka",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T08:17:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qCsCVgSJCLaXWYXZSpeR9U0yBfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lZqQkYlYGq0"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-17T11:29:32Z",
+        "channelId": "UCv6Vt0cc-CNQrRj4yCBG9Ig",
+        "title": "दिल्ली Ramesh Nagar Non-Veg, Tawa Mutton Tikka, Saag Meat &amp; Kharode Soup",
+        "description": "Pindiwala (Unit of Pindi Kharode Wala) located in Ramesh Nagar, New Delhi is a must-visit spot for hardcore mutton lovers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lZqQkYlYGq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lZqQkYlYGq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lZqQkYlYGq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lZqQkYlYGq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lZqQkYlYGq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bhooka Saand",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-17T11:29:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q0FiASk-tfw2WFI9T6HpHUoRrKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h34ip8Jq_hg"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-16T15:03:03Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "21 Years Old Rising Star Chef ka Italian Wood Fired Pizza | Street Food India",
+        "description": "Street Food India | 21 Years Old Rising Star ka Italian Wood Fired Pizza | Indian Street Food | Best Street Food | New Food Video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h34ip8Jq_hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h34ip8Jq_hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h34ip8Jq_hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h34ip8Jq_hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h34ip8Jq_hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-16T15:03:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mEnDsCUj1xaYnbDai-_RxHtWjMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uIXXQ4e36fA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-17T17:00:13Z",
+        "channelId": "UCbpMy0Fg74eXXkvxJrtEn3w",
+        "title": "India&#39;s Best Butter Chicken is on the Streets of Delhi | Street Eats | Bon Appétit",
+        "description": "Bon Appétit joins Chef Meherwan Irani to explore Delhi's street food scene at Aslam Chicken. Located in Old Delhi, Aslam ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uIXXQ4e36fA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uIXXQ4e36fA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uIXXQ4e36fA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uIXXQ4e36fA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uIXXQ4e36fA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bon Appétit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-17T17:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t02dOd19LgiV7J9J3O13S8LRYhs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-fE-x9iEzVw"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-14T15:02:44Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "20/- CHEAPEST Street Food Nashta in Punjab 😍 Gupta Chole Bhature | Street Food India",
+        "description": "Street Food India | 20/- Rs CHEAPEST Street Food Nashta in Punjab Gupta Ji ke Chole Bhature | Indian Street Food | Punjabi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-fE-x9iEzVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-fE-x9iEzVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-fE-x9iEzVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-fE-x9iEzVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-fE-x9iEzVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-14T15:02:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tk1GmGXUsj7Y7vLX_ZUh4WUdLGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XA-uKDkRrc0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T06:00:44Z",
+        "channelId": "UCu08jFEUczfFnq2VMknsk_g",
+        "title": "1987 से इंडिया की बेस्ट अमृतसरी फिश WORLD FAMOUS AMRITSARI FISH @ BUBBY FISH &amp; CHICKEN | STREET FOOD",
+        "description": "Bubby Fish & Chicken Corner, Amritsar Cooper Road, Near Crystal Chowk, Amritsar, Punjab 143001 +91 98144 57733 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XA-uKDkRrc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XA-uKDkRrc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XA-uKDkRrc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XA-uKDkRrc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XA-uKDkRrc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Food Talk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T06:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bQWwgok1qKVV5gnp0eNdvZ_qxOc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uTvxU4FKdeY"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-09T02:30:52Z",
+        "channelId": "UCb0l6pqu_2mzOtSoc9dQNAg",
+        "title": "Video | राजा जी के तुरल | Arvind Akela Kallu | Shilpi Raj | Raja Ji Ke Tural | New Bhojpuri Gana",
+        "description": "Video | राजा जी के तुरल | Arvind Akela Kallu | Shilpi Raj | Raja Ji Ke Tural | New Bhojpuri Gana Video | राजा जी ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uTvxU4FKdeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uTvxU4FKdeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uTvxU4FKdeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uTvxU4FKdeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uTvxU4FKdeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vedika Entertainment ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-09T02:30:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TdNsoxEuuwLJnafTV7a4GuTo9Is",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LoQEh-DOcsM"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-21T14:46:20Z",
+        "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+        "title": "Lal Dupatta 8K Full Song |Mujhse Shaadi Karogi |Salman Khan,Priyanka Chopra|Alka Yagnik,Udit Narayan",
+        "description": "Presenting the Lal Dupatta Song in 8K Quality, from the film \"Mujhse Shaadi Karogi\". Starring Salman Khan & Priyanka Chopra, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LoQEh-DOcsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LoQEh-DOcsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LoQEh-DOcsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LoQEh-DOcsM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LoQEh-DOcsM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "T-Series",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-21T14:46:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nNZR2CTRPOnvUVhl6HTomfXzHws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RtRKrF2pAYU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-16T07:14:04Z",
+        "channelId": "UCf1cNvSUhJZGeykNgQ-DzWA",
+        "title": "5 Kilo Move l Adivasi Song l  पांच किलो मोवे l आदिवासी सॉन्ग",
+        "description": "पाँच किलो मोवे Lyrics - Composer :- Bhavin Vasava Center part of lyrics by :- Kaushik Vasava Singers :- Bhavin ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RtRKrF2pAYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RtRKrF2pAYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RtRKrF2pAYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RtRKrF2pAYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RtRKrF2pAYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tribal Bande",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-16T07:14:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t7Q-N53cgK5ImhhCco4MUpjZMSc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6mxaJ-2YaPA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-04T14:42:54Z",
+        "channelId": "UCXEyQby5qQUyOmySF5oi_0w",
+        "title": "#video लहर कारखाना में उठेला #मीनाक्षी_राज के गीत पे फिदा हुऐ!! #पंचदेव_पाण्डेय ",
+        "description": "video लहर कारखाना में उठेला #मीनाक्षी_राज के गीत पे फिदा हुऐ!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6mxaJ-2YaPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6mxaJ-2YaPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6mxaJ-2YaPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6mxaJ-2YaPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6mxaJ-2YaPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Panchdev Pandey Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-04T14:42:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OO2bTQpGWpMyP1F_dBf_G_m2fsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lCBCZE7GASs"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-05T10:45:09Z",
+        "channelId": "UCWM9_y8d4JBV2vLEFrRagjA",
+        "title": "#Video | अगे सुगनी | #Ashish_Yadav का दर्दभरा सॉन्ग | Age Sugani | #Shweta Sargam | Sad Song 2025",
+        "description": "Video | अगे सुगनी | #Ashish_Yadav का दर्दभरा सॉन्ग | Age Sugani | #Shweta Sargam | Sad Song 2025 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lCBCZE7GASs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lCBCZE7GASs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCBCZE7GASs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lCBCZE7GASs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lCBCZE7GASs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Somnath Films",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-05T10:45:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yx7C0VNC1Ooo_wsqkdEZSC6nXPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f__SlGGJIOo"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-28T00:30:29Z",
+        "channelId": "UCQEHM1shvybWwTxUJMkh2GQ",
+        "title": "#Video | #Sudhir Lal Yadav के जिंदगी का सच्चाई | Launch Kaili Market Me | लांच कईली मार्केट मे",
+        "description": "आप लोग ऐसे हि गाने सुनने के लिए इस चैनल को Subscribe जरुर करें...... आप सब इस ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f__SlGGJIOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f__SlGGJIOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f__SlGGJIOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f__SlGGJIOo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f__SlGGJIOo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Music Ten Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-28T00:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vaPjd9yVfESdUycJQd4EOdccGtk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xcf32sMRPKc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-04T11:30:58Z",
+        "channelId": "UCf-57Rm-KuwHD9qrcr_lgFQ",
+        "title": "Video | राजा जी के तुरल | Arvind Akela Kallu | Shilpi Raj | Raja Ji Ke Tural | New Bhojpuri Gana",
+        "description": "Video | राजा जी के तुरल | Arvind Akela Kallu | Shilpi Raj | Raja Ji Ke Tural | New Bhojpuri Gana Video | राजा जी ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xcf32sMRPKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xcf32sMRPKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xcf32sMRPKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xcf32sMRPKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xcf32sMRPKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FARHAR ENTERTAINMENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-04T11:30:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vfkLlRB2uUtEfzDRUiMBSmtas6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6pR0B72y6wo"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-29T20:22:06Z",
+        "channelId": "UCh0Ob3N4miyi773toqSYj-A",
+        "title": "Rocky at UNICO in the Global Foyer Mall, Sector 43, Gurugram | #RoadTrippinwithRocky S15 | D03V04",
+        "description": "[Partnered] It's rare when Rocky is bowled over by the food in a vegetarian eatery. Unico at the Global Foyer Mall on Golf Course ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6pR0B72y6wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6pR0B72y6wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6pR0B72y6wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6pR0B72y6wo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6pR0B72y6wo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HISTORY TV18",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-29T20:22:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DBMSvgTtLhLN3hoL1602xFBxACs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NOMMcJ9SbNY"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-04T08:14:47Z",
+        "channelId": "UCipSU-s77LQLycThKjKpqSw",
+        "title": "Easy Way To Make Delhi Style Mutton Nihari | Easy And Quick Mutton Nihari Recipe | Nihari Recipe",
+        "description": "nihari #muttonniharirecipe #muttonnihari #winterspecial #wintersspecial #easynihari #instantnihari #nahari #payashorba #paye ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NOMMcJ9SbNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NOMMcJ9SbNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NOMMcJ9SbNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NOMMcJ9SbNY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NOMMcJ9SbNY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cook with Lubna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-04T08:14:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bxO5Jd4pH2VjzBK5erQqYK9nqok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h39cXeDD1wE"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-19T05:30:32Z",
+        "channelId": "UCPJ79zw0s7gkGy4Klcec5Eg",
+        "title": "₹100 में लटपट चिकन 2 लच्छा पराठा 150 KG रोज़ाना बिकता है | Chicken Paratha | Street Food Ranchi",
+        "description": "ranchistreetfood #streetfood #chickenparatha #chicken #jharkhandstreetfood #ranchi #foodfatafat #indianstreetfood #meatchawal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h39cXeDD1wE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h39cXeDD1wE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h39cXeDD1wE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h39cXeDD1wE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h39cXeDD1wE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Fatafat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-19T05:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U76pQ7j-4jc1IeefXBggeuyocSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Nn8e4yOUKQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-20T00:00:08Z",
+        "channelId": "UCubHQh1l2JLc-_oM0p0eF6Q",
+        "title": "मुझे ले चलो ख्वाजा जी के मेले में | 814 Khwaja Ji Urs Qawwali | Sakhi Hamid Husain | New Qawwali",
+        "description": "Instagram Reels : https://www.instagram.com/reels/audio/543970184240019/ Subscribe Now: https://rb.gy/ho1ivy ▻ Album ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Nn8e4yOUKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Nn8e4yOUKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Nn8e4yOUKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Nn8e4yOUKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Nn8e4yOUKQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khwaja Ke Deewane",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-20T00:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o1krzFmfsYV34pV7rpxh3FJ563s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e6_pOSJmstQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-26T02:45:10Z",
+        "channelId": "UC_YLbL26_RQtW4JbAEkv1SA",
+        "title": "सुण प्रदेशी मारु रे | New Marwadi Song | Bablu Ankiya | Happy Singh | New Rajasthani Song 2026",
+        "description": "सुण प्रदेशी मारु रे | New Marwadi Song | Bablu Ankiya | Happy Singh | New Rajasthani Song 2026 | Sun ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e6_pOSJmstQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e6_pOSJmstQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6_pOSJmstQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e6_pOSJmstQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e6_pOSJmstQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MDR Rocks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-26T02:45:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vRCjLnjea1iuDHC527O8yT9Lqt0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7hKZ73mNYMA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-05T09:30:09Z",
+        "channelId": "UCwPUngTrfLA48YEOdTJImCQ",
+        "title": "Video | राजा जी के तुरल | Arvind Akela Kallu | Shilpi Raj | Raja Ji Ke Tural | New Bhojpuri Gana",
+        "description": "Video | राजा जी के तुरल | Arvind Akela Kallu | Shilpi Raj | Raja Ji Ke Tural | New Bhojpuri Gana Video | राजा जी ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hKZ73mNYMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hKZ73mNYMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hKZ73mNYMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7hKZ73mNYMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7hKZ73mNYMA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mahadeva Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-05T09:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wiy4fDdUKyme2UmJyiWsqVyL3DU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HYFDtPX08Ww"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T03:01:03Z",
+        "channelId": "UCLWB4PxX-l-hcsR_zsIEiVQ",
+        "title": "New gondi songl Phoolwantee l gondi song 2025 l #gondi ",
+        "description": "New gondi songl Phoolwantee l gondi song 2025 l #gondi संगीत निर्माता मालिकों से मेरा ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HYFDtPX08Ww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HYFDtPX08Ww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HYFDtPX08Ww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HYFDtPX08Ww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HYFDtPX08Ww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KARAN DHURVE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T03:01:03Z"
+      }
+    }
+  ]
+}

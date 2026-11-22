@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली सड़क किनारे खाना",
+    "relevanceLanguage": "hi",
+    "videoDuration": "long",
+    "publishedAfter": "2025-10-01T00:00:00Z",
+    "publishedBefore": "2025-12-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:53.077178+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ft1MsTP0h3_F887kpaEAOYp7AqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vAzXsDuUKR4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-09T12:31:16Z",
+        "channelId": "UCVqAuZdTN8oiGf1ouv05yGg",
+        "title": "Chandni Chowk Ka World Famous Habshi Halwa | Desi Ghee Ki Poori Aloo| Brown Kheer | Irani Chai |",
+        "description": "Chandni Chowk Food Tour Chandni Chowk Street Food Old Delhi Food Tour Old Delhi Street Food 1–Ram Parshad Makhan Lal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vAzXsDuUKR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND HUNGRY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-09T12:31:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ar_kO_yDOcyI1QTpht_eBWpkmAw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tay-h6VXCC8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-04T12:30:44Z",
+        "channelId": "UCVqAuZdTN8oiGf1ouv05yGg",
+        "title": "Sadar Bazaar Delhi Ke लाहौरी ज़ायके |Desi Ghee Poori Halwa|Soya Crush| फेंटी मार छाछ |Paalak Chawal|",
+        "description": "Sadar Bazaar Food Tour Sadar Bazaar Street Food Delhi Food Tour Delhi Street Food 1–Madan Lal Halwai Location:—5285, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tay-h6VXCC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tay-h6VXCC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tay-h6VXCC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tay-h6VXCC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tay-h6VXCC8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND HUNGRY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-04T12:30:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nGuYHrVU3qtwK-hiNZHizIRv7IE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gEydZ84gEjw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-18T04:30:35Z",
+        "channelId": "UCwxa47c4Uf6ZCF4-sbjmReQ",
+        "title": "रोड से खाने वाली देवरानी को मिला महंगा रेस्टोरेंट में खिलाने वाला ससुराल |In-laws who take you to ex",
+        "description": "Rod_Se_Khane_Wali_Devrani_Ko_Mila_Mehnga_restaurant_me_khilane_wala_Sasural ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gEydZ84gEjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "झिलमिल Magical stories",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-18T04:30:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R1TCcMrdSS0qmnSj77Gm9mSp6g0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EQ79iANcghQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-08T13:30:12Z",
+        "channelId": "UCkFZNhDgHW1XX9tCj-NPR-Q",
+        "title": "Mumbai Kurla Street Food | Lajawab Seekh Paratha In Kurla | Taj King Shawarma  Kurla | Globalecentre",
+        "description": "Kurla Street Food | Turkish Shawarma, Seekh Kebabs & More | Mumbai Street Food Kurla Street Food has a variety to offer, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EQ79iANcghQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EQ79iANcghQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQ79iANcghQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EQ79iANcghQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EQ79iANcghQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Globalecentre",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-08T13:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LLBHtbX56rsCDDkEt0V-dvPmT-4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fli-tg_EFB8"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-29T13:08:00Z",
+        "channelId": "UCNAyZdj3OsRS8ZoCkZzqMAQ",
+        "title": "ठंड में 5 जुगाड़ू बहू का जंगल में घर खाना और रसोई | 5 resourceful daughters-in-law | Cartoon Video",
+        "description": "ठंड_में_5_जुगाड़ू_बहू_का_जंगल_में_घर_खाना_और_रसोई ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fli-tg_EFB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fli-tg_EFB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fli-tg_EFB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fli-tg_EFB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fli-tg_EFB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kahaniyon Ka सफर ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-29T13:08:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WvYpsSAPIe4UId96j48-LN_Jie0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7vl64IQWIo0"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-29T14:30:06Z",
+        "channelId": "UCvTLyB-aixsl4MhiMEomVRQ",
+        "title": "Lunch home that still rules Mumbai&#39;s Taste Buds | Khaane mein kya hai | Kunal Vijayakar",
+        "description": "This episode of our Lunch Home Series takes you on a full-on coastal rollercoaster from AB's Anand Bhuvan in Mahim to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7vl64IQWIo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7vl64IQWIo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vl64IQWIo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7vl64IQWIo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7vl64IQWIo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khaane Mein Kya Hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-29T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q4LpWCNC2nsSs-CNMLdA07A19Is",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NS4b0t44m8A"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-27T11:27:06Z",
+        "channelId": "UCIqqxatqsofeQAnX3fAMv2w",
+        "title": "Why you must visit KONKAN! |  Ladakh Roadtrip ep 02 🚗",
+        "description": "Follow Complete 1 year Ladakh Series Series ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NS4b0t44m8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NS4b0t44m8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NS4b0t44m8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NS4b0t44m8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NS4b0t44m8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Krishna & Mukesh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-27T11:27:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q7bXhuY1r3q1hKOnI7qV66MzAPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m8MXw2MSd0E"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-19T03:30:37Z",
+        "channelId": "UCFuxLOUo41P3eEAW8U-Dwjg",
+        "title": "Ep 4 - Journey to Sailana &amp; Ratlam, Famous Kachori, Bafla, Ratlami Sev exploration &amp; more.",
+        "description": "Journey started with view of Mahi river along with tropic of Cancer, We proceeded towards Sailana and saw the famous cactus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8MXw2MSd0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8MXw2MSd0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8MXw2MSd0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m8MXw2MSd0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m8MXw2MSd0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "visa2explore",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-19T03:30:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LEORfeFQTW0pY_DQg0i394xj_o4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C9R3nRc7uXQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-16T12:07:51Z",
+        "channelId": "UC2ZduS25QJ2VybuF8i3xgLQ",
+        "title": "Most Cheap Roadside street food in Afghanistan | Rosh recipe | liver fry | Kabuli pulao",
+        "description": "street food in Afghanistan, street food in Kabul Afghanistan, Afghanistan street food, street food Afghanistan, Afghanistan street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C9R3nRc7uXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C9R3nRc7uXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C9R3nRc7uXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C9R3nRc7uXQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C9R3nRc7uXQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Afghani foods غذاهای افغانی",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-16T12:07:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4e3px3JzNGWH0ro6qt9tF3-ZY58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B97wOrrZ9kE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-06T03:25:52Z",
+        "channelId": "UCCujkpSvQnxJNyPpzIYKLTA",
+        "title": "Delhi To Chopta By Road EP-1| Rishikesh To Chopta By Road | Delhi To Tungnath Mahadev | Yatra200",
+        "description": "Delhi To Chopta By Road EP-1| Rishikesh To Chopta By Road | Delhi To Tungnath Mahadev | Yatra200 #tungnath ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B97wOrrZ9kE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B97wOrrZ9kE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B97wOrrZ9kE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B97wOrrZ9kE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B97wOrrZ9kE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yatra 200",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-06T03:25:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Sx1lPqP-S56OXBnKWWSbIWFOz4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G6fp3oa_pOA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-12T04:30:10Z",
+        "channelId": "UCx8Z14PpntdaxCt2hakbQLQ",
+        "title": "चाट, बालूशाही, जलेबी की Recipe से लेकर गुंडई और कट्टे तक... Chef Sanjeev Kapoor ने खोले कई राज़|GITN",
+        "description": "In this episode of Guest in the Newsroom, Our Guest is Chef Sanjeev Kapoor. Sanjeev Kapoor is an Indian celebrity chef, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G6fp3oa_pOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G6fp3oa_pOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G6fp3oa_pOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G6fp3oa_pOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G6fp3oa_pOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Lallantop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-12T04:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RCa4PgcXWZt1sk_EVr_k54h2psI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GUxLXsr3acs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-08T14:11:25Z",
+        "channelId": "UCG6L5cIg2XZvXVksq5B9edw",
+        "title": "Delhi Dil Se LIVE : सस्ते दामों में फैशन का खजाना | Janpath Market In Delhi | Connaught Place Tour",
+        "description": "janpathmarket #delhistreetshopping #connaughtplace #delhivlog #zeednh Delhi Dil Se LIVE : सस्ते दामों में ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GUxLXsr3acs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GUxLXsr3acs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GUxLXsr3acs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GUxLXsr3acs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GUxLXsr3acs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zee Delhi-NCR Haryana ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-08T14:11:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IIdb73w4RZpZZ3f_GlpNMf0fImg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U98COYGgLNM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-29T13:30:25Z",
+        "channelId": "UCBIT1FSJW6yTlzqK-31FDWg",
+        "title": "Road किनारे बैठकर Jetha क्यों करा रहा है Haircut? | Taarak Mehta Ka Ooltah Chashmah | Classic Movie",
+        "description": "Click here to Subscribe to LIV Comedy: https://www.youtube.com/channel/UCBIT1FSJW6yTlzqK-31FDWg?sub_confirmation=1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U98COYGgLNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U98COYGgLNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U98COYGgLNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U98COYGgLNM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U98COYGgLNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIV Comedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-29T13:30:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6yW9-wa-oMygMM4e1hjhve65KNA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LejXSYna3FA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-23T12:30:37Z",
+        "channelId": "UCNAyZdj3OsRS8ZoCkZzqMAQ",
+        "title": "ठंड में 5 जुगाड़ू बहूओ की पहाड़ों में रसोई | 5 resourceful daughters-in-law cook in | Cartoon Video",
+        "description": "ठंड_में_5_जुगाड़ू_बहूओ_की_पहाड़ों_में_रसोई ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LejXSYna3FA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LejXSYna3FA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LejXSYna3FA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LejXSYna3FA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LejXSYna3FA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kahaniyon Ka सफर ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-23T12:30:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UVz8fEY-sqq85xceuT48C30lvdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TrSFtA6LzI8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-15T04:30:19Z",
+        "channelId": "UCf_q-LdqD1niiWxdLDpvwbQ",
+        "title": "Langar at Gurudwara Bangla Sahib, Delhi with Friend",
+        "description": "Langar at Gurudwara Bangla Sahib, Delhi is one of India's largest community kitchens, serving free meals daily. Run entirely by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TrSFtA6LzI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TrSFtA6LzI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TrSFtA6LzI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TrSFtA6LzI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TrSFtA6LzI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "one mad traveler",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-15T04:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S76CbL6AxPKxB-wVuTC_esWdrAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MwORVvkNKF4"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-08T15:04:15Z",
+        "channelId": "UCK2_PiPOB0VEZfbbaHj-z5w",
+        "title": "Italy With Locals: Village Life, Wineries &amp; Lake Garda! 🇮🇹",
+        "description": "Spent a week exploring small towns around Torbole and Trento with my Indian friend and his Italian girlfriend. We lived in their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MwORVvkNKF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MwORVvkNKF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MwORVvkNKF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MwORVvkNKF4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MwORVvkNKF4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Passenger Paramvir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-08T15:04:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vw9S4Hsd9ijzUvbFSkoqHXCc_I4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mcoLtm1MNVY"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-15T07:30:22Z",
+        "channelId": "UCDrRySS7yhozs7jktx51icg",
+        "title": "Laxmi Nagar Overview Delhi | Local Shopping Market Tour",
+        "description": "Delhi का Laxmi Nagar Market, East Delhi का एक प्रसिद्ध और व्यस्त Local Shopping Market है।",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mcoLtm1MNVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mcoLtm1MNVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mcoLtm1MNVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mcoLtm1MNVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mcoLtm1MNVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bharat Tour",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-15T07:30:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PQh_gkenq9C2nHVHVRAMu-s7E8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IUMB_ZyT_E8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-17T10:30:13Z",
+        "channelId": "UC6Tzazi-j_HgjbIuaGhpyvw",
+        "title": "गुड्डी गिलहरी की रुला देने वाली दर्द भरी Top 10 ग़ज़ल😭 Guddi Gilhari Evergreen Sad Song -Top10 गज़ल",
+        "description": "Guddi Gilhari 90's के सदाबहार गाने ❤️गुड्डी गिलहरी की एक से बढकर एक हिट गाने ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IUMB_ZyT_E8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IUMB_ZyT_E8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IUMB_ZyT_E8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IUMB_ZyT_E8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IUMB_ZyT_E8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Supertone Records ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-17T10:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tz1zg9JbEQapbyRZKg3zW-2RSXU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CitJXJ8Ftxo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T13:30:20Z",
+        "channelId": "UCtKjnexmqDQFkDyckHWcnVw",
+        "title": "Daya ने जेल में बैठकर खाया Chicken Kabab || CID | Latest Episode ||",
+        "description": "Daya ने जेल में बैठकर खाया Chicken Kabab || CID | Latest Episode ||#cid2025 #CID2025 #CIDShorts #CIDIndia ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CitJXJ8Ftxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CitJXJ8Ftxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CitJXJ8Ftxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CitJXJ8Ftxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CitJXJ8Ftxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime pe Charcha",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T13:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "heYi1B2r-33HYkrzU4vYmqy5ubc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0XnigiTzcbo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-07T10:13:48Z",
+        "channelId": "UC1uv03f8xOYoLri8fOzxnpQ",
+        "title": "Pashmina velvet 🔥🔥 Wholesale Salwar Kameez Market Delhi 🔥🔥 Kamdhenu Textile Chandni Chowk",
+        "description": "2025 Suits & Catalogues | Wholesale Salwar Kameez Market Delhi | Kamdhenu Textile Chandni Chowk Welcome to Khan Vlogs, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0XnigiTzcbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0XnigiTzcbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0XnigiTzcbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0XnigiTzcbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0XnigiTzcbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khan Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-07T10:13:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PSqEmlrKt5RJQPkcz1JPEgCaO8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GRinrtjZ8a0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-13T12:45:04Z",
+        "channelId": "UC42V-VbRmWVUQSwB9Trc5Dw",
+        "title": "रोड़ पर पूर्वी ने कपड़े बदलकर मुजरिम से माँगी लिफ्ट || CID || New Episode 2025",
+        "description": "रोड़ पर पूर्वी ने कपड़े बदलकर मुजरिम से माँगी लिफ्ट || CID || New Episode 2025 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GRinrtjZ8a0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GRinrtjZ8a0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GRinrtjZ8a0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GRinrtjZ8a0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GRinrtjZ8a0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CID Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-13T12:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z5X2OevbBDexhAMdiej3tu0vqg0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gC_5TJhCuQw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T09:58:08Z",
+        "channelId": "UCKZ3ad95WlLhLGnAH_pyMRA",
+        "title": "Rs30 में ज़िंदा Machli ला कर सामने बनायेंगे||कारीगर से सीखे Bihari Style Fish Recipe||Zaika Patna Ka",
+        "description": "First Video Link- https://youtu.be/6Lg4bDimtd8 Follow me on Instagram- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gC_5TJhCuQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gC_5TJhCuQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gC_5TJhCuQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gC_5TJhCuQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gC_5TJhCuQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zaika Patna Ka",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T09:58:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pM1ttcr6V23I4PFVNAYRrl3cg5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rHP6bQX2qDI"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-13T12:31:17Z",
+        "channelId": "UCTXwNLdEKlkq0N7U005Bg8A",
+        "title": "EP07 Delhi to Jim Corbett by Car | Road Trip to Kotabagh, Uttarakhand",
+        "description": "Embark on an unforgettable Delhi to Jim Corbett road trip by car with us! We kicked off our journey from Le Meridien Gurgaon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHP6bQX2qDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHP6bQX2qDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHP6bQX2qDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rHP6bQX2qDI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rHP6bQX2qDI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bharat Ghoomo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-13T12:31:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GHdmEsVsEuaRSby0EHZkaowvcwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6iUH5Mk2srM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-19T02:30:04Z",
+        "channelId": "UCNgMjrXVIvrWBoEpHMxGkkg",
+        "title": "चार धाम यात्रा 2025 😍 || क्या कपाट बंद होने से पहले कर पाएंगे हम दर्शन 😲 || Swift Dzire Camper Van",
+        "description": "चार धाम यात्रा 2025 || क्या कपाट बंद होने से पहले कर पाएंगे हम दर्शन ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6iUH5Mk2srM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6iUH5Mk2srM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6iUH5Mk2srM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6iUH5Mk2srM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6iUH5Mk2srM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mast Parindey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-19T02:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9-jAYvQNHSYeEp5iHR9YE4GhTJk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vUo6vfH0Qz0"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-24T07:30:27Z",
+        "channelId": "UChCYMXLO_SfiNwOc2rlNKCA",
+        "title": "Rakhi Sawant Ka Drama, Dilip Ke Saath Romantic Dance &amp; Mohabbat-e-Mirchi Aloo! @FarahKhanK",
+        "description": "Rakhi Sawant ka full-on drama aur masti dekhne milega iss episode mein! Dilip ke saath unka romantic dance sabko surprise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vUo6vfH0Qz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vUo6vfH0Qz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vUo6vfH0Qz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vUo6vfH0Qz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vUo6vfH0Qz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Farah Khan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-24T07:30:27Z"
+      }
+    }
+  ]
+}

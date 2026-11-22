@@ -1,0 +1,1119 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi roadside food",
+    "relevanceLanguage": "en",
+    "videoDuration": "short",
+    "publishedAfter": "2025-04-01T00:00:00Z",
+    "publishedBefore": "2025-06-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:01.396393+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "STBKWy0qwCGVFupzv9xZyQNwEIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dRzkr7M-am4"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-15T14:31:37Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "Delhi’s Best Combo Thali at just 100/-Rs 😱❤️😋#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "100/-रुपये में Double Combo Thali ❤️ #shorts #india #food #delhi #combo #thali #streetfood #foodlover #viralreels ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dRzkr7M-am4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dRzkr7M-am4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dRzkr7M-am4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dRzkr7M-am4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dRzkr7M-am4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-15T14:31:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gXNUcB0DWCRt8yocdvNaQHQAZhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-XVIVTrv72c"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-18T12:31:43Z",
+        "channelId": "UCV8R_Fv7Y-1KM_z_O5cbDbg",
+        "title": "Delhi’s Best special Veg Thali 😍❤️🔥#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "120/-रुपये में Thali #shorts #india #food #veg #thali #streetfood #foodlover #viralreels #yummy #youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-XVIVTrv72c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-XVIVTrv72c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-XVIVTrv72c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-XVIVTrv72c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-XVIVTrv72c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-18T12:31:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1nVYo_Eu2f_kps5hNzjsnozBeds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JjwweG2mJbc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-04T11:27:22Z",
+        "channelId": "UCXuyonA9rY-qA8m1YdQ4XPA",
+        "title": "Old Delhi ka famous chicken fry making 😳 || #chickenfry #shorts #streetfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JjwweG2mJbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JjwweG2mJbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JjwweG2mJbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JjwweG2mJbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JjwweG2mJbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Helping Hand welfare ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-04T11:27:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WhLUV_uPXEgf2HMLr5QtjMq7Jg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qiWJRoCUMPA"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-08T14:31:43Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "110/-रुपये में Van वाली स्पेशल Thali 😋🔥🥀#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Van वाली Special Shahi Thali #shorts #india #food #van #thali #delhi #streetfood #foodlover #viralreels #yummy #youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qiWJRoCUMPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qiWJRoCUMPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qiWJRoCUMPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qiWJRoCUMPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qiWJRoCUMPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-08T14:31:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O6WAZZm0uaSuWyl573yFvR3whV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D9068gqz2m8"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-14T05:03:01Z",
+        "channelId": "UCH8y-TYgZelKMWdjPyzfx0g",
+        "title": "Delhi famous Akram biryani #specialthali #food #greatindianthali #thali #indianthaali #streetfood",
+        "description": "Delhi famous Akram biryani #specialthali #food #greatindianthali #thali #indianthaali #streetfood #surat #suratfoodies ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D9068gqz2m8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D9068gqz2m8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D9068gqz2m8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D9068gqz2m8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D9068gqz2m8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie_man ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-14T05:03:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QKdNiH39SePglidqn_tWCBt6Amg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Je6NbOIYthg"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-29T06:30:18Z",
+        "channelId": "UCzwmYveuz-OTl10OJ7M230w",
+        "title": "9 Items Chicken Thali #chicken #jamamasjidfood #olddelhifood #ai #chickenplatter #biryani #kebab",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Je6NbOIYthg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Je6NbOIYthg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Je6NbOIYthg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Je6NbOIYthg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Je6NbOIYthg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Main Foody11 ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-29T06:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GKEpscp1Lr8gVUixgqZFTnBiFO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t0aYoH2t0Ew"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-20T14:31:38Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "Delhi’s viral Double style Thali 😱🔥❌#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Delhi's Best Cheapest Food ❤️ #shorts #india #food #thali #delhi #streetfood #youtube #foodlover #indianstreetfood #yummy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0aYoH2t0Ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0aYoH2t0Ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0aYoH2t0Ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t0aYoH2t0Ew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t0aYoH2t0Ew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-20T14:31:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ic8rNDRP6P17no9EWTtD-mu9rmY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T8KmyVfRo-Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-08T06:30:12Z",
+        "channelId": "UCNQ4S89MKn2VH0pxNMx07LQ",
+        "title": "Steam Chicken In West Delhi 😍 || Indian Street Food #indianstreetfood #steamchicken",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8KmyVfRo-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8KmyVfRo-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8KmyVfRo-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T8KmyVfRo-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T8KmyVfRo-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lovish Nagpal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-08T06:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O8EEbe5BCpXavmXdEYGtrBLWAss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LamwvyaUbB8"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-20T12:31:44Z",
+        "channelId": "UCV8R_Fv7Y-1KM_z_O5cbDbg",
+        "title": "40/-रुपये में Delhi’s Best नाश्ता 😋❤️🥀#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "World Famous Best Morning Breakfast ❤️ #shorts #india #food #breakfast #streetfood #foodlover #viralreels #yummy #delhi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LamwvyaUbB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LamwvyaUbB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LamwvyaUbB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LamwvyaUbB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LamwvyaUbB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-20T12:31:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A0SrsM81t7L1glWNhxSQrHuj-e0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Os5M-8bkHw0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-24T14:31:47Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "Delhi’s Best Chur Chur Naan Thali 😱🔥⭐️#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "India's most Expensive Naan Thali ❤️ #shorts #india #food #churchurnaan #thali #streetfood #foodlover #viralreels #yummy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Os5M-8bkHw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Os5M-8bkHw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Os5M-8bkHw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Os5M-8bkHw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Os5M-8bkHw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-24T14:31:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vaE7LwIx8fUdPoO2X0SFj3xObJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QoodgN8LdsA"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-21T13:15:08Z",
+        "channelId": "UCm3uwvJw2KHp4aWRjj_IWTQ",
+        "title": "Finding The Best Street Food Of Delhi 😱😱",
+        "description": "whats cookin, good lookin I post reviews of new products in the food industry and also do fun and quircky challenges. Press the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QoodgN8LdsA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QoodgN8LdsA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QoodgN8LdsA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QoodgN8LdsA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QoodgN8LdsA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "So Saute",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-21T13:15:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G8WOqXoIwhEG8TuQSDUrThMjMuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ecK0iGlrIM4"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-27T12:31:41Z",
+        "channelId": "UCV8R_Fv7Y-1KM_z_O5cbDbg",
+        "title": "Delhi’s most Viral Papdi Chaat 😋🔥❤️#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "सिर्फ़ 70/-रुपये में Papdi Chaat ❤️ #shorts #india #food #papdi #chaat #streetfood #foodlover #viralreels ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ecK0iGlrIM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ecK0iGlrIM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ecK0iGlrIM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ecK0iGlrIM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ecK0iGlrIM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-27T12:31:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4D_ZG6V591IDX3wGZjCJHVPNpS4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5SV1W-VOgzg"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-12T16:13:11Z",
+        "channelId": "UCia3ELvU4oe708Ri4W93fFw",
+        "title": "Most Popular Boiled Egg with Spicy Masala and Chutney - Healthy Street Food #shorts",
+        "description": "Most Popular Boiled Egg with Spicy Masala and Chutney - Healthy Street Food #shorts #food #streetfood #shortsfeed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5SV1W-VOgzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5SV1W-VOgzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5SV1W-VOgzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5SV1W-VOgzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5SV1W-VOgzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Test ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-12T16:13:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B11rC9cKXkrsLN4lOkMSXFJ0KCo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_tD6opwkBiY"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-20T10:45:04Z",
+        "channelId": "UCLS_F3D9IbZvfTbWPFEUHMg",
+        "title": "Chandni Chowk ke special chole chawal 👍 चाँदनी चौक़ के छोले चावल ❤️ #chole #rice #shorts #delhifood",
+        "description": "Chandni Chowk ke special chole chawal चाँदनी चौक़ के छोले चावल ❤️ #chole #rice #shorts #delhifood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_tD6opwkBiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_tD6opwkBiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tD6opwkBiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_tD6opwkBiY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_tD6opwkBiY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "food ke foodies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-20T10:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v2hRS7sdI8k5v9ZihXqCIDIaIHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ijs4H5j8sU"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-17T12:22:21Z",
+        "channelId": "UCSjVgfqF8R4Jtp82YyTva7g",
+        "title": "Rs 1500 Ki 2 Egg Ki Bhurji 😱🍳🥚",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ijs4H5j8sU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ijs4H5j8sU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ijs4H5j8sU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ijs4H5j8sU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ijs4H5j8sU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street Food Nation ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-17T12:22:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CsnqzAJUUxhhW2PeiLH1GPn7_kM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EsR2G4nbbqk"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-11T14:58:27Z",
+        "channelId": "UCb9xzOGbSRklidRYJr3gOpQ",
+        "title": "🔥😋Everyday 1200 Piece Dal Puri Selling In Kolkata Roadside #trending #shorts #vlog",
+        "description": "Everyday 1200 Piece Dal Puri Selling In Kolkata Roadside #trending #shorts #vlog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EsR2G4nbbqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EsR2G4nbbqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsR2G4nbbqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EsR2G4nbbqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EsR2G4nbbqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Rock ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-11T14:58:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wurFMbAVzWbt-AcY2B6SdLSvGu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zwXRsK-GfLM"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-17T09:30:29Z",
+        "channelId": "UCST279JNM-8NsXCR1r7GGSw",
+        "title": "Pet full ki viral kadi.  #streetfood #dillistreetfood #trending",
+        "description": "Pet full ki viral kadi. #food #streetfood #dillistreetfood #ytshorts #viralshorts #viralindianfood #foodies #foodlover #trending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zwXRsK-GfLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VIRAL INDIAN  FOOD 🍛 ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-17T09:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VBDJaH4xcbykBBnfpl6P6XtoUMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oLyTkMCpljM"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-20T06:45:06Z",
+        "channelId": "UCPqX32AMkj9yhRQf0wvyLAA",
+        "title": "India’s most cheapest price veg thali only rupees 30  #food #streetfood",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oLyTkMCpljM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oLyTkMCpljM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oLyTkMCpljM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oLyTkMCpljM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oLyTkMCpljM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GLOBAL FOODIE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-20T06:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IhiEr9ph13IKNycriyQ_zqWYGd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-CV5nFotWtw"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-12T06:47:08Z",
+        "channelId": "UCxg7Oeo_RLAXbdVVJi2UdrQ",
+        "title": "Mukherjee Nagar Famous Chacha Bhatija Ka Tawa Chicken Rs.80/- Only #shorts #ytshorts",
+        "description": "Mukherjee Nagar Famous Chacha Bhatija Ka Tawa Chicken Rs.80/- Only #shorts #ytshorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-CV5nFotWtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-CV5nFotWtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-CV5nFotWtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-CV5nFotWtw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-CV5nFotWtw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tehelka Foodie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-12T06:47:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "czrMWn5drXfuFQBBEkKqu8NSHGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FoLg3C9GxAc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-22T12:31:40Z",
+        "channelId": "UCV8R_Fv7Y-1KM_z_O5cbDbg",
+        "title": "Delhi 6 का Most Viral Morning Breakfast 😱🔥❤️#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "40/-रुपये में सुबह का Yummy नाश्ता #shorts #india #food #delhi #morning #breakfast #streetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FoLg3C9GxAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FoLg3C9GxAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FoLg3C9GxAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FoLg3C9GxAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FoLg3C9GxAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Foody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-22T12:31:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Ib7OLButXzhnWJ4H8zfg10E3jQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MRoXgnROKTE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-19T06:32:38Z",
+        "channelId": "UC203vCBDbAZHW4zhf1Ehwmw",
+        "title": "Best Tandoori Chicken | Real Chicken Ashok Vihar #food #indiancuisine #streetfood #delhifoodie",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MRoXgnROKTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MRoXgnROKTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MRoXgnROKTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MRoXgnROKTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MRoXgnROKTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi ke chatore",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-19T06:32:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bAthrcXXqR4iKqsmTQR41DACnqY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AY-vM83CsWA"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-10T14:31:34Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "60/-रुपये में Combo Naan Thali 😱🔥🥀#shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Delhi's most Viral Uncle ❤️ #shorts #india #food #thali #combo #naan #viralreels #foodlover #streetfood #delhi #youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AY-vM83CsWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AY-vM83CsWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AY-vM83CsWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AY-vM83CsWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AY-vM83CsWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-10T14:31:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4zxlSW-BPPpuVRD_M9POZs6BTTM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XNM7333GB7g"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-15T08:01:07Z",
+        "channelId": "UCVFOJtIHXr_hjNy-y2DQrwg",
+        "title": "120/- Rupay Me Dilli Ka Sabse Aacha khana 🫣🤣😱 #youtubeshorts #streetfood #trending #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XNM7333GB7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XNM7333GB7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XNM7333GB7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XNM7333GB7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XNM7333GB7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Your salman Vlogs ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-15T08:01:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "83NSbiCE5XyO1HmB6JNf2Fl2Cqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9-Zf6eIiR8Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-02T14:31:41Z",
+        "channelId": "UCvZR-ngNJfamMcs67B-j1rg",
+        "title": "सिर्फ़ 70/-रुपये में Special Thali 😱❤️⭐️ #shorts #india #food #youtubeshorts #trendingshorts",
+        "description": "Rohini की Best Thali ❤️ #shorts #india #food #thali #best #streetfood #foodlover #viralreels #yummy #delicious #tasty ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-Zf6eIiR8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-Zf6eIiR8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-Zf6eIiR8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9-Zf6eIiR8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9-Zf6eIiR8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FoodieTalib",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-02T14:31:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5eErjpG774lV4rlsIw1UdZ3fSU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "faTtSenA1y4"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-02T09:59:23Z",
+        "channelId": "UC7rfED_ycmFlTsWbF03T_tA",
+        "title": "Chilli Potato in Just ₹10 😱 || Cheapest Food in Delhi 🤤 || Street Food #shorts",
+        "description": "foodunlimited #vegfood #corporate #foodvideo #streetfood #shahipaneer #foodrecipe #localfood #gharkakhana #khana ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/faTtSenA1y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/faTtSenA1y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/faTtSenA1y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/faTtSenA1y4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/faTtSenA1y4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Motu Foodiee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-02T09:59:23Z"
+      }
+    }
+  ]
+}

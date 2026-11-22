@@ -1,0 +1,1114 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली खाने का ठेला",
+    "relevanceLanguage": "hi",
+    "videoDuration": "medium",
+    "publishedAfter": "2025-01-01T00:00:00Z",
+    "publishedBefore": "2025-03-31T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:55:52.814280+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "20Dv51YzTb0j8S4p21K8sWvyYXc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QJEejBkeYPk"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T15:11:17Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "300 Kilo Roz 😍 Jamna Paar Delhi ka MOST WANTED Dhaba | Street Food India",
+        "description": "Street Food India | 300 Kilo Roz Jamna Paar Delhi ka MOST WANTED Dhaba | Indian Street Food | Delhi Street Food | Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QJEejBkeYPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T15:11:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fAKowd3q92RuWt32C-ld5tM2yaU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TOz-NrUnL20"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T14:23:59Z",
+        "channelId": "UC7kcW9Gk5ru-ZNyQxq3yHFA",
+        "title": "Delhi Food Tour | Best Street Food In Delhi | Indian Street Food Delhi",
+        "description": "Delhi Food Tour | HIGHEST SELLING Street Food In Delhi | Delhi Street Food | Indian Street Food | Best Street Food In Delhi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOz-NrUnL20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOz-NrUnL20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOz-NrUnL20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TOz-NrUnL20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TOz-NrUnL20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pettoo Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T14:23:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HjxhwBM20C122CC_763VDmEsio0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y6jezhdXe94"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-20T15:42:22Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "Delhi&#39;s No 1 Oil Free Chole Bhature | Street Food India | Kulhad Chole Bhature",
+        "description": "Delhi's No 1 Oil Free Chole Bhature | Street Food India | Kulhad Chole Bhature | Indian Street Food | Delhi Street Food | Best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y6jezhdXe94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-20T15:42:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N7lWEEYMvYHYe9HPE8TdW3wRoKg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AXEwV6qufeU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-22T15:20:10Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "India&#39;s MOST FAMOUS Tadke Wale Mayapuri Chole Kulche 😍 Street Food India",
+        "description": "Street Food India | India's MOST FAMOUS Tadke Wale Mayapuri Chole Kulche | Indian Street Food | Delhi Street Food | Best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AXEwV6qufeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-22T15:20:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1yRdb_0t9XeNvi4SD-2sHTOGOPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vYvpVhqAAd8"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-22T15:07:36Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "149/- Punjab&#39;s Most Wanted Blue Rehri Wala Spl Lunch | Street Food India",
+        "description": "149/- Punjab's Most Wanted Blue Rehri Wala Spl Lunch | Street Food India | Indian Street Food | Punjab Street Food | Best Street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vYvpVhqAAd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-22T15:07:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vxX9jFFghr5R0RcWVXGwc-RexM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Oqvt3B4oDc"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-16T04:30:05Z",
+        "channelId": "UC5vQMkqw2JVC9mqGNBXjzMw",
+        "title": "Bihari Style Cheapest Tawa Chicken In Delhi Rs. 80/- Only l Delhi Street Food",
+        "description": "tawachicken #viralvideo #food #streetfood #delhistreetfood #trending #foodie #foodlover #delhifood #delhitawachicken ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Oqvt3B4oDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "INDIA EAT MANIA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-16T04:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Flo2pWyWA3hHIfW4S21GDu7DGWE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JDGgMHq0S8E"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-02T14:18:06Z",
+        "channelId": "UC9P8RGEax5PQHJPAoVdfzmw",
+        "title": "चलता फिरता रेस्टोरेंट खोलें | food card manufacturer in Delhi | Momos Cart, Pizza Cart, Chai Cart",
+        "description": "foodcart #newbusiness Machinery Hub Add- Plot No-23/17 ,Matiyala Village ,Uttam Nagar ,New Delhi-110059 8178466757 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JDGgMHq0S8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JDGgMHq0S8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JDGgMHq0S8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JDGgMHq0S8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JDGgMHq0S8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EPIC LADKA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-02T14:18:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w9q6M4XN8KWpfADcCLquRcrLN2Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ks6i1byVlSo"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-01T04:45:13Z",
+        "channelId": "UC-D_MEyEN7ACtJhCaOYCvpA",
+        "title": "Noida sector84 ||हर रोज लाखों के कमाई company के बाहर ठेला लगाकर|योगी एक तीर से चार निशाना",
+        "description": "Noida sector84 ||हर रोज लाखों के कमाई company के बाहर ठेला लगाकर|योगी एक तीर से ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ks6i1byVlSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ks6i1byVlSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ks6i1byVlSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ks6i1byVlSo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ks6i1byVlSo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dhanraj Nfm News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-01T04:45:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b_5evfkWnkNbgIPlpPy06lgtj70",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wrXXq3N7OHg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-03T14:25:48Z",
+        "channelId": "UCM-q0U0F6-oMOFTYPtlsEfA",
+        "title": "Delhi&#39;s No.1Street Food in  Ramesh Nagar| Punjabi Poori , Chole Kulche , Atta Naan",
+        "description": "Delhi's No.1Street Food in Ramesh Nagar| Punjabi Poori , Chole Kulche , Atta Naan google location Pakoda corner Gol ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wrXXq3N7OHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mr. Singh food hunter",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-03T14:25:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r3up0ZyysVeSuxOX7kdJ2I5F8NI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XgEwUrMvl9Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-24T11:00:45Z",
+        "channelId": "UCTv78rh_eLqvDRE9yWSZNaA",
+        "title": "Rs 150 Delhi Street Food Desi Ghee TAWA MUTTON  Tawa Seekh, Chicken Curry, Maghaz Mutton Masala",
+        "description": "Rs 150 Delhi Street Food Desi Ghee TAWA MUTTON Tawa Seekh, Chicken Curry, Maghaz Mutton Masala This little place where ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XgEwUrMvl9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XgEwUrMvl9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XgEwUrMvl9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XgEwUrMvl9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XgEwUrMvl9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shoaib Arora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-24T11:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x4MTr1YRWYKlVvn4yUI2BWU603Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xF66sqpvZuM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-16T05:30:22Z",
+        "channelId": "UCkqrnyJ9GUxWCJXgzBwx3wA",
+        "title": "4999/- Rs(Booking amount) मे बनवाये अपना Food Cart,Food Cart factory , street food carts, 9350493713",
+        "description": "4999/- Rs मे बनवाये अपना Food Cart | Food Cart factory , street food carts , Ph-9350493713 how to start a food truck, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xF66sqpvZuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xF66sqpvZuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xF66sqpvZuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xF66sqpvZuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xF66sqpvZuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Manish Business Ideas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-16T05:30:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IFcSSHXFzkMYycnX1HOLJabb2rs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jrPOCpEkluM"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-01T02:36:45Z",
+        "channelId": "UCv1_bgMbq5-oHoKANY_ydyA",
+        "title": "Food truck | Food cart | Food Kiosk | Food trailer |Machinery Hub |#foodtrucks #foodcart #food",
+        "description": "Food Truck Size -5x11 Food truck | Food cart | Food Kiosk | Food trailer |Machinery Hub |#foodtrucks #foodcart #food #business ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jrPOCpEkluM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jrPOCpEkluM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrPOCpEkluM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jrPOCpEkluM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jrPOCpEkluM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Machinery Hub Small Business Ideas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-01T02:36:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tnVR9Dgo1tAhWztGGzcW9KgwqZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7V2cyvF7UNk"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T15:15:29Z",
+        "channelId": "UC4qXyMvDs6OnNEnjQtinZJA",
+        "title": "Delhi&#39;s No. 1 Tadke Wale Chole Kulche | Delhi Street Food Mayapuri | Shahi Paneer Chole Kulche",
+        "description": "Delhi's No. 1 Tadke Wale Chole Kulche | Delhi Street Food Mayapuri | Shahi Paneer Chole Kulche SUBSCRIBE TO MY MUSIC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7V2cyvF7UNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harry Uppal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T15:15:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JjflVeTgkPWNhwOac-GJVemg_WQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7XtoNjbXj3E"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-23T11:01:58Z",
+        "channelId": "UCq7-MQealC1TZmhktr6mkHw",
+        "title": "आखिर क्या है ठेले वाली चाऊमीन बनाने का सीक्रेट तरीका | Chow mein Recipe | Chaumin kaise banate hain",
+        "description": "आखिर क्या है ठेले वाली चाऊमीन बनाने का सीक्रेट तरीका | Chow mein Recipe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7XtoNjbXj3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7XtoNjbXj3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7XtoNjbXj3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7XtoNjbXj3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7XtoNjbXj3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jain Street fast food",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-23T11:01:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "if21osdBL-5YAbh8diiKMCdubAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kgc5_SpZqM4"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-16T04:30:06Z",
+        "channelId": "UCNw0s0iyz9gIgan9bCd8ceA",
+        "title": "Dilli Ke Mashoor | Bhogal Ke Chole Bhature | Connaught Place | Street food India",
+        "description": "tastefulsafar Hello Friends, Welcome to the Tasteful Safar: Journey with Taste and Trust. Bhogal Chole Bhature Wala is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kgc5_SpZqM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kgc5_SpZqM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kgc5_SpZqM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kgc5_SpZqM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Tasteful Safar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-16T04:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YY-r7Zi98nuTJ1S1ykjV5DBXuV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "luqs8EX2GhI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-10T05:30:25Z",
+        "channelId": "UC2f1NTT047rY25qJ9o-9vUg",
+        "title": "Chicken Biryani- बेच कर कमाओ - 70000₹- महिना | 🐓 #food #how #trending #indianfood #business #startup",
+        "description": "Chicken Biryani- बेच कर कमाओ - 70000₹- महिना | #food #streetfood #trending #indianfood #business ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/luqs8EX2GhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/luqs8EX2GhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/luqs8EX2GhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/luqs8EX2GhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/luqs8EX2GhI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dumdaar Startup & Vlogs ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-10T05:30:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I0w6lPbNSajQA8NcUdOYlWID9dU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "398terTe1Do"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-19T03:18:31Z",
+        "channelId": "UCdirmVq6VP3oZHxxbHCIKqA",
+        "title": "सुअर🐖की Famous 21साल पुरानी दिल्ली वालों की जान Sachin मीट Tawa Fry | इससे स्वादिष्ट पूरी दिल्ली न",
+        "description": "सुअर  की Famous 21साल पुरानी दिल्ली वालों की जान Sachin मीट Tawa Fry | इससे ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/398terTe1Do/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/398terTe1Do/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/398terTe1Do/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/398terTe1Do/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/398terTe1Do/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YoutubeVsMaiOfficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-19T03:18:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z-2Vw3oFVh_-T9inNKCHGz_xNcY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "adiW832IXA8"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-22T09:30:04Z",
+        "channelId": "UCVdiPfGDsWO3pPhIPgKYPZw",
+        "title": "Street Style Veg Biryani | biryani recipe | soya chunks veg biryani | veg biryani full recipe |",
+        "description": "street style veg biryani | biryani recipe | soya chunks veg biryani | veg biryani full recipe | Your Query's paneer veg biryani kaise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/adiW832IXA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/adiW832IXA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/adiW832IXA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/adiW832IXA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/adiW832IXA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Street Cook",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-22T09:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WtPO4ZVFlP8gxeEQuQr1h2R-O0g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lPKh2MJnc1c"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T04:30:32Z",
+        "channelId": "UC5vQMkqw2JVC9mqGNBXjzMw",
+        "title": "Jharkhandi Adivasi Style Murge Ke Panje Making In Ranchi l Jharkhand Street Food",
+        "description": "ranchistreetfood #ranchifood #murgekepanje #chickenlegs #viralvideo #food #adivasibazarranchi #adivasifood #ranchijharkhand ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lPKh2MJnc1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "INDIA EAT MANIA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T04:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wbqMYMyH_s5pIIUbTp3bBeZtnYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OF7TJBONYUQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-23T05:30:08Z",
+        "channelId": "UCkqrnyJ9GUxWCJXgzBwx3wA",
+        "title": "9999/- Rs मे बनवाये अपना Food Cart | Food Cart factory , street food carts ,  Ph-9350493713",
+        "description": "9999/- Rs मे बनवाये अपना Food Cart | Food Cart factory , street food carts , Ph-9350493713 how to start a food truck, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OF7TJBONYUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OF7TJBONYUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OF7TJBONYUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OF7TJBONYUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OF7TJBONYUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Manish Business Ideas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-23T05:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tFd3I8rslPVueWpSSmgr0lzQqhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3O-PEAR-_1Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-12T01:30:04Z",
+        "channelId": "UCzq7k9mC-gn_TpbXDk0tXZg",
+        "title": "ठेले की चाऊमीन | Thele Ki Chowmein | Hindi Kahani | Moral Stories | Bedtime Story | Hindi Story",
+        "description": "ठेले की चाऊमीन | Thele Ki Chowmein | Hindi Kahani | Moral Stories | Bedtime Stories | Hindi Kahaniya | Kahani | Hindi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3O-PEAR-_1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3O-PEAR-_1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3O-PEAR-_1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3O-PEAR-_1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3O-PEAR-_1Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Best Buddies Stories",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-12T01:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JrCV_sFqhbIyQq-fk0wCflMUWKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a_Zz6G3Gk6A"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-09T07:53:22Z",
+        "channelId": "UCXzOPXsOLCJQcy1LUtUaUdg",
+        "title": "Cheapest vs Expensive Street Foods Mukbang | Chole Bhature, Chili Chicken, Momos, Samosa &amp; Roll",
+        "description": "My Shorts Channel Link     https://youtube.com/channel/UCxT6k4MFbmV9VWtg25ZcTKw So Hey People What is Up... I Hope ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a_Zz6G3Gk6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a_Zz6G3Gk6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a_Zz6G3Gk6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a_Zz6G3Gk6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a_Zz6G3Gk6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Indian Mukbanger",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-09T07:53:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P25nBsAXa6DC9nIzj_to0zjAMoM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bUoABQAskPU"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-14T15:19:04Z",
+        "channelId": "UCtn51SvTKCLLpkIgDvs04Fg",
+        "title": "50/- Punjab ka MOST CROWDED Mercedes Wala Lunch | Street Food India vlog",
+        "description": "Street Food India | 50/- Punjab ka Most Crowded Mercedes wala Lunch | Best Thali | Indian Street Food | Punjab Street Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bUoABQAskPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bUoABQAskPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bUoABQAskPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bUoABQAskPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bUoABQAskPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Official Sahi hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-14T15:19:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c74fRKiGn0e7w3CKnkLatabfNyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eTh2OV0c2Wg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-31T06:45:39Z",
+        "channelId": "UCR0IGEgwQpVNx2gnzKRe5mA",
+        "title": "प्रोटीन और फ़ाइबर से भरपूर दालवड़ों के लिए सुबह 6 बजे से लाइन लगनी चालू हो जाती है!",
+        "description": "प्रोटीन और फ़ाइबर से भरपूर दालवड़ों के लिए सुबह 6 बजे से लाइन लगनी ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eTh2OV0c2Wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eTh2OV0c2Wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eTh2OV0c2Wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eTh2OV0c2Wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eTh2OV0c2Wg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Indian Testy Food Tour",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-31T06:45:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qXEBHBOtGB2tUvSRfagy4OMUCAM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2cE5j7_BRw8"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-19T13:07:39Z",
+        "channelId": "UCMUqQCaGju8m6m4Lv3HCNLg",
+        "title": "कम बजट में Chinese स्टॉल शुरू करें,Chinese restaurant startup business idea and plans@BUSINESSDOST",
+        "description": "Chinese restaurant startup business #कम से कम बजट में chinese restaurant startup करे #chinese restaurant ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2cE5j7_BRw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2cE5j7_BRw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2cE5j7_BRw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2cE5j7_BRw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2cE5j7_BRw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BUSINESS DOST",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-19T13:07:39Z"
+      }
+    }
+  ]
+}

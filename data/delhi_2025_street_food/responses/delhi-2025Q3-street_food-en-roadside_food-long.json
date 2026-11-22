@@ -1,0 +1,1104 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "Delhi roadside food",
+    "relevanceLanguage": "en",
+    "videoDuration": "long",
+    "publishedAfter": "2025-07-01T00:00:00Z",
+    "publishedBefore": "2025-09-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:25.011888+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cfzAp8-KslUuk7MQ_mpE5EUg1VI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZyYiIKe4fkw"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-30T15:00:58Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food PASCHIM VIHAR | Amritsari Kulcha, Tawa Bhatura, Gulati Keema Meat, Goat grilled chicken",
+        "description": "Street Food PASCHIM VIHAR | Amritsari Kulcha, Tawa Bhatura, Gulati Keema Meat, Goat grilled chicken #streetfood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZyYiIKe4fkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZyYiIKe4fkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZyYiIKe4fkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZyYiIKe4fkw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZyYiIKe4fkw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-30T15:00:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7GqVVxyyrpOBx2jWvO398ObfEc8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cmwQNIgrddo"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-28T12:30:46Z",
+        "channelId": "UC9rSxoZo5gMRvjCM8juQAAg",
+        "title": "I Tried India’s Most Disgusting Street Food",
+        "description": "Kolkata, India I went to Kolkata, India, to try one of the most infamous street food stalls in the country — the Club Kachori street ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cmwQNIgrddo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cmwQNIgrddo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cmwQNIgrddo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cmwQNIgrddo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cmwQNIgrddo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Native Ty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-28T12:30:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-gCrw53LVu3GOxx9rrvwQ9-qBjI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RBWmN7YKwM0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T15:00:39Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Street Food JAMA MASJID | Dori Wale Kebabs, Taufiq Biryani, JFC Chicken,  Mutton Nihari, Gajar Halwa",
+        "description": "Ultimate Street Food JAMA MASJID | Dori Wale Kebabs, Taufiq Biryani, JFC Chicken, Mutton Nihari, Gajar Halwa, Mohabbat Ka ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RBWmN7YKwM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T15:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GT7debGOpSRLUDrumpmOVmGxFjY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ho3iYmL2fOA"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T12:30:48Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Ep 12 East Delhi Non Vegetarian Street Food Walk l Kharode + Cream Chicken, Ch Soup + Keema Mutton",
+        "description": "As a part of our Delhi Neighbourhood Eats series, we embarked on a flavourful journey through Geeta Colony, East Delhi guided ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ho3iYmL2fOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ho3iYmL2fOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ho3iYmL2fOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ho3iYmL2fOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ho3iYmL2fOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T12:30:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hAv6XwaClJMSilYTOmvaBP26vbI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XOulNWggT_M"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-30T12:30:40Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Ep - 17, Sarojini Nagar Food Tour l Khandani Pakoda + Kulcha King + Shahi Dahi Bhalle + Amar Jyoti",
+        "description": "On a rainy afternoon, we set out to explore Sarojini Nagar, a neighborhood that most people know for its bustling markets and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XOulNWggT_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XOulNWggT_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XOulNWggT_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XOulNWggT_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XOulNWggT_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-30T12:30:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nhWV9f-DTn_GH3wZb_zscqf1U1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C2JduP5iCzE"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-19T00:30:18Z",
+        "channelId": "UCoCU-RvDqV1JgmbRgh79UTQ",
+        "title": "Must try food in chandni chowk delhi | Delhi street food | Chandni chowk",
+        "description": "tastyindia #chandnichowk #delhistreetfood #delhi #food Must try food in chandni chowk delhi | Delhi street food | Chandni chowk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C2JduP5iCzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C2JduP5iCzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C2JduP5iCzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C2JduP5iCzE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C2JduP5iCzE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Singhsman ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-19T00:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dki-TULm2MBU3llu3BvHtkDe_YY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w1v8jNNfCCs"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-07T15:21:58Z",
+        "channelId": "UCqJ4x3oLggFz5s6Djg5y7EQ",
+        "title": "Worst Indian Street Foods Ever! 😭 (INSTANT REGRET)",
+        "description": "Reacting to the Worst Indian Street Foods Ever Invented! We came across some of the most bizarre and questionable street food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1v8jNNfCCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1v8jNNfCCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1v8jNNfCCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w1v8jNNfCCs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w1v8jNNfCCs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thugesh Unfiltered",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-07T15:21:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mexmm_6KThOUCfqlIowzsSaTNSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ctKEXi-8VzA"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-02T15:01:00Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Breakfast Places In DWARKA | Kachori Sabzi, Podi Masala Dosa, Om Chole Kulche, Munna Chole Bhature",
+        "description": "Breakfast Places In DWARKA | Kachori Sabzi, Podi Masala Dosa, Om Chole Kulche, Munna Chole Bhature #streetfood #food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ctKEXi-8VzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ctKEXi-8VzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctKEXi-8VzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ctKEXi-8VzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ctKEXi-8VzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-02T15:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xStykesnga7slDLDi9fRCM9SCfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lljpwY7L2cI"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-14T22:00:52Z",
+        "channelId": "UCazYeU9CBTH6ll8llBxYmvA",
+        "title": "indian street food dirtiest compilation",
+        "description": "If you've made it this far without losing your appetite, your stomach is bulletproof — might as well subscribe. I swear, none of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lljpwY7L2cI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lljpwY7L2cI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lljpwY7L2cI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lljpwY7L2cI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "SatireAIzed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-14T22:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6S4LCerctqeYjqRD_iv8xCJxQ6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YRVlBgos3gY"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-29T15:30:02Z",
+        "channelId": "UCBIGQ4kYHSBFWO4xfsYBx-g",
+        "title": "TOP 5 STREET FOOD IN AGRA | Agra Street Food | Best Street Food in Agra | Street Food India",
+        "description": "TOP 5 STREET FOOD IN AGRA | Agra Street Food | Best Street Food in Agra | Street Food India You guys can watch this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YRVlBgos3gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YRVlBgos3gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YRVlBgos3gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YRVlBgos3gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YRVlBgos3gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jalandhar Wale Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-29T15:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OJkZVXreaX8dPWDHJaX4WOGcey4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4Fojw7yviYU"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-19T14:46:47Z",
+        "channelId": "UCyVNApi-6Mf5U8We98GB7JA",
+        "title": "Poisoning Millions: What’s Really in Delhi’s Food Supply",
+        "description": "Ghazipur isn't just a landfill — it's a slow-motion disaster poisoning East Delhi's food chain. One towering trash mountain, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Fojw7yviYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Fojw7yviYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Fojw7yviYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Fojw7yviYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Fojw7yviYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Andrew Fraser",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-19T14:46:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lmCdsSCi8E9AyW8lzAu4kCQa6_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iJ5VLBVWoR0"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-13T18:55:45Z",
+        "channelId": "UCj1EFP3TozaAh1hHOXTDsXA",
+        "title": "MOST LETHAL STREET FOOD VIDEO COLLECTION | CHEAPEST TRENDING VIRAL STREET FOOD | PUNJABI STREET FOOD",
+        "description": "Enjoy the delicious street food! In this video, we're exploring some of best desi-street food. Pakistani Street foods, authentic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iJ5VLBVWoR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iJ5VLBVWoR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iJ5VLBVWoR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iJ5VLBVWoR0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Street Food Adventures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-13T18:55:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DbOHCZvk9QhBUV8_MuCuooR7qgw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LbLHQSG9G08"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-23T07:22:08Z",
+        "channelId": "UC5aKead6Q8YQYjceizxJIuw",
+        "title": "I Tried Every Level of Dining Experience",
+        "description": "Follow me on Instagram - https://instagram.com/inishutiwari For business and collaboration - contactnishutiwari@gmail.com Shoot ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LbLHQSG9G08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nishu Tiwari",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-23T07:22:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "om-zN-Eei0RQqBQKxZWVzrQil9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AFSIR-cdZ9A"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T13:30:11Z",
+        "channelId": "UC2UWtuZR3kH-5C26HVMMB6A",
+        "title": "Exposing Every OVERRATED STREET FOOD of Amritsar",
+        "description": "About the Video - From Heera Di Paneer Bhurji to the Legendary Amritsar's Famous Kesar da Dhaba, today India's Best Food ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AFSIR-cdZ9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AFSIR-cdZ9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AFSIR-cdZ9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AFSIR-cdZ9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AFSIR-cdZ9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aayush Sapra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T13:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jla8RO-7I-ZSmw7vVf2WtwhJJRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gFrqiPlVFr8"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T12:31:00Z",
+        "channelId": "UCVqAuZdTN8oiGf1ouv05yGg",
+        "title": "Sonipat ki World Famous सौंफ  इलायची वाली जलेबी |100gm Ka Bahubali पेड़ा |Triloki Ke Samose | Kulfi|",
+        "description": "Sonipat ki World Famous सौंफ इलायची वाली जलेबी |100gm Ka Bahubali पेड़ा |Triloki Ke Samose | Kulfi| ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gFrqiPlVFr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gFrqiPlVFr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gFrqiPlVFr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gFrqiPlVFr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gFrqiPlVFr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND HUNGRY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T12:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6jZkazBVmJaY0Rnf3PxJOXJXO3g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zSpDJ3vQcO0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-19T07:01:04Z",
+        "channelId": "UC7ivpk0X8_8kZSB1XnSIbyA",
+        "title": "Pakistan&#39;s 🇵🇰 REAL Bong Paya CHAMPION | This Roadside Dinner Will Blow Your MIND",
+        "description": "streetfood #pakistanstreetfood #streetfoodpk Lahore's REAL Bong Paya CHAMPION | This Roadside Dinner Will Blow Your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zSpDJ3vQcO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zSpDJ3vQcO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSpDJ3vQcO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zSpDJ3vQcO0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zSpDJ3vQcO0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Purana Street Food",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-19T07:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "itp5NtqK_G1_ailQeSOXP2V7QZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "27ry6m_-Ke4"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-08T08:30:01Z",
+        "channelId": "UCdeZaOUmm3iYkzXq9dhclbw",
+        "title": "Food Stall लगाने जा रहे हो? ये 21 Items साथ ले जाना ना भूलें!",
+        "description": "Planning to set up a food stall at an event, mela, or local market? Don't miss this video where I share 21 must-have items you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/27ry6m_-Ke4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/27ry6m_-Ke4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/27ry6m_-Ke4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/27ry6m_-Ke4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/27ry6m_-Ke4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HBS Baking Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T08:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2KV9YeUhN6if9Yi1cUv9kpBYEFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1Ma3i47B8RY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-18T11:16:34Z",
+        "channelId": "UCM86e73MhkaT2_mr6Dd3Tbw",
+        "title": "Talented Guy runs 27 yrs Old generation Streetfood Business | Food Setup documentary ",
+        "description": "We travel to Bindapur area of New Delhi , India to cover the food documentary . We have shown the story of Hardworking guy who ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Ma3i47B8RY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Ma3i47B8RY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Ma3i47B8RY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Ma3i47B8RY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Ma3i47B8RY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "World Food Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-18T11:16:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "THzOqNVJq_LqK9glcyurrD4IgcM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TjAlqjNl380"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-02T10:00:06Z",
+        "channelId": "UC27y7zyUnetzELbPkmc9unA",
+        "title": "ROADSIDE MINI DHABA BREAKFAST | VIRAL STREET FOOD VIDEO COLLECTION IN LAHORE",
+        "description": "streetfoodofpk #streetfood #streetfoodtour ROADSIDE MINI DHABA BREAKFAST | VIRAL STREET FOOD VIDEO COLLECTION ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TjAlqjNl380/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TjAlqjNl380/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjAlqjNl380/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TjAlqjNl380/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Street Food of PK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-02T10:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yPDkLZqoHjF5r2OGat0UIdh_xWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xx2QuWfKYmk"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-19T06:01:47Z",
+        "channelId": "UCE81YzUkrvSDLgvDCnZFF1Q",
+        "title": "पत्नी संग ठेले पर बनाते है Rajputana खड़े मसाले का मटन देसी घी और केसर डालकर | Jaipur Food Tour",
+        "description": "jaipur #indianfood #muttoncurry #nonvegfood #laalmaas #cart #rajasthan #indianstreetfood #desifood #rajputana #virtualbanjara ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xx2QuWfKYmk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Virtual Banjara®",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-19T06:01:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WaAOIVzPybtZsx3nTzYKNvvyKAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zlDZ-ypWsmg"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-13T08:57:32Z",
+        "channelId": "UCE81YzUkrvSDLgvDCnZFF1Q",
+        "title": " A देसी Diet | कलयुग में सतयुग का Street Food | चूल्हे पर बनी लाल मिर्च और लहसुन की(चटनी रोटी)Jaipur",
+        "description": "indianfood #satvikfood #streetfood #indianfood #jaipur #desifood #virtualbanjara #chatni Read written recipe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zlDZ-ypWsmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Virtual Banjara®",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-13T08:57:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RlMzPIX2qMnrjLunkWYBzDipFss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mbsn_9FK2dE"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T07:13:42Z",
+        "channelId": "UCieqiT7RHdry-iXihNLqOzQ",
+        "title": "TOP 5 INSANE PAKISTANI STREET FOODS 2025 | Unseen Desi Flavors | ULTIMATE ROADSIDE FOOD COMPILATION",
+        "description": "streetfood #streetfoodpk #foodviews #lahorestreetfood #streetfoodpk #pakistanstreetfood #street food 2025 TOP 5 MUST-WATCH ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mbsn_9FK2dE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mbsn_9FK2dE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mbsn_9FK2dE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mbsn_9FK2dE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mbsn_9FK2dE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Food Views",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T07:13:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zE3lxA_GjZRnNlbkdIx6f-z1Jss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XRm6wqWPjTY"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-28T09:05:06Z",
+        "channelId": "UC27y7zyUnetzELbPkmc9unA",
+        "title": "Best roadside videos collection | Pakistani street food best videos compliation|Street food Pakistan",
+        "description": "streetfoodofpk #streetfood #streetfoodpkstreetfoodpk AMAZING MOST POPULAR STREET FOOD VIDEOS COLLECTION | TOP 9 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XRm6wqWPjTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XRm6wqWPjTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XRm6wqWPjTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XRm6wqWPjTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XRm6wqWPjTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street Food of PK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-28T09:05:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1BqHYCu-ikxAdGbUIcPvKGCcRic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dh6qW9TB-40"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-27T07:00:06Z",
+        "channelId": "UC7ivpk0X8_8kZSB1XnSIbyA",
+        "title": "Top INSANE Pakistani 🇵🇰 Street Foods COMPILATION | Unseen Desi Flavors FOREIGNERS Don’t Know About!",
+        "description": "siripaye​ #beststreetfood​ #pakistanistreetfood​ Top INSANE Pakistani Street Foods COMPILATION | Unseen Desi Flavors ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dh6qW9TB-40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dh6qW9TB-40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dh6qW9TB-40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dh6qW9TB-40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dh6qW9TB-40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Purana Street Food",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-27T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g4TzmwxC_kalhBMG16FQ3T_vgi4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M_ftPukHrns"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-19T15:00:39Z",
+        "channelId": "UCxiBEi8RF-l6ib4SMDTd35w",
+        "title": "Breakfast In Gurugram | Amritsari Kulcha, Chole Bhature, Gandhi Pakode Wala, Pandit Dhaba, Jalebi",
+        "description": "Breakfast In Gurugram | Amritsari Kulcha, Chole Bhature, Gandhi Pakode Wala, Pandit Dhaba, Jalebi #food #streetfood #foodie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M_ftPukHrns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M_ftPukHrns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M_ftPukHrns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M_ftPukHrns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M_ftPukHrns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dilsefoodie Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-19T15:00:39Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1114 @@
+{
+  "resource": "search",
+  "params": {
+    "part": "snippet",
+    "type": "video",
+    "order": "relevance",
+    "regionCode": "IN",
+    "safeSearch": "moderate",
+    "maxResults": 25,
+    "q": "दिल्ली सड़क किनारे खाना",
+    "relevanceLanguage": "hi",
+    "videoDuration": "long",
+    "publishedAfter": "2025-04-01T00:00:00Z",
+    "publishedBefore": "2025-06-30T23:59:59Z"
+  },
+  "retrieved_utc": "2026-11-21T21:56:12.343254+00:00",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XJVhsF4yfSolMmy2ttdyTwYn9nA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f-FCzdrbSyY"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-17T14:00:56Z",
+        "channelId": "UCfNPmyLCMkTOFoHzjB_YeJg",
+        "title": "सड़क किनारे हुए हादसे ने Lead किया CID को एक Historical Site तक | CID | सी.आई.डी. | 17 Jun 2025",
+        "description": "cid2025 #सीआईडी #cid2025 #latestcid #new #latest #cidepisodes Click here to subscribe to SONY WAH: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f-FCzdrbSyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f-FCzdrbSyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f-FCzdrbSyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f-FCzdrbSyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f-FCzdrbSyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony WAH",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-17T14:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HlYJUvhyqQFLLxvAyuiLgZt-jnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OkIYibjesX8"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-06T04:37:46Z",
+        "channelId": "UCMxpInksWSIC3xNZ9nrdUDQ",
+        "title": "Delhi road side slum poor girls life||Delhi jhopadpatti life||Slum area life im delhi",
+        "description": "Delhi road side slum poor girls life||Delhi jhopadpatti life||Slum area life im delhi Follow me on Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OkIYibjesX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OkIYibjesX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OkIYibjesX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OkIYibjesX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OkIYibjesX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yatra Guru Ji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-06T04:37:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OWmegMoDmfpa8gH2KBZSC0Rt2Us",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e7tiZe9ZbeE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-06T10:30:33Z",
+        "channelId": "UCNgMjrXVIvrWBoEpHMxGkkg",
+        "title": "आज का सफर बहुत वीरान और खतरनाक है 😱 ||  Roadside Cooking 😋 || Swift Dzire Camper Van",
+        "description": "आज का सफर बहुत वीरान और खतरनाक है || Roadside Cooking || Swift Dzire Camper Van ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e7tiZe9ZbeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e7tiZe9ZbeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7tiZe9ZbeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e7tiZe9ZbeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e7tiZe9ZbeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mast Parindey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-06T10:30:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8tRUnf9UM66Pk0fDlVtX940Uat0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "toNKXHz2U3c"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-31T12:31:00Z",
+        "channelId": "UC2LxkEsKAr_Qrm_IKESnOnQ",
+        "title": "Pure Bihari Non Vegetarian Food I Dabbu Egg Poach + Champaran Style Mutton + Kadha Masala Chicken",
+        "description": "In this episode of Delhi Community Food Stories, we find ourselves in a warm, inviting home kitchen, immersed in the flavours and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/toNKXHz2U3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/toNKXHz2U3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/toNKXHz2U3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/toNKXHz2U3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/toNKXHz2U3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Delhi Food Walks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-31T12:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zP5zGPdqCaV81-ZbqESA3xEBAaA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R3QYaXfnkbU"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-22T13:30:32Z",
+        "channelId": "UC_mHhZ0tM8j6cpWkG8x34LA",
+        "title": "CID Officer Abhijeet ने बेचा सड़क किनारे DOSA | CID New Episodes | Crime Stories",
+        "description": "Watch More: https://youtu.be/2bR1ZnkWO_M https://youtu.be/O-aj64S2SuQ https://youtu.be/IdfQq4t4v7Y ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R3QYaXfnkbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R3QYaXfnkbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R3QYaXfnkbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R3QYaXfnkbU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R3QYaXfnkbU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tehkikaat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-22T13:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OePJ7-wTJ1laOZIiTgQM5eMjJqw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s6bq_gjIZh0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-02T10:30:28Z",
+        "channelId": "UCNgMjrXVIvrWBoEpHMxGkkg",
+        "title": "तूफान-बारिश के डर से 🌧️ || गाड़ी के अंदर खाना बनाना पड़ा 😲 || Night Camp Cooking in Swift Dzire",
+        "description": "तूफान-बारिश के डर से 🌧️ || गाड़ी के अंदर खाना बनाना पड़ा || Night Camp Cooking in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s6bq_gjIZh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s6bq_gjIZh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s6bq_gjIZh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s6bq_gjIZh0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s6bq_gjIZh0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mast Parindey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-02T10:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sprkgzTLpL_Sgzw79WQ9M1NYD4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UJj93gqOo0o"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-28T05:30:18Z",
+        "channelId": "UCBIT1FSJW6yTlzqK-31FDWg",
+        "title": "सड़क किनारे Hair Cut कराकर क्यों रोने लगा Jetha? | Taarak Mehta Ka Ooltah Chashmah | Full Movie",
+        "description": "Click here to Subscribe to LIV Comedy: https://www.youtube.com/channel/UCBIT1FSJW6yTlzqK-31FDWg?sub_confirmation=1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJj93gqOo0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJj93gqOo0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJj93gqOo0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UJj93gqOo0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UJj93gqOo0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIV Comedy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-28T05:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hEzYlVF7-NPbDqNOMwT5eemdfzU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B3VL77hAHBE"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-18T09:30:07Z",
+        "channelId": "UCliImq_HTFRvNwS3C5GAVnA",
+        "title": "Lucknow Street Food - Ultimate 15-Hours of LUCKNOW Food Tour in India&#39;s city of Nawabs, Lucknow!!",
+        "description": "लखनऊ के 20 Best Street Food spots in the city of Nawabs, Best Street Food in Lucknow, Capita of Uttar Pradesh!! ROYAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B3VL77hAHBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B3VL77hAHBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B3VL77hAHBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B3VL77hAHBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B3VL77hAHBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Spiceler",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-18T09:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eZgPAUd1BLN5xpZWlHpflrV22XE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YQyC_IU_VcY"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-28T14:00:00Z",
+        "channelId": "UCJZqkPpOCwlM4gooRYFq8WQ",
+        "title": "Once again going to Bihar | Long Drive with family",
+        "description": "instagram - @amandancer.real Long drive with family | Going to Bihar from Ahmedabad bye love you all.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YQyC_IU_VcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YQyC_IU_VcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YQyC_IU_VcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YQyC_IU_VcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YQyC_IU_VcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real Aman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-28T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vursI9Xu3tWMEpbvizgTCpgU-Aw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tBHak-7w47s"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-15T10:30:40Z",
+        "channelId": "UCfNPmyLCMkTOFoHzjB_YeJg",
+        "title": "Highway के पास एक ढाबे पर CID को मिले कुछ Clues | CID | सी.आई.डी. | 15 May 2025",
+        "description": "cid2025 #सीआईडी #cid2025 #latestcid #new #latest #cidepisodes Click here to subscribe to SONY WAH: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tBHak-7w47s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tBHak-7w47s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tBHak-7w47s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tBHak-7w47s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tBHak-7w47s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony WAH",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-15T10:30:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lIB7-R1q4VPM6eRWgOPYTalb9tI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DgztPWD-uWc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T13:30:10Z",
+        "channelId": "UCGtu9J8Hp5lOOdNR4_nZa2Q",
+        "title": "Cheapest VS Most Expensive Indian Street Food 🔥",
+        "description": "In this epic food comparison, we explore the extremes of Indian street food by tasting the cheapest chaat for just ₹1 and the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DgztPWD-uWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Foodie We",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T13:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iE-1hlM69vJP1WjcjhtPTOaRcfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PGeuOtwDquE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-28T20:13:41Z",
+        "channelId": "UCaUr7y4F9lWGnZ0cbUZyzYA",
+        "title": "BroCode Roast Battle  |  S2. Ep5",
+        "description": "Welcome back to the world of #Roastcomedy, with the fifth episode of BroCode Roast Show. Watch as #StandUpComedy artists ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGeuOtwDquE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGeuOtwDquE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGeuOtwDquE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PGeuOtwDquE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PGeuOtwDquE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aashish Solanki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-28T20:13:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r2Go_KbAMumCGIyGZbRsKzuIop4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-MBLYbd1BNE"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-04T15:08:00Z",
+        "channelId": "UCk_d-YNPcMM9sEBHt5jXq9g",
+        "title": "Delhi To Lansdowne Road Trip | Cafes &amp; Hidden Gem | Travel &amp; Stays | Best Time | Day 1 - CarryWalker",
+        "description": "I hope you like this vlog   In this video we covered the distance from Delhi To Lansdowne By Road. The route I took is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-MBLYbd1BNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-MBLYbd1BNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-MBLYbd1BNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-MBLYbd1BNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-MBLYbd1BNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Carry Walker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-04T15:08:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sRhCCArawh2E6JHjKw73gibXvoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L_0gqOhBLM0"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-22T03:30:14Z",
+        "channelId": "UCFuxLOUo41P3eEAW8U-Dwjg",
+        "title": "Ep 7 Da Nang to Huê Day by road | Central Vietnam | Imperial Citadel Hue | Vietnamese amazing lunch.",
+        "description": "In this episode you will see our journey from Da Nang to Huê which is about 105 km. Huê is a historic city in central Vietnam, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L_0gqOhBLM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L_0gqOhBLM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L_0gqOhBLM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L_0gqOhBLM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L_0gqOhBLM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "visa2explore",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-22T03:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h4_aJINBnbeljsa_wZvumsSghOo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jZo98aVdgAM"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-23T12:31:01Z",
+        "channelId": "UCN09OLhkvK3cdzkp7bPzQSA",
+        "title": "Delhi To Manali Roadtrip | Manali Weather  Update #manali #roadtrip #travel",
+        "description": "Delhi to Manali road trip | Manali Weather Update \"Good morning, friends! Welcome back to the channel. Today, we're kicking off ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jZo98aVdgAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jZo98aVdgAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jZo98aVdgAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jZo98aVdgAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jZo98aVdgAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "befikra overlander",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-23T12:31:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H_2UmEY597cExO-14c7bo2rZ04U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2xFj3mQ9Z1o"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-18T14:30:06Z",
+        "channelId": "UCvTLyB-aixsl4MhiMEomVRQ",
+        "title": "Old-School Lunch Homes in Mumbai That Still Rock | Khaana No. 1 #EP34",
+        "description": "Welcome to Khaana No. 1! In this episode, we explore the timeless charm of Mumbai's old-school lunch homes—places where ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2xFj3mQ9Z1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2xFj3mQ9Z1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2xFj3mQ9Z1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2xFj3mQ9Z1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2xFj3mQ9Z1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Khaane Mein Kya Hai",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-18T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IEVnITn1mOuPUkfAlvHBugFRpIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V-GRcFGFG-0"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-11T14:35:08Z",
+        "channelId": "UCseLoxQAxjLbVha3IaQOjOA",
+        "title": "I surprised my friend with a mystery trip",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V-GRcFGFG-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V-GRcFGFG-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V-GRcFGFG-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V-GRcFGFG-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V-GRcFGFG-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "A1 ADVENTURE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-11T14:35:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c4AVdxw4DDcP-GSlV_eb3-br7LE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7TiwMHU6aQU"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-17T14:29:08Z",
+        "channelId": "UC0HLde5_UG7XqOBTuBkauXQ",
+        "title": "BEST BUTTER CHICKEN IN THE WORLD at LEGENDARY MOTI MAHAL RESTAURANT IN DARYAGANJ | बटर चिकन,दाल मखनी",
+        "description": "butterchicken #foodie #food Don't Forget to Subscribe MOTI MAHAL Restauranj Address:- Daryaganj, New Delhi. Butter Chicken: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7TiwMHU6aQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7TiwMHU6aQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7TiwMHU6aQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7TiwMHU6aQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7TiwMHU6aQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Faiz Baba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-17T14:29:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WIuJrycUNHiPTisAkydi2565Rgw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yghgVwKuGGM"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-13T01:31:12Z",
+        "channelId": "UCiX7eaR9e9qTadqJwGpjoXA",
+        "title": "Arvind ahari huka vada song 2025 @arvindahari। हूका वाडा मा@arvindahari   Hukavadama",
+        "description": "arvindaharisonghukavadama arvind ahari ladi arvind ahari song arvindaharisongladi mogi hai @arvindahari #vagdicomedy #timli ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yghgVwKuGGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yghgVwKuGGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yghgVwKuGGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yghgVwKuGGM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yghgVwKuGGM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "arvind ahari official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-13T01:31:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-9M9ofBDKigJZ-E1HvEIyAGmsF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MwsHgn_jdIY"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-30T12:04:05Z",
+        "channelId": "UCGmhWgV9bmslB0Levatl6qA",
+        "title": "22 Boyfriends | Crowd Work | Stand Up Comedy | Ft @Harshgujral",
+        "description": "This Video is a Crowd Work Standup Comedy video from one of my Shows in Gurgaon. Main Characters of the video are One ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MwsHgn_jdIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MwsHgn_jdIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MwsHgn_jdIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MwsHgn_jdIY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MwsHgn_jdIY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harsh gujral",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-30T12:04:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m5S0K2y2IVO4O28Xn_J1J0raVds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HHM6vfnPCGY"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-30T18:58:29Z",
+        "channelId": "UCNTR2Tmi9eNLHoY0bgldBmw",
+        "title": "Aligarh Style Aloo Bedmi Recipe |खस्ता बेड़मी पूरी और मसालेदार आलू सब्ज़ी #AlooBedmi #AligarhSpecial",
+        "description": "aligarh aloo bedmi, aloo bedmi recipe, bedmi poori recipe, aloo sabzi recipe, north indian breakfast, indian street food, aloo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HHM6vfnPCGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HHM6vfnPCGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HHM6vfnPCGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HHM6vfnPCGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HHM6vfnPCGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kitchen Kahaaniyan By Sunita",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-30T18:58:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1R0p2d0Hdzq0apuQe3Ip7f-6Tzw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vgfA_qa-srI"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-07T14:00:33Z",
+        "channelId": "UCnGPUGJdnj8L-P9rRtBFlwA",
+        "title": "लोरी ड्राइवर की मदद से CID टीम ने दिया एक बहुत बड़े मिशन को अंजाम | CID | New Latest Episode 2025",
+        "description": "लोरी ड्राइवर की मदद से CID टीम ने दिया एक बहुत बड़े मिशन को अंजाम | CID | New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vgfA_qa-srI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vgfA_qa-srI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vgfA_qa-srI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vgfA_qa-srI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vgfA_qa-srI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime And Mystery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-07T14:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p_1GVEZ1uzz4BzOgmLTUBY5-vO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sf1bGptAXOc"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-26T18:59:27Z",
+        "channelId": "UCAsZ8cqlGMeAig2Oud2ETRw",
+        "title": "जैव प्रक्रम - पोषण व पाचन तंत्र | Class 10 Science Chapter 5 Life Processes || Jaiv Prakram in Hindi",
+        "description": "जैव प्रक्रम - पोषण व पाचन तंत्र | Class 10 Science Chapter 5 Life Processes || Jaiv Prakram in Hindi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sf1bGptAXOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sf1bGptAXOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sf1bGptAXOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sf1bGptAXOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sf1bGptAXOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GYANODAY KE GURU JI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-26T18:59:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dfk7GMBhXZWCR-47hhsWb_eiUJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQH0_Zb_GaA"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T13:45:02Z",
+        "channelId": "UCnGPUGJdnj8L-P9rRtBFlwA",
+        "title": "दिल्ली के में पूर्वी और श्रेया ने भेष बदलकर मुजरिम पर रखी नजर | CID | Latest Episode",
+        "description": "दिल्ली के में पूर्वी और श्रेया ने भेष बदलकर मुजरिम पर रखी नजर | CID | Latest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQH0_Zb_GaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQH0_Zb_GaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQH0_Zb_GaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FQH0_Zb_GaA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FQH0_Zb_GaA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime And Mystery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T13:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RVA6xrwD7D8pdYWJYqP6XeCbF8Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8KCydbLctMk"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-09T12:42:00Z",
+        "channelId": "UCQ8JgYqsuWqTq20d3PxPC-Q",
+        "title": "गरीबी में दुख घणों पायो रे सांवरिया Sanwariya Seth Bhajan 2025",
+        "description": "मोखमपुरा / सुण सांवरा मण्डफियाँ वाला काली गाड़ी लाणी हे | प्रेमशंकर ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8KCydbLctMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8KCydbLctMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8KCydbLctMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8KCydbLctMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NTV Cassette ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-09T12:42:00Z"
+      }
+    }
+  ]
+}
