@@ -122,7 +122,7 @@ def cluster_interval(rows, clusters, field):
         totals[r[field]][1] += weight
     values = list(totals.values())
     informative = sum(den > 0 for _, den in values)
-    if informative < 2:
+    if informative < 2 or len({r["group"] for r in rows}) < 2:
         return informative, None, None
     rng = random.Random(20261121)
     shares = []

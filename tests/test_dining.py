@@ -1,3 +1,4 @@
+import json
 import sys
 import unittest
 from pathlib import Path
@@ -5,6 +6,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 from summarize_dining import eligible, estimates  # noqa: E402
+
+from mw_youtube.codebook import schema  # noqa: E402
+from mw_youtube.design import CONFIG  # noqa: E402
 
 
 class Dining(unittest.TestCase):
@@ -21,6 +25,21 @@ class Dining(unittest.TestCase):
             video_id="v1",
             channel_id="c",
         )
+
+    def test_published_schema_is_the_contributor_request_schema(self):
+        book = json.loads((CONFIG / "stall_frame_codebook_v5.json").read_text())
+        published = json.loads(
+            (CONFIG / "stall_frame_v5_response.schema.json").read_text()
+        )
+        self.assertEqual(published, schema(book))
+        self.assertEqual(book["model"], "muse-spark-1.3-contributor")
+        person = published["properties"]["sightings"]["items"]
+        self.assertFalse(person["additionalProperties"])
+        for field in book["person_fields"]:
+            self.assertIn(field, person["required"])
+            self.assertEqual(
+                person["properties"][field]["enum"], list(book["categories"][field])
+            )
 
     def test_visible_eating_vendor_host_counts_once(self):
         self.assertTrue(eligible(self.row, "bite", "everyone", "restaurant", False))
