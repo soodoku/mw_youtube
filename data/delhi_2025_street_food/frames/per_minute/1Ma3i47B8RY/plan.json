@@ -1,0 +1,136 @@
+{
+  "video_id": "1Ma3i47B8RY",
+  "seed": "20261121",
+  "duration": "1360641/1000",
+  "per_interval": 8,
+  "capture_method": "chrome",
+  "source_sha256": null,
+  "first_time": null,
+  "source": {
+    "watch_url": "https://www.youtube.com/watch?v=1Ma3i47B8RY",
+    "opened_utc": "2026-11-22T00:03:11.603712+00:00",
+    "browser_version": "157.0.8103.80"
+  },
+  "moments": [
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 396321
+    },
+    {
+      "interval": 0,
+      "rank": 2,
+      "requested_ms": 436278
+    },
+    {
+      "interval": 0,
+      "rank": 3,
+      "requested_ms": 221389
+    },
+    {
+      "interval": 0,
+      "rank": 4,
+      "requested_ms": 175295
+    },
+    {
+      "interval": 0,
+      "rank": 5,
+      "requested_ms": 204088
+    },
+    {
+      "interval": 0,
+      "rank": 6,
+      "requested_ms": 314634
+    },
+    {
+      "interval": 0,
+      "rank": 7,
+      "requested_ms": 91137
+    },
+    {
+      "interval": 0,
+      "rank": 8,
+      "requested_ms": 8314
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 659466
+    },
+    {
+      "interval": 1,
+      "rank": 2,
+      "requested_ms": 565867
+    },
+    {
+      "interval": 1,
+      "rank": 3,
+      "requested_ms": 746649
+    },
+    {
+      "interval": 1,
+      "rank": 4,
+      "requested_ms": 538987
+    },
+    {
+      "interval": 1,
+      "rank": 5,
+      "requested_ms": 544229
+    },
+    {
+      "interval": 1,
+      "rank": 6,
+      "requested_ms": 666127
+    },
+    {
+      "interval": 1,
+      "rank": 7,
+      "requested_ms": 691204
+    },
+    {
+      "interval": 1,
+      "rank": 8,
+      "requested_ms": 660775
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 1144915
+    },
+    {
+      "interval": 2,
+      "rank": 2,
+      "requested_ms": 1052733
+    },
+    {
+      "interval": 2,
+      "rank": 3,
+      "requested_ms": 1223109
+    },
+    {
+      "interval": 2,
+      "rank": 4,
+      "requested_ms": 1238780
+    },
+    {
+      "interval": 2,
+      "rank": 5,
+      "requested_ms": 994406
+    },
+    {
+      "interval": 2,
+      "rank": 6,
+      "requested_ms": 1244323
+    },
+    {
+      "interval": 2,
+      "rank": 7,
+      "requested_ms": 1255456
+    },
+    {
+      "interval": 2,
+      "rank": 8,
+      "requested_ms": 1333295
+    }
+  ]
+}

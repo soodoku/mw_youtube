@@ -1,0 +1,28 @@
+{
+  "video_id": "rj2ooA8vkVY",
+  "rank": 43,
+  "watch_url": "https://www.youtube.com/watch?v=rj2ooA8vkVY",
+  "moments": [
+    {
+      "file": "review_0.jpg",
+      "requested_s": 249.48732,
+      "displayed_s": 249.48732
+    },
+    {
+      "file": "review_1.jpg",
+      "requested_s": 706.8807400000001,
+      "displayed_s": 706.88074
+    },
+    {
+      "file": "review_2.jpg",
+      "requested_s": 1164.2741600000002,
+      "displayed_s": 1164.27416
+    },
+    {
+      "file": "review_3.jpg",
+      "requested_s": 1663.2488000000003,
+      "displayed_s": 1663.2488
+    }
+  ],
+  "browser_session": "attached_premium"
+}

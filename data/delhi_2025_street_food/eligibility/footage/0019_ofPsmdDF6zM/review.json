@@ -1,0 +1,18 @@
+{
+  "video_id": "ofPsmdDF6zM",
+  "rank": 19,
+  "watch_url": "https://www.youtube.com/watch?v=ofPsmdDF6zM",
+  "moments": [
+    {
+      "file": "review_0.jpg",
+      "requested_s": 9.01142,
+      "displayed_s": 9.01142
+    },
+    {
+      "file": "review_1.jpg",
+      "requested_s": 27.85348,
+      "displayed_s": 27.85348
+    }
+  ],
+  "browser_session": "attached_premium"
+}

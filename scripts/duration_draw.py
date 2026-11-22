@@ -45,6 +45,10 @@ def capture_upload(snapshot, root, row, get_page):
     if path.exists():
         plan = read_json(path)
         duration = Fraction(plan["duration"])
+        if plan.get("capture_method") != "chrome":
+            raise ValueError(
+                "Resume this unfinished source-file extraction in acquire_frames.py"
+            )
         if abs(float(duration) - actual) > 0.25 or (
             plan["seed"],
             plan["video_id"],

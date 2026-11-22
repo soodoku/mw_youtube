@@ -17,6 +17,7 @@ from PIL import Image
 from sample_frames import displayed_frames, draw, timeline
 from yt_dlp import YoutubeDL
 
+from mw_youtube.design import frames_per_third
 from mw_youtube.records import save
 
 MIB = 1024 * 1024
@@ -130,6 +131,8 @@ def extract(source, folder, vid, seed, n, provenance, reserve):
     dest = folder / "plan.json"
     if dest.exists():
         plan = json.loads(dest.read_text())
+        if n is None:
+            n = frames_per_third(Fraction(plan["duration"]))
         if (
             plan["video_id"],
             plan["seed"],
@@ -142,6 +145,8 @@ def extract(source, folder, vid, seed, n, provenance, reserve):
         first = Fraction(plan["first_time"])
     else:
         first, end, base = timeline(source)
+        if n is None:
+            n = frames_per_third(end - first)
         plan = dict(
             video_id=vid,
             seed=seed,
@@ -187,6 +192,8 @@ def browser_extract(folder, vid, seed, n, api_duration, reserve):
 
     with player() as page:
         duration = watch(page, vid, duration_seconds(api_duration))
+        if n is None:
+            n = frames_per_third(Fraction(str(duration)))
         dest = folder / "plan.json"
         if dest.exists():
             plan = json.loads(dest.read_text())
@@ -257,12 +264,12 @@ def run(
     out,
     local=None,
     seed="20261121",
-    n=2,
+    n=None,
     cap=DEFAULT_CAP,
     reserve=DEFAULT_RESERVE,
     allow_yt_dlp=False,
 ):
-    if n < 1 or cap < 1 or reserve < 0:
+    if (n is not None and n < 1) or cap < 1 or reserve < 0:
         raise ValueError("Invalid sampling or disk limits")
     with manifest.open(newline="", encoding="utf8") as f:
         selected = list(csv.DictReader(f))
@@ -326,10 +333,15 @@ def run(
                                 if not (folder / r["file"]).exists():
                                     (rebuild / r["file"]).replace(folder / r["file"])
                     plan = verify(folder)
+                    expected = (
+                        n
+                        if n is not None
+                        else frames_per_third(Fraction(plan["duration"]))
+                    )
                     if (plan["video_id"], plan["seed"], plan["per_interval"]) != (
                         vid,
                         seed,
-                        n,
+                        expected,
                     ):
                         raise ValueError(
                             "Completed sample has different parameters; use a new output"
@@ -380,7 +392,9 @@ if __name__ == "__main__":
         help="Explicitly use the unofficial downloader",
     )
     parser.add_argument("--seed", default="20261121")
-    parser.add_argument("--per-interval", type=int, default=2)
+    parser.add_argument(
+        "--per-interval", type=int, help="Override the duration-based draws per third"
+    )
     parser.add_argument("--max-video-mib", type=int, default=256)
     parser.add_argument("--reserve-mib", type=int, default=1024)
     args = parser.parse_args()

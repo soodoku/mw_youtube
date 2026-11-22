@@ -1,0 +1,30 @@
+{
+  "codebook_sha256": "8606101602428f5c09019d405d3635d840e0ceba21f1f54db316cf2545e2aa99",
+  "frames": [
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 5737,
+      "sha256": "727c00aa6b800d4902aadac9d6732f23b57b7751a9984b0e2d5a9ef89fe3412e",
+      "jpeg": "i0_r1.jpg",
+      "video_id": "Aatsl5K8D_4"
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 60224,
+      "sha256": "1fbab1ffe38bed118e736904483ae4d321edcd71fb3e2a3219ea94c8cb1872e7",
+      "jpeg": "i1_r1.jpg",
+      "video_id": "Aatsl5K8D_4"
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 117979,
+      "sha256": "ffc76602511fafa67ae45ca7657d46fc218ae2d877a3dd1e474cfdcd47883c75",
+      "jpeg": "i2_r1.jpg",
+      "video_id": "Aatsl5K8D_4"
+    }
+  ],
+  "video_context_sha256": "8da68b96af21ec14cfc98a80bd91303bce57d9756bb1bc1753e92391f79f5a25"
+}

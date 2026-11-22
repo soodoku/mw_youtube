@@ -1,0 +1,7 @@
+video_id,interval,rank,requested_ms,jpeg,sha256,setting,shot,service_area,quality,n_enumerated,evidence,reviewer,review_date
+0wKj4ul600U,0,1,4952,i0_r1.jpg,cb0b758341714701e85bda10d6c26cec54d99a8fd415b5fab3e01ce5fdf9e0fc,,,,,,,,
+0wKj4ul600U,0,2,14427,i0_r2.jpg,0f18f1bf29f37185a14f5527d65664e635e87579ee039c87254548b388151b8b,,,,,,,,
+0wKj4ul600U,1,1,108240,i1_r1.jpg,e3a1ac60a5c5e316c0fca22f872960458c862b524b940046bc94b6ef0b6a41a3,,,,,,,,
+0wKj4ul600U,1,2,141746,i1_r2.jpg,1b4c5d869d2a8860f486b183cf18dfe2b14b4d9cf3715fccd2a78b5c191574bc,,,,,,,,
+0wKj4ul600U,2,2,237025,i2_r2.jpg,fcd66acd3efe87b3e0319af9ee0e6da740ec371aefe4a230defb353ac2e22745,,,,,,,,
+0wKj4ul600U,2,1,251544,i2_r1.jpg,2c2b7b81d6e8ea4c813645fbffc32d6c49b8ba7a8121b9ffd0fab2d26de1bfd9,,,,,,,,

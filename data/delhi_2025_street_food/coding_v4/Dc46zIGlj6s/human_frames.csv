@@ -1,0 +1,4 @@
+video_id,interval,rank,requested_ms,jpeg,sha256,setting,shot,service_area,quality,n_enumerated,evidence,reviewer,review_date
+Dc46zIGlj6s,0,1,13000,i0_r1.jpg,3a32f84591750ae5b0e928f349bc82c2c9315e246f01623979ed3655beb0c27a,,,,,,,,
+Dc46zIGlj6s,1,1,38103,i1_r1.jpg,f30009f4b579d0f1de4034154523fedbf4fb8bdab71eeba09c3508552a428fd5,,,,,,,,
+Dc46zIGlj6s,2,1,50633,i2_r1.jpg,43a03eeea2570af34fb79af8f6671c0c3eb850296dfe6da5846706e842309034,,,,,,,,

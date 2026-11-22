@@ -1,0 +1,204 @@
+{
+  "finished_utc": "2026-11-22T00:11:21.264186+00:00",
+  "plan_sha256": "0b914531d7fcdd287255d3a348772150ba86158a3511a13904ca725f122bc387",
+  "frames": [
+    {
+      "interval": 0,
+      "rank": 5,
+      "requested_ms": 28017,
+      "file": "i0_r5.jpg",
+      "sha256": "133ae3be7afc46ad2e246e18b6ddd1ea624e77e95585a19507d1c1fa6062b789",
+      "player_time_s": 28.017,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 0,
+      "rank": 2,
+      "requested_ms": 97976,
+      "file": "i0_r2.jpg",
+      "sha256": "0d2a7efe5b95908f9119d199a2bda550dda3837f02f2d7202a2dca9650062894",
+      "player_time_s": 97.976,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 0,
+      "rank": 6,
+      "requested_ms": 170869,
+      "file": "i0_r6.jpg",
+      "sha256": "ee7cc40cde5a881cee2e4236262351ef449ce7ca81efd0d56d486e188412da3f",
+      "player_time_s": 170.869,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 0,
+      "rank": 3,
+      "requested_ms": 244072,
+      "file": "i0_r3.jpg",
+      "sha256": "59fab061a3ce848f037390432ef2e2d21c866313e695d5bad4452bf1868de7c4",
+      "player_time_s": 244.072,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 0,
+      "rank": 4,
+      "requested_ms": 245158,
+      "file": "i0_r4.jpg",
+      "sha256": "2d1aa150a56259028fb827511d9ce41146551852494dd45a116ff8cf27226d58",
+      "player_time_s": 245.158,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 334521,
+      "file": "i0_r1.jpg",
+      "sha256": "fbd2ca2c42795d13314d57c856cf823f05457ce98d53aad21d0d413daea50042",
+      "player_time_s": 334.521,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 4,
+      "requested_ms": 357085,
+      "file": "i1_r4.jpg",
+      "sha256": "35e9ba37b72fc2ea4cdc1f7c72fcba1a0855e9fce363fc5ad9c1a82e00cfa720",
+      "player_time_s": 357.085,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 3,
+      "requested_ms": 391678,
+      "file": "i1_r3.jpg",
+      "sha256": "0334dbbaa73afb107fdb8a0e1edee9a90f4c213270761ed9f92d9401cd81368a",
+      "player_time_s": 391.678,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 5,
+      "requested_ms": 415846,
+      "file": "i1_r5.jpg",
+      "sha256": "f1c0d648fb01cb828fa0206b68542a6f63a633fa36578283d00b3f78d4876530",
+      "player_time_s": 415.846,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 6,
+      "requested_ms": 534738,
+      "file": "i1_r6.jpg",
+      "sha256": "bc046654327c02ff9beb53389620c8eefe491c5c23e0e7a5441ef172c87fbae3",
+      "player_time_s": 534.738,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 598092,
+      "file": "i1_r1.jpg",
+      "sha256": "54104ce26f5c56420cd27a86ddb5fc7f439a4441ea2596ab004bcc1fdd8be12d",
+      "player_time_s": 598.092,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 2,
+      "requested_ms": 663618,
+      "file": "i1_r2.jpg",
+      "sha256": "6fb575ca0dfa80fd66183e53e51cb1fbcd6742e516159b2234d2e38aa56fd456",
+      "player_time_s": 663.618,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 5,
+      "requested_ms": 722645,
+      "file": "i2_r5.jpg",
+      "sha256": "309ceb13a11f04dd9557c6505263cc60cfe007885a5e14667bde0dd60349ef59",
+      "player_time_s": 722.645,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 3,
+      "requested_ms": 727217,
+      "file": "i2_r3.jpg",
+      "sha256": "913806e92bfdca35dd7f7ee8c653aa264b8383eec1603aa71194b0779a5bb28a",
+      "player_time_s": 727.217,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 2,
+      "requested_ms": 851360,
+      "file": "i2_r2.jpg",
+      "sha256": "6b45d9326c7900d9fa0c7d355007f0783d12932d1e1998f88dcc8c7b2bcce134",
+      "player_time_s": 851.36,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 4,
+      "requested_ms": 961095,
+      "file": "i2_r4.jpg",
+      "sha256": "cb60e46066c1f2e2bba36c5247a2320a630a830d5b0b558025827e0c3fd5e137",
+      "player_time_s": 961.095,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 968306,
+      "file": "i2_r1.jpg",
+      "sha256": "951e28bf8794328fa9a1700849a015607df38a625d5d612ee223e66525bd5a37",
+      "player_time_s": 968.306,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 6,
+      "requested_ms": 1002190,
+      "file": "i2_r6.jpg",
+      "sha256": "8b2bb19969227c7b59411c99aa05f204b951e4d87d8f93b3ad835b4e2fe0025b",
+      "player_time_s": 1002.19,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    }
+  ]
+}

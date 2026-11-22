@@ -1,0 +1,23 @@
+{
+  "video_id": "FPzsT5Uv-AA",
+  "rank": 15,
+  "watch_url": "https://www.youtube.com/watch?v=FPzsT5Uv-AA",
+  "moments": [
+    {
+      "file": "review_0.jpg",
+      "requested_s": 123.51246,
+      "displayed_s": 123.51246
+    },
+    {
+      "file": "review_1.jpg",
+      "requested_s": 885.17263,
+      "displayed_s": 885.17263
+    },
+    {
+      "file": "review_2.jpg",
+      "requested_s": 1832.1014900000002,
+      "displayed_s": 1832.10149
+    }
+  ],
+  "browser_session": "attached_premium"
+}

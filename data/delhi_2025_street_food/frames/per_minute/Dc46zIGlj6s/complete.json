@@ -1,0 +1,39 @@
+{
+  "finished_utc": "2026-11-22T00:03:04.268821+00:00",
+  "plan_sha256": "8f776e36ee6a507b397266c780e94e124ecbe1cb85034e20e53f2a10d5c63601",
+  "frames": [
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 13000,
+      "file": "i0_r1.jpg",
+      "sha256": "3a32f84591750ae5b0e928f349bc82c2c9315e246f01623979ed3655beb0c27a",
+      "player_time_s": 13,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 38103,
+      "file": "i1_r1.jpg",
+      "sha256": "f30009f4b579d0f1de4034154523fedbf4fb8bdab71eeba09c3508552a428fd5",
+      "player_time_s": 38.103,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 50633,
+      "file": "i2_r1.jpg",
+      "sha256": "43a03eeea2570af34fb79af8f6671c0c3eb850296dfe6da5846706e842309034",
+      "player_time_s": 50.633,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    }
+  ]
+}

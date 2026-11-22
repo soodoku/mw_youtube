@@ -1,0 +1,166 @@
+{
+  "video_id": "de03n6vaxsU",
+  "seed": "20261121",
+  "duration": "1867601/1000",
+  "per_interval": 10,
+  "capture_method": "chrome",
+  "source_sha256": null,
+  "first_time": null,
+  "source": {
+    "watch_url": "https://www.youtube.com/watch?v=de03n6vaxsU",
+    "opened_utc": "2026-11-22T00:21:35.393794+00:00",
+    "browser_version": "157.0.8103.80"
+  },
+  "moments": [
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 193462
+    },
+    {
+      "interval": 0,
+      "rank": 2,
+      "requested_ms": 297564
+    },
+    {
+      "interval": 0,
+      "rank": 3,
+      "requested_ms": 517926
+    },
+    {
+      "interval": 0,
+      "rank": 4,
+      "requested_ms": 408946
+    },
+    {
+      "interval": 0,
+      "rank": 5,
+      "requested_ms": 123568
+    },
+    {
+      "interval": 0,
+      "rank": 6,
+      "requested_ms": 541543
+    },
+    {
+      "interval": 0,
+      "rank": 7,
+      "requested_ms": 395376
+    },
+    {
+      "interval": 0,
+      "rank": 8,
+      "requested_ms": 359217
+    },
+    {
+      "interval": 0,
+      "rank": 9,
+      "requested_ms": 75498
+    },
+    {
+      "interval": 0,
+      "rank": 10,
+      "requested_ms": 74886
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 817976
+    },
+    {
+      "interval": 1,
+      "rank": 2,
+      "requested_ms": 700431
+    },
+    {
+      "interval": 1,
+      "rank": 3,
+      "requested_ms": 1068775
+    },
+    {
+      "interval": 1,
+      "rank": 4,
+      "requested_ms": 709077
+    },
+    {
+      "interval": 1,
+      "rank": 5,
+      "requested_ms": 858842
+    },
+    {
+      "interval": 1,
+      "rank": 6,
+      "requested_ms": 1074128
+    },
+    {
+      "interval": 1,
+      "rank": 7,
+      "requested_ms": 787141
+    },
+    {
+      "interval": 1,
+      "rank": 8,
+      "requested_ms": 954232
+    },
+    {
+      "interval": 1,
+      "rank": 9,
+      "requested_ms": 717917
+    },
+    {
+      "interval": 1,
+      "rank": 10,
+      "requested_ms": 789705
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 1756733
+    },
+    {
+      "interval": 2,
+      "rank": 2,
+      "requested_ms": 1737574
+    },
+    {
+      "interval": 2,
+      "rank": 3,
+      "requested_ms": 1673354
+    },
+    {
+      "interval": 2,
+      "rank": 4,
+      "requested_ms": 1727112
+    },
+    {
+      "interval": 2,
+      "rank": 5,
+      "requested_ms": 1859639
+    },
+    {
+      "interval": 2,
+      "rank": 6,
+      "requested_ms": 1866951
+    },
+    {
+      "interval": 2,
+      "rank": 7,
+      "requested_ms": 1588183
+    },
+    {
+      "interval": 2,
+      "rank": 8,
+      "requested_ms": 1528608
+    },
+    {
+      "interval": 2,
+      "rank": 9,
+      "requested_ms": 1453995
+    },
+    {
+      "interval": 2,
+      "rank": 10,
+      "requested_ms": 1542736
+    }
+  ]
+}

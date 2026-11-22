@@ -1,0 +1,246 @@
+{
+  "codebook_sha256": "8606101602428f5c09019d405d3635d840e0ceba21f1f54db316cf2545e2aa99",
+  "frames": [
+    {
+      "interval": 0,
+      "rank": 6,
+      "requested_ms": 56455,
+      "sha256": "29c1f3ccaf540bae2ace222090c405753e34402feeda2b5db74b8fa6d87e0e58",
+      "jpeg": "i0_r6.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 7,
+      "requested_ms": 85587,
+      "sha256": "79737ad1d4541ea5cc0b2fd25d5ed4d627bbc93cdb5b64aa27047c3ebedaa37b",
+      "jpeg": "i0_r7.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 8,
+      "requested_ms": 150776,
+      "sha256": "6699fbdfd6a73bbd4bfe75807d689c225b7a1fd4a2e99706d5a80ece13bd0843",
+      "jpeg": "i0_r8.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 9,
+      "requested_ms": 156210,
+      "sha256": "5d26497c160eb269e2ba2339412b09dcd65880eaadfffc4b57f081d54eda82ba",
+      "jpeg": "i0_r9.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 5,
+      "requested_ms": 241035,
+      "sha256": "adbb4837cfe2312f5861f1fd1a005e5911d08441ba5eb718a5d1c11b38ecd1e2",
+      "jpeg": "i0_r5.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 247006,
+      "sha256": "b72137a9dd2313ef539d005fd1b678ff8b0da0d8ee01a059125b551930b86b19",
+      "jpeg": "i0_r1.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 2,
+      "requested_ms": 364319,
+      "sha256": "8de2f349f88d80941e18fa0cbdd32fbbd5253df791b9080d3d06b5433dd57447",
+      "jpeg": "i0_r2.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 10,
+      "requested_ms": 391694,
+      "sha256": "f38bd83c1d9fe1542af8597d320608816bbebe07ce8c669909630b8df78dd3e3",
+      "jpeg": "i0_r10.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 3,
+      "requested_ms": 437607,
+      "sha256": "3b702a4693f34b07dd6cf8c2e4369f4d39b5455011281a1e8c9e2114e980f990",
+      "jpeg": "i0_r3.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 0,
+      "rank": 4,
+      "requested_ms": 652406,
+      "sha256": "ee9b89e7d87af7179c3e6c7c9389fe2c7a6ec7f159c73ccc93a294164214aa30",
+      "jpeg": "i0_r4.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 6,
+      "requested_ms": 744761,
+      "sha256": "58c9dca6ed1bf7a2750d2b7cbe60c39c9549b46f92b0b028aaabfffd4fcd4656",
+      "jpeg": "i1_r6.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 8,
+      "requested_ms": 906807,
+      "sha256": "96dcd8d33edad4e3375ca2a538ef4c9a941f595cf39747b7f8dcb3990c7e45cf",
+      "jpeg": "i1_r8.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 4,
+      "requested_ms": 923564,
+      "sha256": "a94a7af59a6e5a308642a40a28b5744a67069b84a525a63f46ca34f33b777c0f",
+      "jpeg": "i1_r4.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 1012004,
+      "sha256": "d5766581af5b7fc21fd3e1b3eb40953610e39513f37cc7ce161e22ef22f8a45c",
+      "jpeg": "i1_r1.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 2,
+      "requested_ms": 1124813,
+      "sha256": "3a82e5f7dc882c99fcca93b2ca2884fce8585b3d262cb7549b348768c6a25a50",
+      "jpeg": "i1_r2.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 3,
+      "requested_ms": 1185849,
+      "sha256": "4b4e338e708ce69af9be05ea4412899324f891e301e115aeac053df685cc8043",
+      "jpeg": "i1_r3.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 9,
+      "requested_ms": 1283400,
+      "sha256": "6ca8ee3db86dc55672983fbcabaccdfaf6cf3a66b6b30102f9591d1d6ac989b4",
+      "jpeg": "i1_r9.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 7,
+      "requested_ms": 1312686,
+      "sha256": "2024772f68ca85e5da04a38a31a166111fa6e2616baa93738cd3f799b92fa862",
+      "jpeg": "i1_r7.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 5,
+      "requested_ms": 1313777,
+      "sha256": "b27fac88f69b6618db51cc6ceb44c45ed79dc0e35e3debf061a63fe512df47d3",
+      "jpeg": "i1_r5.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 1,
+      "rank": 10,
+      "requested_ms": 1359476,
+      "sha256": "7cf4c32bec8021438565f19cf6542e66bcd53280d09a49ade26849ecc321fe23",
+      "jpeg": "i1_r10.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 3,
+      "requested_ms": 1391988,
+      "sha256": "ba0a25b7d16fdc6df69451aea12078b97f67e3f7083da79bbb0741687acb56c3",
+      "jpeg": "i2_r3.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 8,
+      "requested_ms": 1427257,
+      "sha256": "4768cd8b1be02faaafd18525c62161ecbbf1da2c858b89208635760b2c8ac296",
+      "jpeg": "i2_r8.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 2,
+      "requested_ms": 1544265,
+      "sha256": "70ab7e892ec39080fdc1828e14c6d0c03dedaa02579397e0662726e6ed556a3a",
+      "jpeg": "i2_r2.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 10,
+      "requested_ms": 1605372,
+      "sha256": "d3643af3ba78cfad4f2b3e61239aaea27f401f3b2bde228c384632a7f0968a14",
+      "jpeg": "i2_r10.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 6,
+      "requested_ms": 1610113,
+      "sha256": "d5d67c94f7f78590f263c566a2c1623a9db950908e0ccf2cd1ee1219a74b5ee8",
+      "jpeg": "i2_r6.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 4,
+      "requested_ms": 1714084,
+      "sha256": "34f88df41e84a42bb9997c0e9d3a17f8f5e906ddac533346887e6273aa3d7527",
+      "jpeg": "i2_r4.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 1757269,
+      "sha256": "a39fc5d6c720cd9a58dbeeb8991ad5298ab541ba81119f8869ab0b3d52127e97",
+      "jpeg": "i2_r1.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 7,
+      "requested_ms": 1859437,
+      "sha256": "44bb87a0fa7c34c4c8739a471dd82d14853aadd8acb4f6195a08223d895edaa5",
+      "jpeg": "i2_r7.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 5,
+      "requested_ms": 1894905,
+      "sha256": "ebe7619487d20d1d1b8435d3da507e13ac4a624159e79e0ccc695dded3544343",
+      "jpeg": "i2_r5.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    },
+    {
+      "interval": 2,
+      "rank": 9,
+      "requested_ms": 1971709,
+      "sha256": "43aea425c58cf41f78f0faa6d4b4c54826d3be180bace8f3209a6d43053e1f08",
+      "jpeg": "i2_r9.jpg",
+      "video_id": "FPzsT5Uv-AA"
+    }
+  ],
+  "video_context_sha256": "261858378a7fbd36ae00856d09053693530055f1c4c63ae42c20b2148de0f087"
+}

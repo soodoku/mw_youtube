@@ -112,7 +112,14 @@ def run(snapshot, target, draw, cap=None, local=None, use_download=False):
                     if local
                     else ["--allow-yt-dlp"] if use_download else []
                 )
-                command("acquire_frames.py", one, snapshot / "frames", *source)
+                command(
+                    "acquire_frames.py",
+                    one,
+                    snapshot / "frames",
+                    "--per-interval",
+                    2,
+                    *source,
+                )
             command("prepare_frame_review.py", folder, coding)
             status["prepared"].append(vid)
             update()

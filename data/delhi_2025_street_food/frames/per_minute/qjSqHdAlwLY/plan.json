@@ -1,0 +1,31 @@
+{
+  "video_id": "qjSqHdAlwLY",
+  "seed": "20261121",
+  "duration": "28421/1000",
+  "per_interval": 1,
+  "capture_method": "chrome",
+  "source_sha256": null,
+  "first_time": null,
+  "source": {
+    "watch_url": "https://www.youtube.com/watch?v=qjSqHdAlwLY",
+    "opened_utc": "2026-11-22T00:18:20.957006+00:00",
+    "browser_version": "157.0.8103.80"
+  },
+  "moments": [
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 534
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 14915
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 19939
+    }
+  ]
+}

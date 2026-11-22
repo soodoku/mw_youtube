@@ -1,0 +1,13 @@
+video_id,interval,rank,requested_ms,jpeg,sha256,setting,shot,service_area,quality,n_enumerated,evidence,reviewer,review_date
+ZmBfCcLxi2c,0,2,38406,i0_r2.jpg,5a9be883f39f15ad4ec596f7ca92b3ced3f11a0852aaca8a401fc90524d24558,,,,,,,,
+ZmBfCcLxi2c,0,3,53650,i0_r3.jpg,1350a34770f4044701cfe243e4e22751f0aa8b00cafba44347c45260ed8e978a,,,,,,,,
+ZmBfCcLxi2c,0,1,111955,i0_r1.jpg,d49e2a9e101790b21359da8eb27b9a6837142c01d057c88f3096833f1c7884b9,,,,,,,,
+ZmBfCcLxi2c,0,4,162110,i0_r4.jpg,6409c2d2e2a534cb64a1d3f28b44cb8b411e9a2a0b2fdb1b52da316e85d5bf7d,,,,,,,,
+ZmBfCcLxi2c,1,4,215138,i1_r4.jpg,a23200bac5114f27ec2f799e9b62ce4d84ba31e170c3a0985ec219c6911ad350,,,,,,,,
+ZmBfCcLxi2c,1,1,254993,i1_r1.jpg,877fa11696fb3e851e7c640ba87f9cd74a6bb4a11cedd5c390fea6e7f160bcdf,,,,,,,,
+ZmBfCcLxi2c,1,3,255479,i1_r3.jpg,d6db59d1bcee718c79ec06e6a7b01f84b0e944aaa2e529324311d1e795b0f95f,,,,,,,,
+ZmBfCcLxi2c,1,2,329205,i1_r2.jpg,fffa9b9eec16d94030021bae082e7f775cfbadbaa710ec614532dd81d9333155,,,,,,,,
+ZmBfCcLxi2c,2,4,408577,i2_r4.jpg,0b27062607bb600e68be0a76c515152605d38aea6d61b2c8ab5b9b085523459f,,,,,,,,
+ZmBfCcLxi2c,2,1,450720,i2_r1.jpg,3dc53e5bfa8842d93b57142ba5bcf91aebe79400bd4e3e12afdca95b0ec613cd,,,,,,,,
+ZmBfCcLxi2c,2,2,533588,i2_r2.jpg,ffcf49a78e77a757edb923fef8cafde37b383b55aa6015c3d8d10c86ffc6a2b7,,,,,,,,
+ZmBfCcLxi2c,2,3,550542,i2_r3.jpg,67a0f72029c4a54c216dab72dbf1f751358bce2c3e4743b44325d9d144443b60,,,,,,,,

@@ -2,7 +2,7 @@
 
 This study counts people visibly working at or using food stalls in sampled videos. The first collection covers uploads published in 2025 about Delhi. The city, topic, language and publication period determine which searches run. Each video found by those searches receives one place in the draw.
 
-[Study design and stage contracts](DESIGN.md) · [Pilot frame data](data/delhi_2025_street_food/analysis/pilot1/muse/delhi_2025_street_food_pilot1_muse_frames.csv) · [Discovery phrases and ranks](data/delhi_2025_street_food/analysis/pilot1/muse/delhi_2025_street_food_pilot1_muse_discovery_hits.csv)
+[Delhi 30-video sample](data/delhi_2025_street_food/selected_30.csv) · [450 sampled moments](data/delhi_2025_street_food/analysis/delhi30_per_minute/muse/delhi_2025_street_food_delhi30_per_minute_muse_frames.csv) · [Study design and stage contracts](DESIGN.md) · [Pilot frame data](data/delhi_2025_street_food/analysis/pilot1/muse/delhi_2025_street_food_pilot1_muse_frames.csv) · [Discovery phrases and ranks](data/delhi_2025_street_food/analysis/pilot1/muse/delhi_2025_street_food_pilot1_muse_discovery_hits.csv)
 
 ## Use from Python
 

@@ -1,0 +1,72 @@
+{
+  "finished_utc": "2026-11-22T00:08:22.418250+00:00",
+  "plan_sha256": "31258b2590aa4e960e4ac7845cf12ecdc2824b8364c8e934b5709fbe8f72b985",
+  "frames": [
+    {
+      "interval": 0,
+      "rank": 1,
+      "requested_ms": 4952,
+      "file": "i0_r1.jpg",
+      "sha256": "cb0b758341714701e85bda10d6c26cec54d99a8fd415b5fab3e01ce5fdf9e0fc",
+      "player_time_s": 4.952,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 0,
+      "rank": 2,
+      "requested_ms": 14427,
+      "file": "i0_r2.jpg",
+      "sha256": "0f18f1bf29f37185a14f5527d65664e635e87579ee039c87254548b388151b8b",
+      "player_time_s": 14.427,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 1,
+      "requested_ms": 108240,
+      "file": "i1_r1.jpg",
+      "sha256": "e3a1ac60a5c5e316c0fca22f872960458c862b524b940046bc94b6ef0b6a41a3",
+      "player_time_s": 108.24,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 1,
+      "rank": 2,
+      "requested_ms": 141746,
+      "file": "i1_r2.jpg",
+      "sha256": "1b4c5d869d2a8860f486b183cf18dfe2b14b4d9cf3715fccd2a78b5c191574bc",
+      "player_time_s": 141.746,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 2,
+      "requested_ms": 237025,
+      "file": "i2_r2.jpg",
+      "sha256": "fcd66acd3efe87b3e0319af9ee0e6da740ec371aefe4a230defb353ac2e22745",
+      "player_time_s": 237.025,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    },
+    {
+      "interval": 2,
+      "rank": 1,
+      "requested_ms": 251544,
+      "file": "i2_r1.jpg",
+      "sha256": "2c2b7b81d6e8ea4c813645fbffc32d6c49b8ba7a8121b9ffd0fab2d26de1bfd9",
+      "player_time_s": 251.544,
+      "pts": null,
+      "time_base": null,
+      "browser_session": "attached_premium"
+    }
+  ]
+}
