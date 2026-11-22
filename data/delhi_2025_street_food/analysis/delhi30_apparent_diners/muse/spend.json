@@ -1,0 +1,9 @@
+{
+  "model": "muse-spark-1.3-contributor",
+  "frames_total": 450,
+  "nonempty_frames_coded": 366,
+  "meal_usage_usd": 0.181303228,
+  "cumulative_usage_usd": 0.46692501200000003,
+  "cumulative_bound_usd": 0.5537095000000001,
+  "cap_usd": 1.0
+}
