@@ -188,3 +188,4 @@ data/**/.eligibility.lock
 
 # Local versioned review packets and API caches. Joined annotations are published.
 data/**/coding_v5/
+data/**/coding_apparent_diners/

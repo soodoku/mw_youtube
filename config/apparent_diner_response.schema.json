@@ -1,0 +1,51 @@
+{
+  "type": "object",
+  "properties": {
+    "sightings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "person_id": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "meal_evidence": {
+            "type": "string",
+            "enum": [
+              "visibly_eating",
+              "own_food_in_hand",
+              "own_food_in_front",
+              "shared_food",
+              "beverage_only",
+              "no_meal",
+              "uncertain"
+            ]
+          },
+          "dining_venue": {
+            "type": "string",
+            "enum": [
+              "food_venue",
+              "uncertain",
+              "elsewhere"
+            ]
+          },
+          "meal_cue": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "person_id",
+          "meal_evidence",
+          "dining_venue",
+          "meal_cue"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "sightings"
+  ],
+  "additionalProperties": false
+}

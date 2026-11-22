@@ -18,6 +18,14 @@ DINING = {
     "bite_or_sip": {"eating_food", "drinking"},
     "meal": {"eating_food", "drinking", "between_bites"},
 }
+FOOD = {"visibly_eating", "own_food_in_hand", "own_food_in_front", "shared_food"}
+APPARENT = {
+    "apparent_diner": (FOOD, {"food_venue"}),
+    "including_uncertain_venue": (FOOD, {"food_venue", "uncertain"}),
+    "apparent_diner_anywhere": (FOOD, {"food_venue", "uncertain", "elsewhere"}),
+    "including_personal_drinks": (FOOD | {"beverage_only"}, {"food_venue"}),
+}
+
 CONTEXT = (
     "video_id",
     "channel_id",
@@ -89,7 +97,11 @@ def load_draw(design, coding):
 def eligible(row, population, roles, venue, complete):
     if complete and row["quality"] != "countable":
         return False
-    if population != "all_visible" and (
+    if population in APPARENT:
+        food, venues = APPARENT[population]
+        if row["meal_evidence"] not in food or row["dining_venue"] not in venues:
+            return False
+    elif population != "all_visible" and (
         row["at_venue"] != "yes"
         or row["setting"] not in VENUES
         or row["consumption"] not in DINING[population]

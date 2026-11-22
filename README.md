@@ -1,8 +1,10 @@
 # Who appears in Delhi street-food videos?
 
+The main dining measure counts anyone visibly eating or holding their own serving, sitting or standing with it in front of them, or sharing a meal. See the [revised Muse prompt](config/apparent_diner.json) and its [strict response schema](config/apparent_diner_response.schema.json).
+
 Women accounted for **16.1% of the people whose apparent gender Muse could classify** in 450 randomly sampled frames from 30 Delhi street-food videos published in 2025. Among people Muse coded as taking a bite at a stall or restaurant, the estimate was **21.3%**. That second figure rests on just 15 sightings across 10 videos. The sample tells us considerably more about who appears on camera than about who eats at these establishments.
 
-## Who was eating?
+## Earlier visible-bite measure
 
 A bite requires food or a loaded utensil reaching the mouth, or food visible in the mouth. A person holding a plate, working behind a counter, or waiting to order can appear in the overall count without entering the bite count. The broader meal measure includes drinking and people visibly eating a served meal between bites.
 

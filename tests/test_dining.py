@@ -41,6 +41,26 @@ class Dining(unittest.TestCase):
                 person["properties"][field]["enum"], list(book["categories"][field])
             )
 
+    def test_personal_plate_includes_diners_between_bites(self):
+        row = dict(
+            self.row,
+            consumption="none",
+            meal_evidence="own_food_in_front",
+            dining_venue="food_venue",
+        )
+        self.assertTrue(eligible(row, "apparent_diner", "everyone", "all", False))
+        self.assertFalse(eligible(row, "apparent_diner", "exclude_both", "all", False))
+        row["meal_evidence"] = "beverage_only"
+        self.assertFalse(eligible(row, "apparent_diner", "everyone", "all", False))
+        self.assertTrue(
+            eligible(row, "including_personal_drinks", "everyone", "all", False)
+        )
+        row.update(meal_evidence="shared_food", dining_venue="uncertain")
+        self.assertFalse(eligible(row, "apparent_diner", "everyone", "all", False))
+        self.assertTrue(
+            eligible(row, "apparent_diner_anywhere", "everyone", "all", False)
+        )
+
     def test_visible_eating_vendor_host_counts_once(self):
         self.assertTrue(eligible(self.row, "bite", "everyone", "restaurant", False))
         for role in ("exclude_both", "exclude_vendors", "exclude_hosts"):
