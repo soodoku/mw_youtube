@@ -5,7 +5,7 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
-from mw_youtube.codebook import book_sha
+from mw_youtube.codebook import book_sha, frozen_context
 from mw_youtube.counts import GROUPS, summarize
 from mw_youtube.records import META, read, table
 
@@ -19,6 +19,7 @@ def run(folder, coder):
         {k: str(r[k]) for k in META} for r in manifest["frames"]
     ] != [{k: r[k] for k in META} for r in frames]:
         raise ValueError("Coding rows differ from the review manifest")
+    frozen_context(folder, manifest, frames[0]["video_id"], archived)
     detail = summarize(frames, people, archived)
     table(folder / (coder + "_frame_counts.csv"), detail, list(detail[0]))
     grouped = defaultdict(list)

@@ -6,10 +6,16 @@ from .records import KEY
 SCOPES = {
     "all_visible": None,
     "all_at_stall": None,
-    "linked_including_unclear": {"worker", "patron", "unclear"},
-    "worker_and_patron": {"worker", "patron"},
-    "worker": {"worker"},
+    "linked_including_unclear": {"worker", "vendor", "patron", "unclear"},
+    "worker_and_patron": {"worker", "vendor", "patron"},
+    "worker": {"worker", "vendor"},
     "patron": {"patron"},
+}
+HOST_SCOPES = {
+    "vendor": {"vendor"},
+    "apparent_host": None,
+    "worker_and_patron_without_apparent_hosts": {"vendor", "patron"},
+    "worker_and_patron_confirmed_nonhosts": {"vendor", "patron"},
 }
 GROUPS = {
     "n_women": "woman",
@@ -43,11 +49,28 @@ def summarize(frames, people, book=BOOK):
             },
             book,
         )
-        for scope, roles in SCOPES.items():
-            included = scope == "all_visible" or f["setting"] == "street_stall"
-            counts = Counter(
-                p["group"] for p in members if roles is None or p["role"] in roles
+        scopes = (
+            {**SCOPES, **HOST_SCOPES}
+            if "host_status" in book["person_fields"]
+            else SCOPES
+        )
+        for scope, roles in scopes.items():
+            included = (
+                scope in {"all_visible", "apparent_host"}
+                or f["setting"] == "street_stall"
             )
+            population = [p for p in members if roles is None or p["role"] in roles]
+            if scope == "apparent_host":
+                population = [
+                    p for p in population if p["host_status"] == "apparent_host"
+                ]
+            elif scope == "worker_and_patron_without_apparent_hosts":
+                population = [
+                    p for p in population if p["host_status"] != "apparent_host"
+                ]
+            elif scope == "worker_and_patron_confirmed_nonhosts":
+                population = [p for p in population if p["host_status"] == "not_host"]
+            counts = Counter(p["group"] for p in population)
             reportable = included and f["quality"] == "countable"
             row = {k: f[k] for k in KEY}
             row.update(

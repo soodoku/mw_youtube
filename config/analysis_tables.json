@@ -97,6 +97,28 @@
         "primary_n_age_unclear": "integer",
         "primary_n_classified": "integer",
         "draw": "string"
+      },
+      "v4_fields": {
+        "vendor_n_women": "integer",
+        "vendor_n_men": "integer",
+        "vendor_n_gender_unclear": "integer",
+        "vendor_n_younger_child": "integer",
+        "vendor_n_age_unclear": "integer",
+        "apparent_host_n_women": "integer",
+        "apparent_host_n_men": "integer",
+        "apparent_host_n_gender_unclear": "integer",
+        "apparent_host_n_younger_child": "integer",
+        "apparent_host_n_age_unclear": "integer",
+        "worker_and_patron_without_apparent_hosts_n_women": "integer",
+        "worker_and_patron_without_apparent_hosts_n_men": "integer",
+        "worker_and_patron_without_apparent_hosts_n_gender_unclear": "integer",
+        "worker_and_patron_without_apparent_hosts_n_younger_child": "integer",
+        "worker_and_patron_without_apparent_hosts_n_age_unclear": "integer",
+        "worker_and_patron_confirmed_nonhosts_n_women": "integer",
+        "worker_and_patron_confirmed_nonhosts_n_men": "integer",
+        "worker_and_patron_confirmed_nonhosts_n_gender_unclear": "integer",
+        "worker_and_patron_confirmed_nonhosts_n_younger_child": "integer",
+        "worker_and_patron_confirmed_nonhosts_n_age_unclear": "integer"
       }
     },
     "video_coverage": {

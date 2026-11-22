@@ -8,7 +8,14 @@ from html import escape
 from pathlib import Path
 from urllib.parse import quote
 
-from mw_youtube.codebook import BOOK, FRAME, PERSON, book_sha, dictionary_html, schema
+from mw_youtube.codebook import (
+    BOOK,
+    CONTEXT_BOOK,
+    FRAME,
+    book_sha,
+    dictionary_html,
+    schema,
+)
 from mw_youtube.records import KEY, META, save, table
 
 
@@ -67,13 +74,25 @@ def gallery(folder, out, rows):
     )
 
 
-def run(folder, out):
+def run(folder, out, catalog=None):
     rows = prepare(folder)
     out.mkdir(parents=True, exist_ok=True)
-    snapshot = {"codebook_sha256": book_sha(), "frames": rows}
+    book = CONTEXT_BOOK if catalog is not None else BOOK
+    snapshot = {"codebook_sha256": book_sha(book), "frames": rows}
+    if catalog is not None:
+        vid = rows[0]["video_id"]
+        with catalog.open() as stream:
+            items = [r for line in stream if (r := json.loads(line))["video_id"] == vid]
+        if len(items) != 1:
+            raise ValueError(f"Expected exactly one metadata record for {vid}")
+        context = {field: items[0][field] for field in book["context_fields"]}
+        body = json.dumps(context, indent=2, ensure_ascii=False) + "\n"
+        snapshot["video_context_sha256"] = hashlib.sha256(body.encode()).hexdigest()
     frozen = out / "review_manifest.json"
     if frozen.exists() and json.loads(frozen.read_text()) != snapshot:
         raise ValueError("Different codebook or images; choose a new review directory")
+    if catalog is not None:
+        save(out / "video_context.json", body)
     save(frozen, json.dumps(snapshot, indent=2) + "\n")
     for filename, records, columns in [
         (
@@ -81,14 +100,23 @@ def run(folder, out):
             rows,
             [*META, *FRAME, "n_enumerated", "evidence", "reviewer", "review_date"],
         ),
-        ("human_people.csv", [], [*KEY, "person_id", *PERSON, "cue"]),
+        ("human_people.csv", [], [*KEY, "person_id", *book["person_fields"], "cue"]),
     ]:
         if not (out / filename).exists():
             table(out / filename, records, columns)
-    save(out / "codebook.json", json.dumps(BOOK, indent=2, ensure_ascii=False) + "\n")
-    save(out / "muse_response.schema.json", json.dumps(schema(), indent=2) + "\n")
-    save(out / "codebook.html", dictionary_html())
+    save(out / "codebook.json", json.dumps(book, indent=2, ensure_ascii=False) + "\n")
+    save(out / "muse_response.schema.json", json.dumps(schema(book), indent=2) + "\n")
+    save(out / "codebook.html", dictionary_html(book))
     save(out / "human_review.html", gallery(folder, out, rows))
+    if catalog is not None:
+        page = out / "human_review.html"
+        save(
+            page,
+            page.read_text().replace(
+                "<main>",
+                '<p><a href="video_context.json">Video metadata for both coders</a></p><main>',
+            ),
+        )
     return rows
 
 
@@ -96,5 +124,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("frames", type=Path)
     parser.add_argument("output", type=Path)
+    parser.add_argument(
+        "--catalog",
+        type=Path,
+        help="Frozen video_metadata.jsonl for v4 vendor and host coding",
+    )
     args = parser.parse_args()
-    run(args.frames, args.output)
+    run(args.frames, args.output, args.catalog)

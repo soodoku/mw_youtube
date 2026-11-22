@@ -178,3 +178,10 @@ data/**/frames/**/*.tmp
 
 # The request body embeds the research JPEG. Keep it in the local call cache.
 data/**/muse/calls/*/request.json
+
+# Local browser screening frames and acquisition checkpoints.
+data/**/eligibility/**/review_*.jpg
+data/**/frames/per_minute/.lock
+data/**/frames/per_minute/*/capture_progress.json
+data/**/.collection.lock
+data/**/.eligibility.lock

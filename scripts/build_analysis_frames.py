@@ -16,10 +16,23 @@ if __name__ == "__main__":
     p.add_argument(
         "--draw", required=True, help="Short study draw name, such as pilot1"
     )
+    p.add_argument("--frame-root", type=Path)
+    p.add_argument(
+        "--host-fields",
+        action="store_true",
+        help="Include nullable v4 host/vendor counts",
+    )
     p.add_argument("--coding", type=Path, nargs="*", default=[])
     p.add_argument("--coder", choices=("muse", "human"), required=True)
     args = p.parse_args()
-    rows, coverage, hits = build(args.snapshot, args.selected, args.coding, args.coder)
+    rows, coverage, hits = build(
+        args.snapshot,
+        args.selected,
+        args.coding,
+        args.coder,
+        args.frame_root,
+        args.host_fields,
+    )
     if not coverage:
         raise SystemExit("Empty selection")
     design = json.loads((args.snapshot / "result.json").read_text())

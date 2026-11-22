@@ -22,9 +22,13 @@ Each returned row has typed timing and count fields, stable video and channel ID
 
 ## Run Delhi
 
-Open `chrome://inspect/#remote-debugging` in your signed-in YouTube Premium Chrome profile, enable remote debugging, and allow the connection when Chrome asks. If Chrome shows a port other than 9222, set `MW_YOUTUBE_CHROME_PORT` to that number. The runner opens its own watch tab, checks the Premium logo, and closes that tab after capture. The following command resumes the verified prefix of the ten-video draw. It saves the next unresolved rank in `runs/delhi10/status.json`. Without a spending cap it prepares images and blind worksheets and reuses completed annotations. See the design for the shared-ledger option for new Muse calls.
+Open `chrome://inspect/#remote-debugging` in your signed-in YouTube Premium Chrome profile, enable remote debugging, and allow the connection when Chrome asks. If Chrome shows a port other than 9222, set `MW_YOUTUBE_CHROME_PORT` to that number. The runner opens its own watch tab, checks the Premium logo, and closes that tab after capture. The current target is 30 eligible uploads. The command reuses all completed images, checkpoints each new image, and prepares vendor and host coding packets with the publisher metadata. A larger target continues the same ranked queue. New Muse calls require `--cap-usd` and use the shared v4 ledger.
 
 ```sh
-uv run --with-requirements requirements-frames.txt python scripts/run_draw.py \
-  data/delhi_2025_street_food --draw delhi10 --target 10
+uv run --with-requirements requirements-frames.txt python scripts/duration_draw.py \
+  data/delhi_2025_street_food --target 30
 ```
+
+Add `--status` to the command to get a live count of verified JPEGs and completed uploads.
+
+Each third of a video contributes one random moment per minute of its duration, rounded up and capped at ten. Thus each upload supplies 3–30 images. The images live under `frames/per_minute/VIDEO_ID/`. Each v4 review folder has the human worksheets, JSON response schema and exact video metadata supplied to Muse. A provisional manifest lists reviewed uploads while earlier ranks await adjudication. The runner freezes `selected.csv` when every preceding decision is resolved.

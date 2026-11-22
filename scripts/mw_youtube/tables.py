@@ -13,6 +13,9 @@ TABLES = json.loads((CONFIG / "analysis_tables.json").read_text())["tables"]
 def typed_rows(rows, table):
     definition = TABLES[table]
     fields = definition["fields"]
+    extra = definition.get("v4_fields", {})
+    if rows and extra.keys() & rows[0].keys():
+        fields = {**fields, **extra}
     seen = set()
     output = []
     for raw in rows:

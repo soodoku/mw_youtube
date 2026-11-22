@@ -3,6 +3,7 @@
 import json
 import re
 from datetime import date, timedelta
+from math import ceil
 from pathlib import Path
 from string import Formatter
 
@@ -107,3 +108,10 @@ def searches(city, year, topic, config=CONFIG, vocabulary=None):
                         "publishedBefore": f"{stop}T23:59:59Z",
                     },
                 }
+
+
+def frames_per_third(duration_seconds):
+    """Draw one moment per started minute in each third, capped at ten."""
+    if duration_seconds <= 0:
+        raise ValueError("Expected positive duration")
+    return min(10, ceil(duration_seconds / 180))

@@ -6,8 +6,8 @@ from collections import defaultdict
 from fractions import Fraction
 from math import ceil
 
-from .codebook import FRAME, book_sha
-from .counts import GROUPS, SCOPES, key, summarize
+from .codebook import FRAME, book_sha, frozen_context
+from .counts import GROUPS, HOST_SCOPES, SCOPES, key, summarize
 from .records import META, read
 
 
@@ -28,6 +28,7 @@ def annotations(directories, coder):
             {k: str(r[k]) for k in META} for r in manifest["frames"]
         ] != [{k: r[k] for k in META} for r in frames]:
             raise ValueError("Annotation manifest or frame identity differs")
+        frozen_context(directory, manifest, frames[0]["video_id"], archived)
         scopes = defaultdict(dict)
         for r in summarize(frames, read(directory / f"{coder}_people.csv"), archived):
             scopes[key(r)][r["scope"]] = r
@@ -48,7 +49,7 @@ def clock_time(ms):
     return f"{minutes:02d}:{sec:02d}.{millis:03d}"
 
 
-def build(snapshot, selection, directories, coder):
+def build(snapshot, selection, directories, coder, frame_root=None, host_fields=False):
     selection_sha = hashlib.sha256(
         selection.read_text(encoding="utf8").encode()
     ).hexdigest()
@@ -61,6 +62,9 @@ def build(snapshot, selection, directories, coder):
         "video_id",
     )
     labeled = annotations(directories, coder)
+    host_fields = host_fields or any(
+        "vendor" in scopes for _, scopes in labeled.values()
+    )
     design = json.loads((snapshot / "result.json").read_text())
     digest = hashlib.sha256()
     for name in ("queries.json", "search_counts.csv", "search_hits.csv"):
@@ -83,7 +87,7 @@ def build(snapshot, selection, directories, coder):
     output = []
     coverage = []
     for vid, sel in selected.items():
-        folder = snapshot / "frames" / vid
+        folder = (frame_root or snapshot / "frames") / vid
         meta = catalog[vid]
         if (
             not meta["channel_id"]
@@ -158,14 +162,16 @@ def build(snapshot, selection, directories, coder):
             grid = ceil(1000 * duration * (interval + 1) / 3) - ceil(
                 1000 * duration * interval / 3
             )
+            source = {**plan, **(item or {})}
             elapsed = (
                 Fraction(item["pts"]) * Fraction(item["time_base"])
-                - Fraction(plan["first_time"])
+                - Fraction(source["first_time"])
                 if item and item["pts"] is not None
                 else None
             )
             source_version = (
-                plan["source_sha256"]
+                source.get("source_version")
+                or source["source_sha256"]
                 or hashlib.sha256((folder / "plan.json").read_bytes()).hexdigest()
             )
             row = {
@@ -180,17 +186,17 @@ def build(snapshot, selection, directories, coder):
                 "audio_language": meta["audio_language"],
                 "view_count": meta["view_count"],
                 "metadata_retrieved_utc": meta["retrieved_utc"],
-                "source_sha256": plan["source_sha256"],
+                "source_sha256": source["source_sha256"],
                 "video_duration_s": float(duration),
                 **moment,
                 "frame_id": f"{vid}_{source_version}_{ms}",
                 "requested_time": clock_time(ms),
-                "capture_method": plan.get("capture_method", "file"),
+                "capture_method": source.get("capture_method", "file"),
                 "player_time_s": item.get("player_time_s") if item else None,
                 "displayed_time_s": float(elapsed) if elapsed is not None else None,
                 "pts": item["pts"] if item else None,
                 "time_base": item["time_base"] if item else None,
-                "source_first_time_s": plan["first_time"],
+                "source_first_time_s": source["first_time"],
                 "jpeg": item["file"] if item else None,
                 "jpeg_sha256": item["sha256"] if item else None,
                 "extracted": int(bool(item)),
@@ -207,7 +213,7 @@ def build(snapshot, selection, directories, coder):
                 **{k: frame.get(k) for k in FRAME},
                 "n_enumerated": frame.get("n_enumerated"),
             }
-            for scope in SCOPES:
+            for scope in (*SCOPES, *(HOST_SCOPES if host_fields else ())):
                 for col in GROUPS:
                     row[f"{scope}_{col}"] = counts.get(scope, {}).get(col)
             # Clearly off-site frames make zero contribution to a whole-video stall tally.

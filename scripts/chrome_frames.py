@@ -40,6 +40,10 @@ def player():
                 "enable remote debugging, and allow the connection in Chrome."
             ) from exc
         page = browser.contexts[0].new_page()
+        # Limit foreground emulation to our tab so playback can buffer while the
+        # researcher uses Finder. Other tabs keep their native focus behavior.
+        session = page.context.new_cdp_session(page)
+        session.send("Emulation.setFocusEmulationEnabled", {"enabled": True})
         try:
             yield page
         finally:
@@ -49,8 +53,10 @@ def player():
 def require_premium(page):
     # The membership logo is public UI. No account identifiers enter the ledger.
     logo = page.locator(
-        "#masthead #logo[aria-label*='premium' i], #masthead #logo[title*='premium' i], "
+        "a[title*='YouTube Premium' i], #masthead #logo[aria-label*='premium' i], "
+        "#masthead #logo[title*='premium' i], "
         "#masthead #logo [aria-label*='premium' i], #masthead #logo [title*='premium' i], "
+        "ytd-topbar-logo-renderer a#logo svg[id^='yt-ringo2-red-svg']:visible, "
         "#masthead #logo [icon*='premium' i], #masthead #logo svg title:text-matches('Premium','i')"
     ).first
     try:
@@ -107,17 +113,41 @@ def watch(page, vid, expected):
 
 def capture(page, vid, expected, seconds, path):
     target = "https://www.youtube.com/watch?v=" + vid
-    # Timestamped watch links let the player buffer close to the sampled instant.
-    page.goto("about:blank")
-    page.goto(
-        target + "&t=" + str(int(seconds)) + "s",
-        wait_until="domcontentloaded",
-        timeout=35000,
-    )
+    # Warm the buffer around the target with the normal player control. Reloading
+    # a timestamped watch link is slower but recovers a stalled or changed page.
+    warmed = False
+    if isinstance(page.url, str) and page.url.split("&")[0] == target:
+        try:
+            page.evaluate(
+                """t => {
+                const player=document.getElementById('movie_player');
+                player.seekTo(t,true); player.playVideo();
+            }""",
+                seconds,
+            )
+            page.wait_for_function(
+                """t => {
+                const v=document.querySelector('#movie_player video');
+                return v && !v.seeking && v.readyState>=2 && Math.abs(v.currentTime-t)<3;
+            }""",
+                arg=seconds,
+                polling=100,
+                timeout=7000,
+            )
+            warmed = True
+        except PlaywrightError:
+            pass
+    if not warmed:
+        page.goto("about:blank")
+        page.goto(
+            target + "&t=" + str(int(seconds)) + "s",
+            wait_until="domcontentloaded",
+            timeout=35000,
+        )
     require_premium(page)
     video = content_video(page, expected)
 
-    # A completed media seek followed by repaint yields displayed pixels; the player
+    # A completed media seek yields the current video pixels; the player
     # time is an observation from Chrome rather than a decoder presentation timestamp.
     frame = video.evaluate(
         """async (v,[t,expectedId,expectedDuration]) => {
@@ -130,7 +160,7 @@ def capture(page, vid, expected, seconds, path):
         });
       }
       v.pause();
-      await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));
+      // drawImage(video) reads the frame at the current playback position, even in a hidden tab.
       if(v.readyState<2 || v.seeking) throw Error('No rendered media after seek');
       const player = v.closest('#movie_player');
       const url = player?.getVideoUrl?.();
@@ -152,13 +182,19 @@ def capture(page, vid, expected, seconds, path):
     return frame["t"]
 
 
-def review(snapshot, out, first, last):
+def review(
+    snapshot, out, first, last, ranks=None, fractions=(0.03, 0.20, 0.45, 0.68, 0.88)
+):
+    if not fractions or any(not 0 < f < 1 for f in fractions):
+        raise ValueError("Screening fractions must lie inside the recording")
     out.mkdir(parents=True, exist_ok=True)
     with (snapshot / "screening.csv").open(newline="") as f:
         rows = list(csv.DictReader(f))
     with player() as page:
         for row in rows:
             rank = int(row["video_rank"])
+            if ranks and rank not in ranks:
+                continue
             if not first <= rank <= last or row["decision"] in {
                 "excluded",
                 "unavailable",
@@ -172,7 +208,7 @@ def review(snapshot, out, first, last):
             try:
                 duration = watch(page, vid, duration_seconds(row["duration"]))
                 moments = []
-                for i, fraction in enumerate((0.03, 0.20, 0.45, 0.68, 0.88)):
+                for i, fraction in enumerate(fractions):
                     t = duration * fraction
                     file = f"review_{i}.jpg"
                     displayed = capture(page, vid, duration, t, folder / file)
@@ -206,5 +242,11 @@ if __name__ == "__main__":
     parser.add_argument("output", type=Path)
     parser.add_argument("--first", type=int, required=True)
     parser.add_argument("--last", type=int, required=True)
+    parser.add_argument("--ranks", type=int, nargs="+")
+    parser.add_argument(
+        "--fractions", type=float, nargs="+", default=(0.03, 0.20, 0.45, 0.68, 0.88)
+    )
     args = parser.parse_args()
-    review(args.snapshot, args.output, args.first, args.last)
+    review(
+        args.snapshot, args.output, args.first, args.last, args.ranks, args.fractions
+    )
