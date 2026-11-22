@@ -185,3 +185,6 @@ data/**/frames/per_minute/.lock
 data/**/frames/per_minute/*/capture_progress.json
 data/**/.collection.lock
 data/**/.eligibility.lock
+
+# Local versioned review packets and API caches. Joined annotations are published.
+data/**/coding_v5/

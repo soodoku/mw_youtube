@@ -11,7 +11,7 @@ from mw_youtube.codebook import book_sha, frozen_context, prompt, schema, valida
 from mw_youtube.records import save
 
 
-def run(folder, out, cap, ledger=None):
+def run(folder, out, cap, ledger=None, only=None):
     from museclient import Client
 
     rows = prepare(folder)
@@ -32,6 +32,8 @@ def run(folder, out, cap, ledger=None):
     )
     frames, people = [], []
     for row in rows:
+        if only is not None and row["jpeg"] not in only:
+            continue
         image = base64.b64encode((folder / row["jpeg"]).read_bytes()).decode("ascii")
         content = [
             {"type": "text", "text": instruction},
@@ -75,6 +77,8 @@ def run(folder, out, cap, ledger=None):
             json.dumps({"frame": frame, "sightings": answer["sightings"]}, indent=2)
             + "\n",
         )
+    if only is not None:
+        return
     table(
         out / "muse_frames.csv",
         frames,

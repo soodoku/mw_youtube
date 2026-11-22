@@ -32,3 +32,19 @@ uv run --with-requirements requirements-frames.txt python scripts/duration_draw.
 Add `--status` to the command to get a live count of verified JPEGs and completed uploads.
 
 Each third of a video contributes one random moment per minute of its duration, rounded up and capped at ten. Thus each upload supplies 3–30 images. The images live under `frames/per_minute/VIDEO_ID/`. Each v4 review folder has the human worksheets, JSON response schema and exact video metadata supplied to Muse. A provisional manifest lists reviewed uploads while earlier ranks await adjudication. The runner freezes `selected.csv` when every preceding decision is resolved.
+
+## Code eating and drinking
+
+The contributor model receives one JPEG and the frozen publisher metadata for its video. Each sighting has a venue link, visible action, apparent age/gender group, service role, and presenter status. Someone selling a meal can also be eating or presenting. The [coding dictionary](config/stall_frame_codebook_v5.json) specifies the visual evidence for each label. The [response schema](config/stall_frame_v5_response.schema.json) is generated from that dictionary.
+
+```sh
+snapshot=data/delhi_2025_street_food
+client='museclient @ git+https://github.com/gojiplus/museclient@2063b1bb1b58a396509b2ca0f3ca52c27138a648'
+uv run --no-project --with "$client" python scripts/code_dining_draw.py \
+  "$snapshot" "$snapshot/selected_30.csv" --cap-usd 1
+python3 scripts/summarize_dining.py \
+  "$snapshot/analysis/delhi30_per_minute/muse/delhi_2025_street_food_delhi30_per_minute_muse_frames.csv" \
+  "$snapshot/coding_v5" "$snapshot/analysis/delhi30_dining/muse"
+```
+
+For the ten-frame check, add `--pilot "$snapshot/runs/delhi30_per_minute/dining_pilot.json"` to the coding command. The full run reuses the successful pilot responses. All calls share the cap and ledger. Each completed frame has a receipt. The analysis requires a receipt for every sampled frame and checks its JPEG fingerprint, model, and codebook. The exports link to the source video at the sampled instant.

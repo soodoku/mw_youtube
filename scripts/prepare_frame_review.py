@@ -66,7 +66,8 @@ def gallery(folder, out, rows):
         "<style>body{font:16px system-ui;margin:2rem}main{display:grid;"
         "grid-template-columns:repeat(auto-fit,minmax(min(100%,25rem),1fr));gap:1rem}"
         "img{width:100%}figure{margin:0}figcaption{margin:.4rem 0}</style>"
-        f"<h1>Frame review · {vid}</h1><p>Record setting, shot, service area and quality "
+        f"<h1>Frame review · {vid}</h1><p>Record setting, shot, "
+        "service area and quality "
         'in the <a href="human_frames.csv">frame sheet</a> and each visible person '
         'in the <a href="human_people.csv">sightings sheet</a>. '
         'Read the <a href="codebook.html">coding dictionary</a>. Select an '
@@ -74,10 +75,11 @@ def gallery(folder, out, rows):
     )
 
 
-def run(folder, out, catalog=None):
+def run(folder, out, catalog=None, book=None):
     rows = prepare(folder)
     out.mkdir(parents=True, exist_ok=True)
-    book = CONTEXT_BOOK if catalog is not None else BOOK
+    if book is None:
+        book = CONTEXT_BOOK if catalog is not None else BOOK
     snapshot = {"codebook_sha256": book_sha(book), "frames": rows}
     if catalog is not None:
         vid = rows[0]["video_id"]
@@ -114,7 +116,8 @@ def run(folder, out, catalog=None):
             page,
             page.read_text().replace(
                 "<main>",
-                '<p><a href="video_context.json">Video metadata for both coders</a></p><main>',
+                '<p><a href="video_context.json">Video metadata for both coders'
+                "</a></p><main>",
             ),
         )
     return rows
